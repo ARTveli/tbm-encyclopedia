@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Каталог",
       "path": "Каталог.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TBM-51",
       "path": "Альбоми/TBM-51.md"
-    },
-    {
-      "basename": "TBM-50",
-      "path": "Альбоми/TBM-50.md"
     }
   ],
   "omittedPaths": [],
