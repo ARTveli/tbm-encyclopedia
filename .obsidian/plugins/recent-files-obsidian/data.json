@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Передмова",
+      "path": "Передмова.md"
+    },
+    {
+      "basename": "TBM(P)-1801-2",
+      "path": "Альбоми/TBM(P)-1801-2.md"
+    },
+    {
+      "basename": "TBM-1004",
+      "path": "Альбоми/TBM-1004.md"
+    },
+    {
+      "basename": "TBM-1002-3",
+      "path": "Альбоми/TBM-1002-3.md"
+    },
+    {
+      "basename": "3",
+      "path": "TBM-1002/3.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
       "basename": "TBM-1",
       "path": "Альбоми/TBM-1.md"
     },
     {
       "basename": "TBM-1_liner",
       "path": "Liner_Notes/TBM-1_liner.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-24",
@@ -85,20 +105,8 @@
       "path": "Альбоми/TBM-3001.md"
     },
     {
-      "basename": "TBM(P)-1801-2",
-      "path": "Альбоми/TBM(P)-1801-2.md"
-    },
-    {
       "basename": "TBM-1005",
       "path": "Альбоми/TBM-1005.md"
-    },
-    {
-      "basename": "TBM-1004",
-      "path": "Альбоми/TBM-1004.md"
-    },
-    {
-      "basename": "TBM-1002-3",
-      "path": "Альбоми/TBM-1002-3.md"
     },
     {
       "basename": "TBM-1001",
@@ -191,14 +199,6 @@
     {
       "basename": "TBM-57",
       "path": "Альбоми/TBM-57.md"
-    },
-    {
-      "basename": "TBM-56",
-      "path": "Альбоми/TBM-56.md"
-    },
-    {
-      "basename": "TBM-54",
-      "path": "Альбоми/TBM-54.md"
     }
   ],
   "omittedPaths": [],
