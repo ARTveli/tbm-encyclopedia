@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Передмова",
-      "path": "Передмова.md"
+      "basename": "TBM-8",
+      "path": "Альбоми/TBM-8.md"
     },
     {
       "basename": "Каталог",
       "path": "Каталог.md"
+    },
+    {
+      "basename": "TBM-1",
+      "path": "Альбоми/TBM-1.md"
+    },
+    {
+      "basename": "Хронологія",
+      "path": "Хронологія.md"
+    },
+    {
+      "basename": "Передмова",
+      "path": "Передмова.md"
     },
     {
       "basename": "PAP-25042",
@@ -39,10 +51,6 @@
     {
       "basename": "TBM-1002-3",
       "path": "Альбоми/TBM-1002-3.md"
-    },
-    {
-      "basename": "TBM-1",
-      "path": "Альбоми/TBM-1.md"
     },
     {
       "basename": "TBM-1_liner",
@@ -191,10 +199,6 @@
     {
       "basename": "TBM-61",
       "path": "Альбоми/TBM-61.md"
-    },
-    {
-      "basename": "TBM-62",
-      "path": "Альбоми/TBM-62.md"
     }
   ],
   "omittedPaths": [],
