@@ -5,6 +5,30 @@
       "path": "Передмова.md"
     },
     {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
+      "basename": "PAP-25042",
+      "path": "Альбоми/PAP-25042.md"
+    },
+    {
+      "basename": "PAP-25021",
+      "path": "Альбоми/PAP-25021.md"
+    },
+    {
+      "basename": "Артист — Кенджі Нішіяма",
+      "path": "Артисти/Артист — Кенджі Нішіяма.md"
+    },
+    {
+      "basename": "TBM(P)-5023",
+      "path": "Альбоми/TBM(P)-5023.md"
+    },
+    {
+      "basename": "TBM-3009",
+      "path": "Альбоми/TBM-3009.md"
+    },
+    {
       "basename": "TBM(P)-1801-2",
       "path": "Альбоми/TBM(P)-1801-2.md"
     },
@@ -19,10 +43,6 @@
     {
       "basename": "3",
       "path": "TBM-1002/3.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-1",
@@ -67,10 +87,6 @@
     {
       "basename": "TBM-4001",
       "path": "Альбоми/TBM-4001.md"
-    },
-    {
-      "basename": "TBM-3009",
-      "path": "Альбоми/TBM-3009.md"
     },
     {
       "basename": "TBM-3008",
@@ -183,22 +199,6 @@
     {
       "basename": "TBM-62",
       "path": "Альбоми/TBM-62.md"
-    },
-    {
-      "basename": "TBM-60",
-      "path": "Альбоми/TBM-60.md"
-    },
-    {
-      "basename": "TBM-59",
-      "path": "Альбоми/TBM-59.md"
-    },
-    {
-      "basename": "TBM-58",
-      "path": "Альбоми/TBM-58.md"
-    },
-    {
-      "basename": "TBM-57",
-      "path": "Альбоми/TBM-57.md"
     }
   ],
   "omittedPaths": [],
