@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "TBM-24",
-      "path": "Альбоми/TBM-24.md"
+      "basename": "TBM-1",
+      "path": "Альбоми/TBM-1.md"
+    },
+    {
+      "basename": "TBM-1_liner",
+      "path": "Liner_Notes/TBM-1_liner.md"
     },
     {
       "basename": "Каталог",
       "path": "Каталог.md"
+    },
+    {
+      "basename": "TBM-24",
+      "path": "Альбоми/TBM-24.md"
     },
     {
       "basename": "index",
@@ -191,14 +199,6 @@
     {
       "basename": "TBM-54",
       "path": "Альбоми/TBM-54.md"
-    },
-    {
-      "basename": "TBM-53",
-      "path": "Альбоми/TBM-53.md"
-    },
-    {
-      "basename": "TBM-52",
-      "path": "Альбоми/TBM-52.md"
     }
   ],
   "omittedPaths": [],

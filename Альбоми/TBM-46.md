@@ -67,15 +67,8 @@ cover: covers/TBM-46.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-46"
-```
+
+- [[Liner_Notes/TBM-46_liner|Такеші Фудзії (Takeshi Fujii) (1975) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

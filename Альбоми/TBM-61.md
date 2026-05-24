@@ -82,15 +82,8 @@ cover: covers/TBM-61.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-61"
-```
+
+- [[Liner_Notes/TBM-61_liner|Такео Фудзії (1976) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

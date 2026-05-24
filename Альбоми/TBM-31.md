@@ -63,15 +63,8 @@ cover: covers/TBM-31.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-31"
-```
+
+- [[Liner_Notes/TBM-31_liner|(1974) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

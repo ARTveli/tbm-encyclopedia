@@ -73,15 +73,8 @@ cover: covers/TBM-76.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-76"
-```
+
+- [[Liner_Notes/TBM-76_liner|(1976) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

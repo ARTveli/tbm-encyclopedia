@@ -78,15 +78,8 @@ cover: covers/TBM-8.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-8"
-```
+
+- [[Liner_Notes/TBM-8_liner|(1971) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

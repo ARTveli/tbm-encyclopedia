@@ -91,15 +91,8 @@ cover: covers/TBM-30.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-30"
-```
+
+- [[Liner_Notes/TBM-30_liner|Хідекі Сато (1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

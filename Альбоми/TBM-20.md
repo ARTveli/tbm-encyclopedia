@@ -69,15 +69,8 @@ cover: covers/TBM-20.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-20"
-```
+
+- [[Liner_Notes/TBM-20_liner|(1973) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

@@ -29,7 +29,7 @@ tags:
 - artist/Квінтет Косуке Міне
 cover: covers/TBM-1.jpg
 ---
-
+	
 ![[covers/TBM-1.jpg|400]]
 
 # TBM-1 — Mine
@@ -72,15 +72,8 @@ cover: covers/TBM-1.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-1"
-```
+
+- [[Liner_Notes/TBM-1_liner|Шоїчі Юї (1970) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

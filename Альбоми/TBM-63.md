@@ -78,15 +78,8 @@ cover: covers/TBM-63.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-63"
-```
+
+- [[Liner_Notes/TBM-63_liner|(1976) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

@@ -84,15 +84,8 @@ cover: covers/TBM-23.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-23"
-```
+
+- [[Liner_Notes/TBM-23_liner|Йошіо Макі (1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

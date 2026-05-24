@@ -62,15 +62,8 @@ cover: covers/TBM-35.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-35"
-```
+
+- [[Liner_Notes/TBM-35_liner|(1974)]]
 
 ## Рецензія
 

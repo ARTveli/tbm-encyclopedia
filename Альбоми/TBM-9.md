@@ -83,15 +83,8 @@ cover: covers/TBM-9.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-9"
-```
+
+- [[Liner_Notes/TBM-9_liner|(1963) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 

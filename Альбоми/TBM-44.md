@@ -68,15 +68,8 @@ cover: covers/TBM-44.jpg
 ---
 
 ## Liner Notes (переклади)
-```dataview
-TABLE WITHOUT ID
-  file.link as "Текст",
-  original_author as "Автор",
-  translator as "Перекладач",
-  year as "Рік"
-FROM "Liner_Notes"
-WHERE catalog = "TBM-44"
-```
+
+- [[Liner_Notes/TBM-44_liner|Осаму Учіди (Osamu Uchida) (1975) — пер. Юко М. DARWEN]]
 
 ## Рецензія
 
