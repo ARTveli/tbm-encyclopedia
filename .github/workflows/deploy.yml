@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout vault
         uses: actions/checkout@v4
+        with:
+          path: vault
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,16 +30,21 @@ jobs:
 
       - name: Clone Quartz
         run: |
-          git clone https://github.com/jackyzha0/quartz.git quartz
+          git clone https://github.com/jackyzha0/quartz.git
           cd quartz
           rm -rf .github content
-          ln -s "$GITHUB_WORKSPACE" content
           npm ci
+
+      - name: Copy vault to Quartz content
+        run: |
+          cp -r vault quartz/content
+          rm -rf quartz/content/.github
+          rm -rf quartz/content/.git
 
       - name: Apply custom Quartz config
         run: |
-          cp $GITHUB_WORKSPACE/.github/quartz/quartz.config.ts quartz/quartz.config.ts
-          cp $GITHUB_WORKSPACE/.github/quartz/quartz.layout.ts quartz/quartz.layout.ts
+          cp vault/.github/quartz/quartz.config.ts quartz/quartz.config.ts
+          cp vault/.github/quartz/quartz.layout.ts quartz/quartz.layout.ts
 
       - name: Build Quartz
         run: |
