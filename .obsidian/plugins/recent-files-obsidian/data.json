@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
       "basename": "TBM-23",
       "path": "Альбоми/TBM-23.md"
     },
     {
       "basename": "TBM-3007",
       "path": "Альбоми/TBM-3007.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Інтерв'ю з Такеші Фуджі",
@@ -39,10 +43,6 @@
     {
       "basename": "TBM-8",
       "path": "Альбоми/TBM-8.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-1",
