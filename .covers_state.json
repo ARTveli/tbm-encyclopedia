@@ -1,0 +1,702 @@
+{
+  "TBM-1": {
+    "status": "ok",
+    "url": "https://i.discogs.com/6Fc2eT4zM-ijQVS0WZxB3TBI2GQcNb9GjOopZQmvdqM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc4/MjItMTU0NzM5NjAx/Mi0xODM0LmpwZWc.jpeg",
+    "release_id": 1577822
+  },
+  "TBM-2": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0o9fp-INdZOpWlXnU4o1pO7ifa4Gpv9SuH6bqUFUzpc/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY5/ODExLTE3MzUyMzQ3/MTYtMzc0MC5qcGVn.jpeg",
+    "release_id": 32669811
+  },
+  "TBM-3": {
+    "status": "ok",
+    "url": "https://i.discogs.com/7HK5D1SVB_Gq4Jn6rjf1BahXfkRO_k20IRNvgHeUkLY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjQ4/ODctMTUzOTU1MjEw/MS05NTMxLmpwZWc.jpeg",
+    "release_id": 6524887
+  },
+  "TBM-4": {
+    "status": "ok",
+    "url": "https://i.discogs.com/jocQ-gcLF_nt0RMCmo4NmgzCGRNSfCnVmjHQjs6u4V8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTY2/OTExLTE2MDEwNjEz/MTQtNjAzNi5qcGVn.jpeg",
+    "release_id": 15966911
+  },
+  "TBM-5": {
+    "status": "ok",
+    "url": "https://i.discogs.com/zIeLiIgyNo9eZGFjtAwWJdnnW-PqggS5Sj8V_oK4Kd8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjgy/MzItMTY3MzA0NjM0/NS02MzYzLmpwZWc.jpeg",
+    "release_id": 4168232
+  },
+  "TBM-6": {
+    "status": "ok",
+    "url": "https://i.discogs.com/6wLnMt5KnXu6pA0JXUzJrScHljA2a4NrruR2U2aXeUc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDQz/NjItMTYxOTc0NjM2/NC05OTQzLmpwZWc.jpeg",
+    "release_id": 4004362
+  },
+  "TBM-7": {
+    "status": "ok",
+    "url": "https://i.discogs.com/7YgQwDL7N8JHMIrgPkzjAhu8jS5yJH9PExQiCtqjGEg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA3/NTAtMTM0OTI4MTUy/NC01Mzc2LmpwZWc.jpeg",
+    "release_id": 3920750
+  },
+  "TBM-8": {
+    "status": "ok",
+    "url": "https://i.discogs.com/8mET8LJG3-DNZnBw-4exYXm7XVGXyiLPHD8t8-x9bpQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTI2/NDEtMTU4MzM2MzI3/OC0xOTQ3LmpwZWc.jpeg",
+    "release_id": 6392641
+  },
+  "TBM-9": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Pr_eiG0gOMUnmNzmVI0Hg8Ey89-BUn9KDS6Z4z3apP8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDY4/NDQtMTY3ODU0OTk1/OS0xOTkyLmpwZWc.jpeg",
+    "release_id": 8006844
+  },
+  "TBM-10": {
+    "status": "ok",
+    "url": "https://i.discogs.com/vsRc6hNmqEGTJVrYapETxoP3CHZncNNCC9yJdd1JoG4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYz/NjU5LTE2MzQ3MzQ3/NzAtNjA4NS5qcGVn.jpeg",
+    "release_id": 20663659
+  },
+  "TBM-11": {
+    "status": "ok",
+    "url": "https://i.discogs.com/77gDXnF1bSL-9c1fSo7hkzp-dDYOiIRr71swwnK2_os/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjM2/MDUtMTY0MjAxMzY2/Ni05MDk4LnBuZw.jpeg",
+    "release_id": 4123605
+  },
+  "TBM-12": {
+    "status": "missing"
+  },
+  "TBM-13": {
+    "status": "ok",
+    "url": "https://i.discogs.com/r80-qnmMgHVhljC0zEvZ5aF722we-xru9lfw5Jgh1r0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTE1/MDgtMTYyNzM2OTQ3/OS02NTYwLmpwZWc.jpeg",
+    "release_id": 4251508
+  },
+  "TBM-14": {
+    "status": "ok",
+    "url": "https://i.discogs.com/pFYj9pkq6vWmyj29n7QzvtMnLolcHwqsh2aS4Pck8uI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTAz/NTYtMTYyNzQ4NDI4/OS0xMzcwLmpwZWc.jpeg",
+    "release_id": 3990356
+  },
+  "TBM-15": {
+    "status": "ok",
+    "url": "https://i.discogs.com/LBau1siqAFFT5a4ZFM-WLkYWVri4QR9rg0tEtx-BGBE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NTE5/ODU1LTE2NzE1NTMx/NzQtODM2MS5qcGVn.jpeg",
+    "release_id": 25519855
+  },
+  "TBM-16": {
+    "status": "ok",
+    "url": "https://i.discogs.com/dZ8qjUQRTTLo_moUM9y7QyywA756ffwsfIWQkDAutHE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTU5/MTItMTcyNTk5NTI1/Mi05MTQ4LmpwZWc.jpeg",
+    "release_id": 4615912
+  },
+  "TBM-17": {
+    "status": "ok",
+    "url": "https://i.discogs.com/pO6360sIuRrtcRJpVF1erEbGqF6hf1K9wMWRZTJGRbc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODU3/MzA4LTE2NDk3ODQz/NzUtOTg2NS5qcGVn.jpeg",
+    "release_id": 22857308
+  },
+  "TBM-18": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Ciz9J7f_V0AhTjFvZ5uXFAtylKMQcHhihT35dAzfMBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODIx/NzA3LTE1ODIyNjMw/OTItMTUyMS5qcGVn.jpeg",
+    "release_id": 14821707
+  },
+  "TBM-19": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0J2yXvmb75BEFeyrZ-lw9ksDMOzRVPaCHkoiqwn2pAk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjk3/NjMzLTE1MjA5MDM5/MTgtMzUxOC5qcGVn.jpeg",
+    "release_id": 11697633
+  },
+  "TBM-20": {
+    "status": "ok",
+    "url": "https://i.discogs.com/m10FK2kwOeMfX0Gfz_Xxi6F6Li1KJ9h77q19_5v0O7w/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNDk5/NjMtMTU1NjQ1MTg0/MC05NDU5LmpwZWc.jpeg",
+    "release_id": 5249963
+  },
+  "TBM-21": {
+    "status": "ok",
+    "url": "https://i.discogs.com/r9PnFPl7KnA_nNql6vJ511OFY0tptetf2-yk_-XTox4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjE5/MTgtMTYzMTUzMTY2/Ny02NjkwLmpwZWc.jpeg",
+    "release_id": 4361918
+  },
+  "TBM-22": {
+    "status": "ok",
+    "url": "https://i.discogs.com/eWf3kskfg6SJ-0clOCFzEJ12oS7KbK4BIqKaJTCVdVE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA5/MjgtMTU1OTYyMzcz/MC01NzM5LmpwZWc.jpeg",
+    "release_id": 7120928
+  },
+  "TBM-23": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0o9fp-INdZOpWlXnU4o1pO7ifa4Gpv9SuH6bqUFUzpc/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY5/ODExLTE3MzUyMzQ3/MTYtMzc0MC5qcGVn.jpeg",
+    "release_id": 32669811
+  },
+  "TBM-24": {
+    "status": "ok",
+    "url": "https://i.discogs.com/L6HFipIZn9coKnx7NU0FvXQAbDhOSUuwZztA1IiQUz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NTgx/MzctMTM0NzEyNjAx/NS04NDM2LmpwZWc.jpeg",
+    "release_id": 3858137
+  },
+  "TBM-25": {
+    "status": "ok",
+    "url": "https://i.discogs.com/xYuzTr-3DhlraalBOH3HnbOi04wyHOkMkMSRR9dWcaI/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTcx/ODI4LTE3MDkzMjUw/NTEtMTc2MS5qcGVn.jpeg",
+    "release_id": 29971828
+  },
+  "TBM-26": {
+    "status": "ok",
+    "url": "https://i.discogs.com/XWg52RP8EWk0uxIX9ubG33d01I2nKTDj7W2PDDSzNN8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzQw/NjUxLTE1ODA2NjIy/MTUtNTM2OS5qcGVn.jpeg",
+    "release_id": 14740651
+  },
+  "TBM-27": {
+    "status": "ok",
+    "url": "https://i.discogs.com/olWwOS_k3vt98M-Fty9xAhmldf5OTeF9SRcx3GVwv0Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ3/MDEzLTE2OTIwOTE3/MjAtMTYzOS5qcGVn.jpeg",
+    "release_id": 24847013
+  },
+  "TBM-28": {
+    "status": "ok",
+    "url": "https://i.discogs.com/dY7YI188R8Y8iMv6yJjhvlqBs797w7gBvd5yYTOcgxc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDk0/NzUtMTU1Nzg1ODIw/OC0xNDk3LmpwZWc.jpeg",
+    "release_id": 2949475
+  },
+  "TBM-29": {
+    "status": "ok",
+    "url": "https://i.discogs.com/S-0Ion1ZQ6JR4E8E2ZQ6goQjRUk_TKoN3Y0NnOxkAYc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDU4/MTItMTM5NzgyNDg3/OC03MDI5LmpwZWc.jpeg",
+    "release_id": 5605812
+  },
+  "TBM-30": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ibfxRyZ6KtBTFOv15AKrI8lOPOFTk45kci9zUYsQAXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDk0/NDEtMTY3NDkzNDE5/MC04NjM5LmpwZWc.jpeg",
+    "release_id": 6149441
+  },
+  "TBM-31": {
+    "status": "ok",
+    "url": "https://i.discogs.com/TwkepBMdMsIs9zPoTgYaoAXomWEvB8uRmW-4MTfj-Ws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjk3/NzQtMTUyMzUzMTk3/OS04NjkyLmpwZWc.jpeg",
+    "release_id": 4169774
+  },
+  "TBM-32": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ZQw7YyfoP70kagbxVuvFZBgUgmVRBAlzAe6MYkMqO5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzI0/OTM5LTE2OTIwOTE1/MTctMjk3NS5qcGVn.jpeg",
+    "release_id": 15324939
+  },
+  "TBM-33": {
+    "status": "ok",
+    "url": "https://i.discogs.com/k-4m78nUApo3zgBosw2YhrXd3SIcW0z-sMg9ldLGBQA/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU0/OTM5LTE2MzQzMzAz/NjEtMTY4Ni5qcGVn.jpeg",
+    "release_id": 20554939
+  },
+  "TBM-35": {
+    "status": "ok",
+    "url": "https://i.discogs.com/S5kOLQzwTlHsQb44u2zpFPqulRlTzc2dH7rfQ9LEvG4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTg5/OTctMTU1ODMwNDc1/NS0yNzMyLmpwZWc.jpeg",
+    "release_id": 4358997
+  },
+  "TBM-36": {
+    "status": "ok",
+    "url": "https://i.discogs.com/qG_13w2ETFllGkwFjcuHIJpHP5b17KV8wtSeUWlc9rs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTA5/NTctMTUyMzUzMjc5/NS04MjkyLmpwZWc.jpeg",
+    "release_id": 2610957
+  },
+  "TBM-37": {
+    "status": "ok",
+    "url": "https://i.discogs.com/2fFLTPtDzITLNZMZ3-qTDzlayp7v2dEswchVtjLjqUQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNDkw/MzExLTE2NTQ1NTEw/MTUtNDY1NC5qcGVn.jpeg",
+    "release_id": 23490311
+  },
+  "TBM-38": {
+    "status": "ok",
+    "url": "https://i.discogs.com/phO1nXh3CcNP2IPin7NkRqx5GzmSzksgY-Sb1h_XZg4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTgw/NTQtMTU1MTYyMTg4/My0zMzI2LmpwZWc.jpeg",
+    "release_id": 4218054
+  },
+  "TBM-39": {
+    "status": "ok",
+    "url": "https://i.discogs.com/9KrA92cF5A8kX7FhRsffME5T7lOvOQRRKynznOKbp6Y/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzOTYy/ODItMTQ3OTgyNzg2/OS05NDc2LmpwZWc.jpeg",
+    "release_id": 9396282
+  },
+  "TBM-40": {
+    "status": "ok",
+    "url": "https://i.discogs.com/I6V_OrLKUKS_i7WwqcljwP722tQ3yDIca_nG0ZD1TdE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ2/OTgwLTE2NjcwODk0/NDQtNzczMC5qcGVn.jpeg",
+    "release_id": 24846980
+  },
+  "TBM-41": {
+    "status": "ok",
+    "url": "https://i.discogs.com/TQfbz-NxUMKqSg29SrkFW3yGAw3USSFznfRkra8S8pg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NDcz/NDItMTU1Nzg1ODQz/NC01OTc3LmpwZWc.jpeg",
+    "release_id": 2747342
+  },
+  "TBM-43": {
+    "status": "ok",
+    "url": "https://i.discogs.com/hzGuYcszlEzTqIfUxFaiNWiPyi7tyrDAvGKD10fCvz4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjM2/NDQtMTU1ODAwNDAx/Ni02MDQ0LmpwZWc.jpeg",
+    "release_id": 4123644
+  },
+  "TBM-44": {
+    "status": "ok",
+    "url": "https://i.discogs.com/9vJFLTVQ6oagg0Iw4rGeDe9PBfbOCLO5fdLO3AT5-EA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc4/MzEtMTQ5NDIxMDkx/Ni02NjA5LmpwZWc.jpeg",
+    "release_id": 1577831
+  },
+  "TBM-45": {
+    "status": "ok",
+    "url": "https://i.discogs.com/dP5iXGHHZYYvFjxGtcICxCwP5nD7ULCjIiLF2AYsZ9E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NDY2/MjMtMTQxMDA0OTA5/Ni0yMTg2LmpwZWc.jpeg",
+    "release_id": 4946623
+  },
+  "TBM-46": {
+    "status": "ok",
+    "url": "https://i.discogs.com/5cZHB6oWRhdlte9Ug7QJEboPgMX1I0N5XVFqSa72RdA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzcw/NzUzLTE2MTg4NjA4/MzUtNTI5NS5qcGVn.jpeg",
+    "release_id": 18370753
+  },
+  "TBM-47": {
+    "status": "ok",
+    "url": "https://i.discogs.com/gXeRpbyvXRbd51FxrSdm7wz1Voyb1bSqadN2o_qeUI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTM4/NjcwLTE2MTc4NzMx/MjItNzE4OS5qcGVn.jpeg",
+    "release_id": 18138670
+  },
+  "TBM-48": {
+    "status": "ok",
+    "url": "https://i.discogs.com/WUdVhHgc6r6vkCmbJEgeGQTiIDfPgckt6XzOjlT6Brg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDky/NTMyLTE2MjM0MjIy/NDYtOTgxMS5qcGVn.jpeg",
+    "release_id": 19092532
+  },
+  "TBM-49": {
+    "status": "ok",
+    "url": "https://i.discogs.com/IrCVUWg_ayYj9O57uTVer7RcIzW2sAAWkC1gF5aN1yQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEw/NzYyLTE2NjE5NzY0/NDMtMjE0Ni5qcGVn.jpeg",
+    "release_id": 14910762
+  },
+  "TBM-50": {
+    "status": "ok",
+    "url": "https://i.discogs.com/omj8rD-_fhS-TIjdsy9jw8IoZ13oFRP1JSE_GZs0Qog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDQw/NDU4LTE2Nzk5Mzc1/NDgtNDAyNC5qcGVn.jpeg",
+    "release_id": 14040458
+  },
+  "TBM-51": {
+    "status": "ok",
+    "url": "https://i.discogs.com/8EVx-9t2S1WcHdBYwMUtdedusIH_TpvQKY1o8x1_JB0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTMx/OTctMTYzMjA2NDU1/NS02OTAwLmpwZWc.jpeg",
+    "release_id": 4913197
+  },
+  "TBM-52": {
+    "status": "ok",
+    "url": "https://i.discogs.com/yoM7GBE7lkQmJP8W6SQJ6DCH0NWc-q_gGpUFSAmZE8U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Mzk1/MzQwLTE2NzA0MjE2/MTEtOTMwMS5qcGVn.jpeg",
+    "release_id": 25395340
+  },
+  "TBM-53": {
+    "status": "ok",
+    "url": "https://i.discogs.com/kJ4N8e3Q62wl43HaUFKlG02jHaDcMN6Vw8WDUZqZZ5A/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODI4/MTMtMTU1OTU4OTQ0/MC01OTY0LmpwZWc.jpeg",
+    "release_id": 4582813
+  },
+  "TBM-54": {
+    "status": "ok",
+    "url": "https://i.discogs.com/-I2ijNcizb1RSr5Uh1GmHebYE3SJE7bDnxU58n09pEg/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDYz/NTEzLTE2NTI2NDQ5/ODktMTc0Ny5qcGVn.jpeg",
+    "release_id": 11063513
+  },
+  "TBM-56": {
+    "status": "ok",
+    "url": "https://i.discogs.com/cgjVdAA4fmSZBWLzI2_N9W2aLKA9VEz5Gb7ZGJ7b7GE/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTYz/MjUtMTU5NDA1Nzg1/Mi04MDMxLmpwZWc.jpeg",
+    "release_id": 3416325
+  },
+  "TBM-57": {
+    "status": "ok",
+    "url": "https://i.discogs.com/To5sj5FQpMmyt6yE7Py0AIAoISE3gUcN2xJ1d38FOcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzODQw/MjMtMTUxMzI5MzM5/OS00MjYxLmpwZWc.jpeg",
+    "release_id": 3384023
+  },
+  "TBM-58": {
+    "status": "ok",
+    "url": "https://i.discogs.com/tOWqVc7ceZ8oq4LQKs2xdW_POIK27KHmB-6SaQyjdiI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDI5/MzctMTY5OTcxNDI5/NS0zNzc3LmpwZWc.jpeg",
+    "release_id": 3642937
+  },
+  "TBM-59": {
+    "status": "ok",
+    "url": "https://i.discogs.com/F7uXM8E2FF9iHre1vSE_Hzlnv1yck6TBMeDTPvKHbTk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjgz/MDkyLTE2NTA5MTYz/NDktNjI2MS5qcGVn.jpeg",
+    "release_id": 11683092
+  },
+  "TBM-60": {
+    "status": "ok",
+    "url": "https://i.discogs.com/qssuZ4rQwEDmtMJnk1v1KhQI0nd9Avy74jx7vFK0hn0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5ODQz/NDUtMTY5MjEyMzcy/Ny0xMzI5LmpwZWc.jpeg",
+    "release_id": 3984345
+  },
+  "TBM-61": {
+    "status": "ok",
+    "url": "https://i.discogs.com/9DYQwFXFQsZmLCvwV1qb0shfRxxnmj3vGj2dnDxV938/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODY5/NjktMTM5NzgyNTcw/MS02MDA1LmpwZWc.jpeg",
+    "release_id": 4186969
+  },
+  "TBM-62": {
+    "status": "ok",
+    "url": "https://i.discogs.com/FG2PjHVKdaM3F1lDL8ACIEAjhKgemgyu92Z5Lx21pT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODA1/MjkyLTE1NjI0NDc1/NTEtNTYzNC5qcGVn.jpeg",
+    "release_id": 13805292
+  },
+  "TBM-63": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ydVYQSJgk7DT-6ZzUyZoz8jNxFHTXTUku5cgou5en-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMjg0/OTktMTY3MzA0NTM4/MS04OTMxLmpwZWc.jpeg",
+    "release_id": 4228499
+  },
+  "TBM-64": {
+    "status": "ok",
+    "url": "https://i.discogs.com/nir_mL7UURoKUJe9GoUGI9taTndZ_R-PMAvvWh1b7Qo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ2/OTE0LTE2NjU5OTIx/NTQtOTMyMy5qcGVn.jpeg",
+    "release_id": 24846914
+  },
+  "TBM-65": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ShliNHn7s_YteVhlHlBJ6AmvzPDhmADtqxJgSgDtASU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Nzcw/MzY2LTE1ODE3NTc0/MjAtNzM4NC5qcGVn.jpeg",
+    "release_id": 14770366
+  },
+  "TBM-66": {
+    "status": "ok",
+    "url": "https://i.discogs.com/jGXjxH7Wllc4GdHE9e0c9lJ0KI4qVlRCPxv-Q_B4Ia4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzU5/MTQtMTU0ODk4MzEy/NS04MTQwLmpwZWc.jpeg",
+    "release_id": 3935914
+  },
+  "TBM-67": {
+    "status": "ok",
+    "url": "https://i.discogs.com/YHTUpx1beLpwX2G1sbNaumSttqj1Gs9Q1cUP63KgKh8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0Nzc3/OC0xNjUzNzE4Mjk3/LTExMzYuanBlZw.jpeg",
+    "release_id": 547778
+  },
+  "TBM-68": {
+    "status": "ok",
+    "url": "https://i.discogs.com/6wLnMt5KnXu6pA0JXUzJrScHljA2a4NrruR2U2aXeUc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDQz/NjItMTYxOTc0NjM2/NC05OTQzLmpwZWc.jpeg",
+    "release_id": 4004362
+  },
+  "TBM-69": {
+    "status": "ok",
+    "url": "https://i.discogs.com/xLi8iWYptfRKTjEJvDmDXrj1OsdA8_xffsEX9AkaYcw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTQx/OTItMTU3MzMzNTE5/Mi04NDE3LmpwZWc.jpeg",
+    "release_id": 4914192
+  },
+  "TBM-70": {
+    "status": "ok",
+    "url": "https://i.discogs.com/AcKYr911TL24WjjqhXHDbVsoOovY4sLayvsIdtWm8yM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNDA1/NjU4LTE1OTIzODc4/MzQtNTU5NC5qcGVn.jpeg",
+    "release_id": 11405658
+  },
+  "TBM-71": {
+    "status": "ok",
+    "url": "https://i.discogs.com/vRTo7KCZ2_wFQla5pLLSRsaRP5c0-RZjcmVScC_M-Eo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDI5/ODgtMTUzOTU1NDU3/MS03NzExLmpwZWc.jpeg",
+    "release_id": 5802988
+  },
+  "TBM-72": {
+    "status": "ok",
+    "url": "https://i.discogs.com/G9_nUhSY1v8TEQfY-uLPYhQMklMwC5H8Mc-xF_1YoPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQ2/MzM2LTE1NTgyMDAz/MjctNzE0MS5qcGVn.jpeg",
+    "release_id": 13646336
+  },
+  "TBM-73": {
+    "status": "ok",
+    "url": "https://i.discogs.com/m3A556PhY87Bktpy-31_lynkRXFglvlBCUCLsT6aEQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjQy/NTc0LTE2NDQ4NzUz/MzktMzQ2Ny5qcGVn.jpeg",
+    "release_id": 21642574
+  },
+  "TBM-74": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0mI5_tfEcLsWR0ougKS_xRzB1l4uk3KQSOoXNNmMuuA/rs:fit/g:sm/q:90/h:480/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3ODQ2/ODYtMTM5MjgxMzg2/Ni04NDQ4LmpwZWc.jpeg",
+    "release_id": 4784686
+  },
+  "TBM-75": {
+    "status": "ok",
+    "url": "https://i.discogs.com/m1umY3Kzs35ndYHBQaUEWIz6YySLQJnaIHxtKnyYhhk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjg1/NjM0LTE1MTM0NDAz/NzktODE5NC5qcGVn.jpeg",
+    "release_id": 11285634
+  },
+  "TBM-76": {
+    "status": "ok",
+    "url": "https://i.discogs.com/7YgQwDL7N8JHMIrgPkzjAhu8jS5yJH9PExQiCtqjGEg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjA3/NTAtMTM0OTI4MTUy/NC01Mzc2LmpwZWc.jpeg",
+    "release_id": 3920750
+  },
+  "TBM-77": {
+    "status": "ok",
+    "url": "https://i.discogs.com/zmZS1l-0d7RM8mkABdVWmFgrG4VtGtI98ybZhx70y_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ2/OTI5LTE2Njg0NjAw/ODEtMjMyNC5qcGVn.jpeg",
+    "release_id": 24846929
+  },
+  "TBM-78": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ZU62VGgjNkGHaz4ldGdTYZCIVkB7ZggzZ4RXsxKQXs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ2/OTM1LTE2Njg0NTg3/MDUtNzg5My5qcGVn.jpeg",
+    "release_id": 24846935
+  },
+  "TBM-1001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/bxdnma19LH7-pA3OxqiE5rUXWD4MnP1HloSeR0kE94U/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMzE1/MTAtMTU1MTYzMTM5/MC03MjA3LmpwZWc.jpeg",
+    "release_id": 5231510
+  },
+  "TBM-1002/3": {
+    "status": "download_failed",
+    "url": "https://i.discogs.com/LSQJyJqDAhL3in-dwK4df6b9i4Yr7qJBBiz-zRQ_c8k/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Nzgw/MTQtMTU1ODY5NTI5/My0xNzY1LmpwZWc.jpeg"
+  },
+  "TBM-1004": {
+    "status": "ok",
+    "url": "https://i.discogs.com/1Ln7vmNRVdt9NwgiWG_8G1VM8AYWdTMkDv-PyZTg5nk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTA1/MzEtMTU1NjU4MTY1/MS03MTkyLmpwZWc.jpeg",
+    "release_id": 3990531
+  },
+  "TBM-1005": {
+    "status": "ok",
+    "url": "https://i.discogs.com/vsRc6hNmqEGTJVrYapETxoP3CHZncNNCC9yJdd1JoG4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjYz/NjU5LTE2MzQ3MzQ3/NzAtNjA4NS5qcGVn.jpeg",
+    "release_id": 20663659
+  },
+  "TBM(P)-1801/2": {
+    "status": "download_failed",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg"
+  },
+  "TBM-3001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ibfxRyZ6KtBTFOv15AKrI8lOPOFTk45kci9zUYsQAXY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDk0/NDEtMTY3NDkzNDE5/MC04NjM5LmpwZWc.jpeg",
+    "release_id": 6149441
+  },
+  "TBM-3002": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0lIxHVtYTuA_KWe-5oN-d-asfknGVNKjvzV6engXm9c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ3/MDU4LTE2NjcxNTk2/MzAtMzk1OC5qcGVn.jpeg",
+    "release_id": 24847058
+  },
+  "TBM-3003": {
+    "status": "ok",
+    "url": "https://i.discogs.com/JN3cmY85_tTO9aAIL0KPM7vb-E9ZMP7A4x5nSpCCHaM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTM1/NTUtMTM4MTU1MzIy/MS04MTg4LmpwZWc.jpeg",
+    "release_id": 2953555
+  },
+  "TBM-3004": {
+    "status": "ok",
+    "url": "https://i.discogs.com/3-io8vpD_Z-B0Jr5O0wh2x6070mNpcQVA4PZgPaaby0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mzg5/NTE3LTE2MjU1MDk0/NTItOTQ1Ny5qcGVn.jpeg",
+    "release_id": 19389517
+  },
+  "TBM-3005": {
+    "status": "missing"
+  },
+  "TBM-3006": {
+    "status": "ok",
+    "url": "https://i.discogs.com/p12FAlF8C9gD0a52aZb0GUYHKSnk4uI7pOBMF9LGp4c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTY0/NTQtMTYzMzcyNzM2/NS02MjQwLmpwZWc.jpeg",
+    "release_id": 1356454
+  },
+  "TBM-3007": {
+    "status": "ok",
+    "url": "https://i.discogs.com/YiOliUWOlNQ9Os5EYbJ3W9ULsCpCvGjpfCuRSaVFZKA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzMw/ODEtMTY0MzQ3MTUx/My01NTg5LmpwZWc.jpeg",
+    "release_id": 9333081
+  },
+  "TBM-3008": {
+    "status": "ok",
+    "url": "https://i.discogs.com/wYxs4_x8Odo5gv3ehUPJGuQBZ34R_18TiPu42GFClZg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDcx/NDEwLTE3Mjk1ODU3/NjctMzI1MC5qcGVn.jpeg",
+    "release_id": 32071410
+  },
+  "TBM-3009": {
+    "status": "ok",
+    "url": "https://i.discogs.com/WBx11Jtx2wgXhv2BQ0VeKAeUlJ2X3Wq-oqi7X4vws3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODQ3/MDYxLTE2NjcxNTg1/NzEtODc1NC5qcGVn.jpeg",
+    "release_id": 24847061
+  },
+  "TBM-4001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/awMkquygDc_dJ8OBXxwX5vpFnmaCtW-Ks4WDcmUoLA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NzItMTM2NDU4MDY1/Mi04MTg4LmpwZWc.jpeg",
+    "release_id": 4427172
+  },
+  "TBM-4002": {
+    "status": "ok",
+    "url": "https://i.discogs.com/YsjSMVO89WOCeNhUufEI_hmy5F-9Z15zmIiz8zgL14Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA2/NTctMTU3MjcxNzYw/NC01NDc5LmpwZWc.jpeg",
+    "release_id": 2170657
+  },
+  "TBM(P)-4003": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM-5001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/i5fBLPP6s9FEqa2IpRAYMgbicpwNOugcaq3XhISHq5s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTI0/NDk3LTE2NTE3Nzkx/OTItOTc0OC5qcGVn.jpeg",
+    "release_id": 23124497
+  },
+  "TBM-5002": {
+    "status": "ok",
+    "url": "https://i.discogs.com/4YwMYNxHiFfg3AuX1EQB7uIaYLr58vf2G-VpH0a_a5s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMDM2/NzgwLTE2NDQwNzYy/MTMtODU3NC5qcGVn.jpeg",
+    "release_id": 22036780
+  },
+  "TBM-5003": {
+    "status": "ok",
+    "url": "https://i.discogs.com/LYItcRL26XqVoVLS50JwWfNAHfCgZLnm6TVO0DDE8tU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjI1/NTQwLTE2Njg5NzE2/NDAtODg4MC5qcGVn.jpeg",
+    "release_id": 25225540
+  },
+  "TBM-5004": {
+    "status": "ok",
+    "url": "https://i.discogs.com/YZuQBwhM2w6jK67KjYTwXab1ynBraVKrKOzE--QYark/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Nzc4/MzAtMTMyODMwNzEy/MS5qcGVn.jpeg",
+    "release_id": 1577830
+  },
+  "TBM-5005": {
+    "status": "missing"
+  },
+  "TBM-5006": {
+    "status": "ok",
+    "url": "https://i.discogs.com/dzdbhw9bO-z4Qs0nnv9VmVLNWpk-kzVueSDGCUvkSGI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDM1/NjktMTYzMTMxMTU2/NC01OTY0LmpwZWc.jpeg",
+    "release_id": 2303569
+  },
+  "TBM-5007": {
+    "status": "ok",
+    "url": "https://i.discogs.com/pkwYZxMUHgKFr0SjDHSrOtXN-2P3oGo5lJRCy7CNy5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTQ3/ODgtMTYxMDg2MDQ4/Ny04MTA1LmpwZWc.jpeg",
+    "release_id": 4894788
+  },
+  "TBM-5008": {
+    "status": "ok",
+    "url": "https://i.discogs.com/12gBC-yvZ3KzXJ90FI_r-N7JuWdqGNWp1uPIav92y-s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjg4/MjY1LTE2OTIxMTY4/NjUtOTg3MS5qcGVn.jpeg",
+    "release_id": 21288265
+  },
+  "TBM-5009": {
+    "status": "missing"
+  },
+  "TBM-5010": {
+    "status": "ok",
+    "url": "https://i.discogs.com/fb5oZN040wDttKC-BIK6KFg6R58VnKsq5ZS0Ru-jOrg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Njg0/NjEyLTE2NzMwMzA4/MjQtMjQwNS5qcGVn.jpeg",
+    "release_id": 25684612
+  },
+  "TBM-5011": {
+    "status": "ok",
+    "url": "https://i.discogs.com/LGfMRjI-pGbfa2dhjKEIbFwGXJNyLL2ofjrpynpvOhI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzU4/NzE1LTE1OTcyNTYy/NTYtNDgyMy5qcGVn.jpeg",
+    "release_id": 15758715
+  },
+  "TBM-5012": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Z9gH8YHMy3yhxl6JyQhHf-BDfap8gvN4Bxay-gSueaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTg5/NTEyLTE2MzEzMjcy/MzYtNTUyMS5qcGVn.jpeg",
+    "release_id": 20189512
+  },
+  "TBM-5013": {
+    "status": "ok",
+    "url": "https://i.discogs.com/xRO67LxWGouQV7ixNTYJIM2Z07Cba6v1bk9HuLDo7J0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MjQz/MzctMTY3MzAzNzY1/My0yNTYzLmpwZWc.jpeg",
+    "release_id": 4524337
+  },
+  "TBM(P)-5014": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5015": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5016": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5017": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5018": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5019": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5020": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5021": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5022": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "TBM(P)-5023": {
+    "status": "ok",
+    "url": "https://i.discogs.com/ETDFcpOGWxI0Y0LCtzrpF9-7v4kfm67-cyndFYd2YJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTc4/MTgwLTE2ODM0NTk5/MDEtOTA0Mi5qcGVn.jpeg",
+    "release_id": 26978180
+  },
+  "PAP-25021": {
+    "status": "ok",
+    "url": "https://i.discogs.com/C5ZwDzgE2jLMy6t_-_fJ09l2ExBT1gvC11IqfBtpCSo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NDg5/OTAtMTY2NzE0OTg4/Ny01MjI5LmpwZWc.jpeg",
+    "release_id": 9948990
+  },
+  "PAP-25022": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Vvh6QQJ7xlegQIvquSLrDVq8IF-hWCqEAopzUUenrBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDIw/NjctMTcyNTk5MTgy/MS0xNTY5LmpwZWc.jpeg",
+    "release_id": 9342067
+  },
+  "PAP-25028": {
+    "status": "ok",
+    "url": "https://i.discogs.com/oYakhVcY69GbbSvgKOlZPbGUqGvwzmK5C83hJ0NF-l8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjAy/OTMwLTE2MzQzMjkx/ODktMjc3NS5qcGVn.jpeg",
+    "release_id": 20602930
+  },
+  "PAP-25030": {
+    "status": "ok",
+    "url": "https://i.discogs.com/fchQ_MT1X2O-JfSmD3WH-qxDCRHJGkDXJ5E_SMi5-SM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzA5/MDgtMTM4ODI2NDM5/MC03MjI2LmpwZWc.jpeg",
+    "release_id": 3370908
+  },
+  "PAP-25036": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Cr21L_976xyvaPvgcJGnG9F3uOA_X7ZvU4IMg7aGiDk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMDc3/NzAtMTQ1OTA1OTcx/OS05OTc0LmpwZWc.jpeg",
+    "release_id": 8307770
+  },
+  "PAP-25042": {
+    "status": "ok",
+    "url": "https://i.discogs.com/IHR9O8YbQy-D9sudXSc_amhcSA3XZFe01YZDF2k4AYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODMz/NzY4LTE1MDUwNTYw/NjItMTI1Mi5qcGVn.jpeg",
+    "release_id": 10833768
+  },
+  "TBM-CD-5031": {
+    "status": "ok",
+    "url": "https://i.discogs.com/pG_5JIITyok5pFxWUKKphyrONceTZA228BBklUc_t2U/rs:fit/g:sm/q:90/h:295/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODU5/NTktMTQ0NDU4MzU3/Ny04ODEzLmpwZWc.jpeg",
+    "release_id": 7585959
+  },
+  "TBM-CD-5032": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Ns9wVvxxsn6M4Q90p9A8RRqiyPZekEamLHBTxxbuj84/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTA1/MTYtMTc1NDU1MjI3/MC00MzA1LmpwZWc.jpeg",
+    "release_id": 8590516
+  },
+  "TBM-CD-5033": {
+    "status": "ok",
+    "url": "https://i.discogs.com/4TlTumJTTsxUAkb6LDVOmeSuEH11CwlrGnJv3MIxcWo/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjM1/ODUzLTE3Nzc2Mzc5/MzktMjI4Ny5qcGVn.jpeg",
+    "release_id": 10635853
+  },
+  "TBM-CD-5034": {
+    "status": "ok",
+    "url": "https://i.discogs.com/iVS16sffqsETqdgZh9Uwxlnyjb7SLpecrGEVcmV_qpY/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTM5/OTU3LTE1ODIyNjI0/MTctNjcxMy5qcGVn.jpeg",
+    "release_id": 11139957
+  },
+  "TBM-CD-5037": {
+    "status": "ok",
+    "url": "https://i.discogs.com/Q3svvxH2o28RCfWVkSGeyTF2l-LuSRV-AulfuG-msss/rs:fit/g:sm/q:90/h:395/w:392/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1OTA0/NTgtMTQ2NDY0MzY0/Mi03NDcxLmpwZWc.jpeg",
+    "release_id": 8590458
+  },
+  "TBM-CD-5038": {
+    "status": "ok",
+    "url": "https://i.discogs.com/i85pnOAn4-f5xTe8r0qJK49joYH-eyWbIWVjmVjPrtY/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMTg0/MDItMTQ1OTI1NzU4/OC00MjIzLmpwZWc.jpeg",
+    "release_id": 8318402
+  },
+  "TBM-CD-5039": {
+    "status": "ok",
+    "url": "https://i.discogs.com/PdJWXBZMNLwS7bsyk5lQS1XBIViM0-bMg-b-8znX9k0/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTk4/MTg1LTE2MDE2MjQ2/ODItNjI3Ni5qcGVn.jpeg",
+    "release_id": 15998185
+  },
+  "TBM-CD-5040": {
+    "status": "ok",
+    "url": "https://i.discogs.com/IZc3Z6IsQTzZr_DckgdkJihivicbeB_It4k8_kr4oU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTg5/MzYzLTE3MDY1NjQ0/NzItNjQ0NS5qcGVn.jpeg",
+    "release_id": 15189363
+  },
+  "TBM-XR-5041": {
+    "status": "ok",
+    "url": "https://i.discogs.com/lcaBiKpPqxuZP5kQ7zO3-n-r_SSLX5fh5JBiwtB7Zg0/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI3/Nzc4LTE1NTk4NjA3/OTEtOTc2OC5qcGVn.jpeg",
+    "release_id": 13727778
+  },
+  "TBM-XR-5043": {
+    "status": "ok",
+    "url": "https://i.discogs.com/TeStRPP_c9yiF0nsGQfCPpmju38Q9XTrrxo0uSeWmo4/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDIz/MDQ2LTE2NDA2MjE4/MTAtNzc3MC5qcGVn.jpeg",
+    "release_id": 10423046
+  },
+  "TBM-XR-5046": {
+    "status": "ok",
+    "url": "https://i.discogs.com/oRz-JqQoGfqEuGpwOXoURkKuk7U6UDAGhddr7-7NWWY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDEx/OTMyLTE2NDA2MjE4/OTUtODg2My5qcGVn.jpeg",
+    "release_id": 14011932
+  },
+  "TBM-CD-9001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/qcOp3h3jXbU2gipZymeCglSSDTp7M3QQBMhCOclvSIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMTEy/ODMtMTQzMzM1MzEy/Ny0xNTIxLmpwZWc.jpeg",
+    "release_id": 6011283
+  },
+  "TBM-CD-9002": {
+    "status": "ok",
+    "url": "https://i.discogs.com/0cQFAVPcErfpKYdyc4Cpgg58Q2VP7KpG5B0ENHXb69g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwMjgw/ODEtMTQwOTI0NzQy/My02NDI4LmpwZWc.jpeg",
+    "release_id": 6028081
+  },
+  "TBM-CD-9003": {
+    "status": "ok",
+    "url": "https://i.discogs.com/bHvQBeK29oZIAONmA5b8MGnUbSWSiIOQmHplpIUj2rA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzk5/OTUtMTY2MTUyMzU4/Ny00NDE5LmpwZWc.jpeg",
+    "release_id": 7039995
+  },
+  "TBM-XR-9001": {
+    "status": "ok",
+    "url": "https://i.discogs.com/2Aeac97tjgwcw6_lkFnle9lu0s4jyni2mQkJdKvHAQw/rs:fit/g:sm/q:90/h:454/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM2/MzctMTIwNDQ1Mjgx/NS5qcGVn.jpeg",
+    "release_id": 1203637
+  },
+  "TBM-XR-9002": {
+    "status": "ok",
+    "url": "https://i.discogs.com/avBYFyNwCqkbrqhmPSyvqBQs7Y2xPmQTK94Ym2KRXBo/rs:fit/g:sm/q:90/h:427/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzky/NTctMTY2NTQ3NDY3/MS03NjkyLmpwZWc.jpeg",
+    "release_id": 1279257
+  },
+  "TBM-CD-1885": {
+    "status": "ok",
+    "url": "https://i.discogs.com/6isqmJGG_j36AHkodOCA_4fSRFYf0cdaxvxp5b5K_4Y/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMTA4/NzYtMTQ1NzIxMTI0/OS00Mjg0LmpwZWc.jpeg",
+    "release_id": 8210876
+  },
+  "TBM-CD-2842": {
+    "status": "ok",
+    "url": "https://i.discogs.com/hgEs28bjvezDVSoKP0vySWDiuTlQezD7-U4bVk4Bqc8/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODIw/ODMxLTE1MjI5NTIz/MzYtMjEyNS5qcGVn.jpeg",
+    "release_id": 11820831
+  },
+  "TBM-CD-1890": {
+    "status": "ok",
+    "url": "https://i.discogs.com/WAdEocRxDn0JrWFXNrwdBxrP-nO3ZBa7x0ltUtp940k/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzc4/MjM1LTE1MTUyNjE5/NjItNDQ5NC5qcGVn.jpeg",
+    "release_id": 11378235
+  },
+  "NKCD-1486": {
+    "status": "ok",
+    "url": "https://i.discogs.com/qFseXgcV-nylk_Cy2bqERmnEEj79yiyM2CgWpBLTTgQ/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTM5/MTkxLTE1ODQ0Mjcz/NzEtMzI2My5qcGVn.jpeg",
+    "release_id": 14939191
+  },
+  "XRCD24-NT014": {
+    "status": "ok",
+    "url": "https://i.discogs.com/LcCapgzh9znfOCy0r3wf-swxSfvhq5jnqhzOHDIqgs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODM5/NDkxLTE3MDI5MTY5/MjEtNzQ1OS5qcGVn.jpeg",
+    "release_id": 11839491
+  }
+}

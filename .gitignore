@@ -1,0 +1,16 @@
+# Бекапи від скриптів
+**/*.backup-*
+
+# Obsidian тимчасові файли
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-mobile-old.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# macOS
+.DS_Store
+
+# Випадкові тимчасові файли
+*.tmp
+*.swp
