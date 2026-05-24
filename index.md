@@ -2,7 +2,7 @@
 type: index
 tags: [index, home]
 ---
-12
+
 # TBM Енциклопедія
 
 Інтерактивний переклад книги *Three Blind Mice — Complete Disc Guide*.
