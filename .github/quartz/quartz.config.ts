@@ -17,6 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "uk-UA",
     baseUrl: "artveli.github.io/tbm-encyclopedia",
+    socialImage: "./static/og-image.png",
     ignorePatterns: ["private",
   "templates",
   ".obsidian",
