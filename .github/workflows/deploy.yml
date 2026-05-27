@@ -45,6 +45,7 @@ jobs:
         run: |
           cp vault/.github/quartz/quartz.config.ts quartz/quartz.config.ts
           cp vault/.github/quartz/quartz.layout.ts quartz/quartz.layout.ts
+          cp vault/.github/quartz/components/TBMFooter.tsx quartz/quartz/components/TBMFooter.tsx
 
       - name: Build Quartz
         run: |
