@@ -1,4 +1,5 @@
 ---
+title: "TBM Енциклопедія"
 type: index
 tags: [index, home]
 ---
