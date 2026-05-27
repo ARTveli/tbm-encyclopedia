@@ -30,7 +30,7 @@ jobs:
 
       - name: Clone Quartz
         run: |
-          git clone https://github.com/jackyzha0/quartz.git
+          git clone -b v4 https://github.com/jackyzha0/quartz.git
           cd quartz
           rm -rf .github content
           npm ci
