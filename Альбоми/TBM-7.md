@@ -58,9 +58,9 @@ cover: covers/TBM-7.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2507]] — LP Three Blind Mice Records
-- [[TBM-CD-1807]] — CD TBM Records
-- [[THCD-400]] — CD Disk Union
+- **TBM-2507** — LP Three Blind Mice Records
+- **TBM-CD-1807** — CD TBM Records
+- **THCD-400** — CD Disk Union
 
 ---
 

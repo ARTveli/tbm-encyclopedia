@@ -60,8 +60,8 @@ cover: covers/TBM-11.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2511]] — LP Three Blind Mice Records
-- [[MHCP-10029]] — CD Sony Music Direct
+- **TBM-2511** — LP Three Blind Mice Records
+- **MHCP-10029** — CD Sony Music Direct
 
 ---
 

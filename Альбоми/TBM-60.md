@@ -56,11 +56,11 @@ cover: covers/TBM-60.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2560]] — LP Three Blind Mice Records
-- [[PJ-1028]] — LP Nippon Phonogram
-- [[PAP-20011]] — LP Trio Records
-- [[TBM-CD-2560]] — CD TBM Video
-- [[TBM-CD-1860]] — CD TBM Records
+- **TBM-2560** — LP Three Blind Mice Records
+- **PJ-1028** — LP Nippon Phonogram
+- **PAP-20011** — LP Trio Records
+- **TBM-CD-2560** — CD TBM Video
+- **TBM-CD-1860** — CD TBM Records
 
 ---
 

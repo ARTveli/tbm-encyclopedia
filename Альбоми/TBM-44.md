@@ -61,9 +61,9 @@ cover: covers/TBM-44.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2544]] — LP Three Blind Mice Records
-- [[TBM-XR-0044]] — XRCD TBM Video
-- [[THCD-226]] — CD Disk Union
+- **TBM-2544** — LP Three Blind Mice Records
+- **TBM-XR-0044** — XRCD TBM Video
+- **THCD-226** — CD Disk Union
 
 ---
 

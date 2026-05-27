@@ -69,19 +69,19 @@ cover: covers/TBM-24.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2524]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PJ-1013]] — LP Nippon Phonogram
-- [[PAP-20015]] — LP Trio Records
-- [[ART-4]] — CD Disk Union / Art Union
-- [[TBM-CD-2524]] — CD TBM Video
+- **TBM-2524** — LP Three Blind Mice Records
+- **TBM** — P
+- **PJ-1013** — LP Nippon Phonogram
+- **PAP-20015** — LP Trio Records
+- **ART-4** — CD Disk Union / Art Union
+- **TBM-CD-2524** — CD TBM Video
 - [[TBM-24]] — LP TBM Video
-- [[TBM-XR-0024]] — XRCD TBM Video
-- [[TBM-CD-1824]] — CD TBM Records
-- [[MHCP-10036]] — CD Sony Music Direct
-- [[THCD-221]] — CD Disk Union
-- [[THLP-347]] — LP Disk Union
-- [[THLP-423]] — 45 об/хв / 2LP Disk Union
+- **TBM-XR-0024** — XRCD TBM Video
+- **TBM-CD-1824** — CD TBM Records
+- **MHCP-10036** — CD Sony Music Direct
+- **THCD-221** — CD Disk Union
+- **THLP-347** — LP Disk Union
+- **THLP-423** — 45 об/хв / 2LP Disk Union
 
 ---
 

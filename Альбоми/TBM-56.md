@@ -66,15 +66,15 @@ cover: covers/TBM-56.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2556]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PJ-1014]] — LP Nippon Phonogram
-- [[PAP-20008]] — LP Trio Records
-- [[TBM-CD-2556]] — CD TBM Video
-- [[TBM-XR-0056]] — XRCD TBM Video
-- [[TBM-CD-1856]] — CD TBM Records
-- [[THCD-265]] — CD Disk Union
-- [[THCD-367]] — LP Disk Union
+- **TBM-2556** — LP Three Blind Mice Records
+- **TBM** — P
+- **PJ-1014** — LP Nippon Phonogram
+- **PAP-20008** — LP Trio Records
+- **TBM-CD-2556** — CD TBM Video
+- **TBM-XR-0056** — XRCD TBM Video
+- **TBM-CD-1856** — CD TBM Records
+- **THCD-265** — CD Disk Union
+- **THCD-367** — LP Disk Union
 
 ---
 

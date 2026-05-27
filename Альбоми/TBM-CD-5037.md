@@ -61,7 +61,7 @@ cover: covers/TBM-CD-5037.jpg
 **Реліз:** TBM Video
 
 ## Перевидання
-- [[TBM-CD-1897]] — CD TBM Records
+- **TBM-CD-1897** — CD TBM Records
 
 ---
 

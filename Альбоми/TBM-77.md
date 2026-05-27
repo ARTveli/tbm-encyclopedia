@@ -60,11 +60,11 @@ cover: covers/TBM-77.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM]] — P
-- [[PAP-20003]] — LP Trio Records
-- [[TBM-CD-2577]] — CD TBM Video
-- [[TBM-CD-1877]] — CD TBM Records
-- [[MHCP-10035]] — CD Sony Music Direct
+- **TBM** — P
+- **PAP-20003** — LP Trio Records
+- **TBM-CD-2577** — CD TBM Video
+- **TBM-CD-1877** — CD TBM Records
+- **MHCP-10035** — CD Sony Music Direct
 
 ---
 

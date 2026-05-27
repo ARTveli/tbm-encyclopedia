@@ -71,20 +71,20 @@ cover: covers/TBM-15.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2515]] — LP Three Blind Mice Records
-- [[UL38-0015]] — 38cm/sec. 2-track tape, Three Blind Mice Records
-- [[TBM]] — P
-- [[PJ-1023]] — LP Nippon Phonogram
-- [[PAP-20005]] — LP Trio Records
+- **TBM-2515** — LP Three Blind Mice Records
+- **UL38-0015** — 38cm/sec. 2-track tape, Three Blind Mice Records
+- **TBM** — P
+- **PJ-1023** — LP Nippon Phonogram
+- **PAP-20005** — LP Trio Records
 - [[TBM-15]] — LP TBM Video
-- [[ART-1]] — CD Disk Union / Art Union
-- [[TBM-CD-2515]] — CD TBM Video
-- [[TBM-XR-0015]] — XRCD TBM Video
-- [[TBM-CD-1815]] — CD TBM Records
-- [[MHCP-10022]] — CD Sony Music Direct
-- [[THCD-238]] — CD Disk Union
-- [[THLP-346]] — LP Disk Union
-- [[IMP6022-45]] — LP IMPEX RECORDS
+- **ART-1** — CD Disk Union / Art Union
+- **TBM-CD-2515** — CD TBM Video
+- **TBM-XR-0015** — XRCD TBM Video
+- **TBM-CD-1815** — CD TBM Records
+- **MHCP-10022** — CD Sony Music Direct
+- **THCD-238** — CD Disk Union
+- **THLP-346** — LP Disk Union
+- **IMP6022-45** — LP IMPEX RECORDS
 
 ---
 

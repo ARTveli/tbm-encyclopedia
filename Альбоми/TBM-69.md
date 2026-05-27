@@ -57,9 +57,9 @@ cover: covers/TBM-69.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2569]] — LP Three Blind Mice Records
-- [[TBM-CD-1869]] — CD TBM Records
-- [[THCD-318]] — CD Disk Union
+- **TBM-2569** — LP Three Blind Mice Records
+- **TBM-CD-1869** — CD TBM Records
+- **THCD-318** — CD Disk Union
 
 ---
 

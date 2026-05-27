@@ -61,12 +61,12 @@ c
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2543]] — LP Three Blind Mice Records
-- [[TBM]] — P
+- **TBM-2543** — LP Three Blind Mice Records
+- **TBM** — P
 - [[TBM-43]] — LP TBM Video
-- [[TBM-CD-2543]] — CD TBM Video
-- [[TBM-XR-0043]] — XRCD TBM Records
-- [[THCD-305]] — CD Disk Union
+- **TBM-CD-2543** — CD TBM Video
+- **TBM-XR-0043** — XRCD TBM Records
+- **THCD-305** — CD Disk Union
 
 ---
 

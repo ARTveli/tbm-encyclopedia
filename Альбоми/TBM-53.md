@@ -58,8 +58,8 @@ cover: covers/TBM-53.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-CD-1853]] — CD TBM Records
-- [[THCD-245]] — CD Disk Union
+- **TBM-CD-1853** — CD TBM Records
+- **THCD-245** — CD Disk Union
 
 ---
 

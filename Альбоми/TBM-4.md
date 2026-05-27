@@ -59,8 +59,8 @@ cover: covers/TBM-4.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2504]] — LP Three Blind Mice Records
-- [[THCD-249]] — CD Disk Union
+- **TBM-2504** — LP Three Blind Mice Records
+- **THCD-249** — CD Disk Union
 
 ---
 

@@ -58,10 +58,10 @@ cover: covers/TBM-47.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2547]] — LP Three Blind Mice Records
-- [[PAP-20035]] — LP Trio Records
-- [[TBM-XR-0047]] — XRCD TBM Video
-- [[THCD-398]] — CD Disk Union
+- **TBM-2547** — LP Three Blind Mice Records
+- **PAP-20035** — LP Trio Records
+- **TBM-XR-0047** — XRCD TBM Video
+- **THCD-398** — CD Disk Union
 
 ---
 

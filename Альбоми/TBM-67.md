@@ -70,8 +70,8 @@ cover: covers/TBM-67.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2567]] — LP Three Blind Mice Records
-- [[TBM-CD-2567]] — CD TBM Video
+- **TBM-2567** — LP Three Blind Mice Records
+- **TBM-CD-2567** — CD TBM Video
 
 ---
 

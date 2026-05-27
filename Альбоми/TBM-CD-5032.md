@@ -56,7 +56,7 @@ cover: covers/TBM-CD-5032.jpg
 **Реліз:** TBM Video
 
 ## Перевидання
-- [[TBM-CD-1832]] — CD TBM Records
+- **TBM-CD-1832** — CD TBM Records
 
 ---
 

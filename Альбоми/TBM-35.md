@@ -55,9 +55,9 @@ cover: covers/TBM-35.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2535]] — LP Three Blind Mice Records
+- **TBM-2535** — LP Three Blind Mice Records
 - [[TBM-35]] — LP TBM Video
-- [[TBM-CD-1835]] — CD TBM Records
+- **TBM-CD-1835** — CD TBM Records
 
 ---
 

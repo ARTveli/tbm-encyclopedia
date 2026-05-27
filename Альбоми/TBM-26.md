@@ -62,14 +62,14 @@ cover: covers/TBM-26.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2526]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20007]] — LP Trio Records
-- [[ART-3]] — CD Disk Union / Art Union
-- [[TBM-CD-2526]] — CD TBM Video
-- [[TBM-XR-0026]] — XRCD TBM Video
-- [[TBM-CD-1826]] — CD TBM Records
-- [[THCD-256]] — CD Disk Union
+- **TBM-2526** — LP Three Blind Mice Records
+- **TBM** — P
+- **PAP-20007** — LP Trio Records
+- **ART-3** — CD Disk Union / Art Union
+- **TBM-CD-2526** — CD TBM Video
+- **TBM-XR-0026** — XRCD TBM Video
+- **TBM-CD-1826** — CD TBM Records
+- **THCD-256** — CD Disk Union
 
 ---
 

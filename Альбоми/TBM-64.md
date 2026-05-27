@@ -81,7 +81,7 @@ cover: covers/TBM-64.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-XR-0064]] — XRCD TBM Video
+- **TBM-XR-0064** — XRCD TBM Video
 
 ---
 

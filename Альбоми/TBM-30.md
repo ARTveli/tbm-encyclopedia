@@ -71,22 +71,22 @@ cover: covers/TBM-30.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2530]] — LP Three Blind Mice Records
-- [[UL38-0030]] — 38cm/sec. 2-track tape, Three Blind Mice Records
-- [[TBM]] — P
-- [[PJ-1026]] — LP Nippon Phonogram
-- [[PAP-20001]] — LP Trio Records
-- [[ART-5]] — CD Disk Union / Art Union
-- [[TBM-CD-2530]] — CD TBM Video
+- **TBM-2530** — LP Three Blind Mice Records
+- **UL38-0030** — 38cm/sec. 2-track tape, Three Blind Mice Records
+- **TBM** — P
+- **PJ-1026** — LP Nippon Phonogram
+- **PAP-20001** — LP Trio Records
+- **ART-5** — CD Disk Union / Art Union
+- **TBM-CD-2530** — CD TBM Video
 - [[TBM-30]] — LP TBM Video
-- [[TBM-XR-0030]] — XRCD TBM Video
-- [[TBM-XR-5030]] — XRCD TBM Records
-- [[TBM-CD-1830]] — CD TBM Records
-- [[TBM-30-45]] — 2LP CISCO 45rpm
-- [[THCD-243]] — CD Disk Union
-- [[THLP-348]] — LP Disk Union
-- [[THLP-424]] — 45 об/хв / 2LP Disk Union
-- [[IMP6022-45]] — LP IMPEX RECORDS
+- **TBM-XR-0030** — XRCD TBM Video
+- **TBM-XR-5030** — XRCD TBM Records
+- **TBM-CD-1830** — CD TBM Records
+- **TBM-30-45** — 2LP CISCO 45rpm
+- **THCD-243** — CD Disk Union
+- **THLP-348** — LP Disk Union
+- **THLP-424** — 45 об/хв / 2LP Disk Union
+- **IMP6022-45** — LP IMPEX RECORDS
 
 ---
 

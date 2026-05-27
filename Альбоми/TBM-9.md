@@ -72,13 +72,13 @@ cover: covers/TBM-9.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2509]] — LP Three Blind Mice Records
-- [[BT-5312]] — LP Nippon Phonogram
-- [[PAP-20037]] — LP Trio Records
-- [[ART-2]] — CD Disk Union / Art Union
-- [[TBM-CD-1809]] — CD TBM Records
-- [[MHCP-10023]] — CD Sony Music Direct
-- [[THCD-219]] — CD Disk Union
+- **TBM-2509** — LP Three Blind Mice Records
+- **BT-5312** — LP Nippon Phonogram
+- **PAP-20037** — LP Trio Records
+- **ART-2** — CD Disk Union / Art Union
+- **TBM-CD-1809** — CD TBM Records
+- **MHCP-10023** — CD Sony Music Direct
+- **THCD-219** — CD Disk Union
 
 ---
 

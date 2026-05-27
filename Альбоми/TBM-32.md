@@ -78,9 +78,9 @@ cover: covers/TBM-32.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2532]] — LP Three Blind Mice Records
-- [[TBM-CD-2532]] — CD TBM Video
-- [[TBM-XR-0032]] — CD TBM Video
+- **TBM-2532** — LP Three Blind Mice Records
+- **TBM-CD-2532** — CD TBM Video
+- **TBM-XR-0032** — CD TBM Video
 
 ---
 

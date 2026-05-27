@@ -60,10 +60,10 @@ cover: covers/TBM-66.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[PAP-20019]] — LP Trio Records
-- [[TBM-XR-0066]] — XRCD TBM Video
-- [[MHCP-10033]] — CD Sony Music Direct
-- [[THCD-247]] — CD Disk Union
+- **PAP-20019** — LP Trio Records
+- **TBM-XR-0066** — XRCD TBM Video
+- **MHCP-10033** — CD Sony Music Direct
+- **THCD-247** — CD Disk Union
 
 ---
 

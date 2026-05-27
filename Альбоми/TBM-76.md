@@ -64,11 +64,11 @@ cover: covers/TBM-76.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM]] — P
-- [[PAP-20024]] — LP Trio Records
-- [[TBM-CD-2576]] — CD TBM Video
-- [[TBM-XR-0076]] — XRCD TBM Video
-- [[THCD-248]] — CD Disk Union
+- **TBM** — P
+- **PAP-20024** — LP Trio Records
+- **TBM-CD-2576** — CD TBM Video
+- **TBM-XR-0076** — XRCD TBM Video
+- **THCD-248** — CD Disk Union
 
 ---
 

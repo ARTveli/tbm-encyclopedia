@@ -73,10 +73,10 @@ cover: covers/TBM-48.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2548]] — LP Three Blind Mice Records
-- [[PJ-1008]] — LP Nippon Phonogram
-- [[PAP-20036]] — LP Trio Records
-- [[TBM-XR-0048]] — XRCD TBM Video
+- **TBM-2548** — LP Three Blind Mice Records
+- **PJ-1008** — LP Nippon Phonogram
+- **PAP-20036** — LP Trio Records
+- **TBM-XR-0048** — XRCD TBM Video
 
 ---
 

@@ -78,12 +78,12 @@ cover: covers/TBM-18.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM]] — P
-- [[TBM-CD-2518]] — CD TBM Video
-- [[TBM-CD-1818]] — CD TBM Records
-- [[MHCP-10026]] — CD Sony Music Direct
-- [[THCD-220]] — CD Disk Union
-- [[THLP-411]] — LP Disk Union
+- **TBM** — P
+- **TBM-CD-2518** — CD TBM Video
+- **TBM-CD-1818** — CD TBM Records
+- **MHCP-10026** — CD Sony Music Direct
+- **THCD-220** — CD Disk Union
+- **THLP-411** — LP Disk Union
 
 ---
 

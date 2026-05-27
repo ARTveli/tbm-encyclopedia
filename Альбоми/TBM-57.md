@@ -61,9 +61,9 @@ cover: covers/TBM-57.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2557]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20034]] — LP Trio Records
+- **TBM-2557** — LP Three Blind Mice Records
+- **TBM** — P
+- **PAP-20034** — LP Trio Records
 
 ---
 

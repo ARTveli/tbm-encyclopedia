@@ -60,9 +60,9 @@ cover: covers/TBM-58.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2558]] — LP Three Blind Mice Records
-- [[TBM-CD-1858]] — CD TBM Records
-- [[THCD-246]] — CD Disk Union
+- **TBM-2558** — LP Three Blind Mice Records
+- **TBM-CD-1858** — CD TBM Records
+- **THCD-246** — CD Disk Union
 
 ---
 

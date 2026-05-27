@@ -65,10 +65,10 @@ cover: covers/TBM-5.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2505]] — LP Three Blind Mice Records
-- [[TBM-CD-2505]] — CD TBM Video
-- [[CD-2006-2]] — Enja
-- [[THCD-302]] — CD Disk Union
+- **TBM-2505** — LP Three Blind Mice Records
+- **TBM-CD-2505** — CD TBM Video
+- **CD-2006-2** — Enja
+- **THCD-302** — CD Disk Union
 
 ---
 

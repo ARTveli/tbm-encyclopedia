@@ -58,7 +58,7 @@ cover: covers/TBM-13.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-250]] — CD Disk Union
+- **THCD-250** — CD Disk Union
 
 ---
 

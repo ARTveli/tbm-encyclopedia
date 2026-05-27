@@ -64,12 +64,12 @@ cover: covers/TBM-19.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2519]] — LP Three Blind Mice Records
+- **TBM-2519** — LP Three Blind Mice Records
 - [[TBM-19]] — LP TBM Video
-- [[TBM-CD-2519]] — CD TBM Video
-- [[TBM-XR-0019]] — XRCD TBM Video
-- [[MHCP-10037]] — CD Sony Music Direct
-- [[THCD-224]] — CD Disk Union
+- **TBM-CD-2519** — CD TBM Video
+- **TBM-XR-0019** — XRCD TBM Video
+- **MHCP-10037** — CD Sony Music Direct
+- **THCD-224** — CD Disk Union
 
 ---
 

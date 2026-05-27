@@ -72,12 +72,12 @@ cover: covers/TBM-6.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2506]] — LP Three Blind Mice Records
-- [[PAP-20032]] — LP Trio Records
+- **TBM-2506** — LP Three Blind Mice Records
+- **PAP-20032** — LP Trio Records
 - [[TBM-6]] — LP TBM Video
-- [[TBM-CD-1806]] — CD TBM Records
-- [[MHCP-10045]] — CD Sony Music Direct
-- [[THCD-255]] — CD Disk Union
+- **TBM-CD-1806** — CD TBM Records
+- **MHCP-10045** — CD Sony Music Direct
+- **THCD-255** — CD Disk Union
 
 ---
 

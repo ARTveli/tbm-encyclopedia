@@ -59,10 +59,10 @@ cover: covers/TBM-46.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[PAP-20040]] — LP Trio Records
-- [[TBM-CD-1846]] — CD TBM Records
-- [[MHCP-10027]] — CD Sony Music Direct
-- [[THCD-227]] — CD Disk Union
+- **PAP-20040** — LP Trio Records
+- **TBM-CD-1846** — CD TBM Records
+- **MHCP-10027** — CD Sony Music Direct
+- **THCD-227** — CD Disk Union
 
 ---
 

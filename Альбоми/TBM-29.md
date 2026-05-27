@@ -72,7 +72,7 @@ cover: covers/TBM-29.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-315]] — CD Disk Union
+- **THCD-315** — CD Disk Union
 
 ---
 

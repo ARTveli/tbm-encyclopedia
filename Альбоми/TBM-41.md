@@ -67,11 +67,11 @@ cover: covers/TBM-41.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2541]] — LP Three Blind Mice Records
-- [[TBM-CD-2541]] — CD TBM Video
-- [[TBM-XR-0041]] — XRCD TBM Video
-- [[TBM-CD-1852]] — CD TBM Records
-- [[THCD-316]] — CD Disk Union
+- **TBM-2541** — LP Three Blind Mice Records
+- **TBM-CD-2541** — CD TBM Video
+- **TBM-XR-0041** — XRCD TBM Video
+- **TBM-CD-1852** — CD TBM Records
+- **THCD-316** — CD Disk Union
 
 ---
 

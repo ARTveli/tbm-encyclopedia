@@ -59,10 +59,10 @@ cover: covers/TBM-51.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2551]] — LP Three Blind Mice Records
-- [[TBM-CD-2551]] — CD TBM Video
-- [[TBM-CD-1851]] — CD TBM Records
-- [[THCD-306]] — CD Disk Union
+- **TBM-2551** — LP Three Blind Mice Records
+- **TBM-CD-2551** — CD TBM Video
+- **TBM-CD-1851** — CD TBM Records
+- **THCD-306** — CD Disk Union
 
 ---
 

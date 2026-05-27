@@ -60,9 +60,9 @@ cover: covers/TBM-36.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2536]] — LP Three Blind Mice Records
-- [[TBM-CD-1836]] — CD TBM Records
-- [[THCD-304]] — CD Disk Union
+- **TBM-2536** — LP Three Blind Mice Records
+- **TBM-CD-1836** — CD TBM Records
+- **THCD-304** — CD Disk Union
 
 ---
 

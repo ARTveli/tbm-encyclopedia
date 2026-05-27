@@ -60,8 +60,8 @@ cover: covers/TBM-54.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-XR-0054]] — XRCD TBM Video
-- [[THCD-311]] — CD Disk Union
+- **TBM-XR-0054** — XRCD TBM Video
+- **THCD-311** — CD Disk Union
 
 ---
 

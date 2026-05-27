@@ -57,7 +57,7 @@ cover: covers/TBM-62.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-239]] — CD Disk Union
+- **THCD-239** — CD Disk Union
 
 ---
 

@@ -57,7 +57,7 @@ cover: covers/TBM-72.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-CD-1872]] — CD TBM Records
+- **TBM-CD-1872** — CD TBM Records
 
 ---
 

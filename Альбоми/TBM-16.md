@@ -63,8 +63,8 @@ c
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2516]] — LP Three Blind Mice Records
-- [[THCD-308]] — CD Disk Union
+- **TBM-2516** — LP Three Blind Mice Records
+- **THCD-308** — CD Disk Union
 
 ---
 

@@ -71,14 +71,14 @@ cover: covers/TBM-21.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2521]] — LP Three Blind Mice Records
-- [[PJ-1025]] — LP Nippon Phonogram
-- [[PAP-20002]] — LP Trio Records
-- [[ART-6]] — CD Disk Union / Art Union
-- [[TBM-CD-2521]] — CD TBM Video
-- [[TBM-CD-1821]] — CD TBM Records
-- [[MHCP-10030]] — CD Sony Music Direct
-- [[THCD-309]] — CD Disk Union
+- **TBM-2521** — LP Three Blind Mice Records
+- **PJ-1025** — LP Nippon Phonogram
+- **PAP-20002** — LP Trio Records
+- **ART-6** — CD Disk Union / Art Union
+- **TBM-CD-2521** — CD TBM Video
+- **TBM-CD-1821** — CD TBM Records
+- **MHCP-10030** — CD Sony Music Direct
+- **THCD-309** — CD Disk Union
 
 ---
 

@@ -61,7 +61,7 @@ cover: covers/TBM-71.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-312]] — CD Disk Union
+- **THCD-312** — CD Disk Union
 
 ---
 

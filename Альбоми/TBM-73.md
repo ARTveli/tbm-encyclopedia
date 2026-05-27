@@ -54,8 +54,8 @@ cover: covers/TBM-73.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-XR-0073]] — XRCD TBM Video
-- [[THCD-396]] — CD Disk Union
+- **TBM-XR-0073** — XRCD TBM Video
+- **THCD-396** — CD Disk Union
 
 ---
 

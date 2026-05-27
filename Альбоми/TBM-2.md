@@ -60,12 +60,12 @@ cover: covers/TBM-2.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-42]] — LP Three Blind Mice Records
-- [[TBM-2502]] — LP Three Blind Mice Records
+- **TBM-42** — LP Three Blind Mice Records
+- **TBM-2502** — LP Three Blind Mice Records
 - [[TBM-2]] — LP TBM Video
-- [[TBM-CD-2502]] — CD TBM Video
-- [[MHCP-10043]] — CD Sony Music Direct
-- [[THCD-301]] — CD Disk Union
+- **TBM-CD-2502** — CD TBM Video
+- **MHCP-10043** — CD Sony Music Direct
+- **THCD-301** — CD Disk Union
 
 ---
 

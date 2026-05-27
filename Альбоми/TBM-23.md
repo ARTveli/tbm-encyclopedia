@@ -67,19 +67,19 @@ cover: covers/TBM-23.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2523]] — LP Three Blind Mice Records
-- [[UL38-0023]] — 38cm/sec. 2-track tape, Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20006]] — LP Trio Records
-- [[TBM-CD-2523]] — CD TBM Video
+- **TBM-2523** — LP Three Blind Mice Records
+- **UL38-0023** — 38cm/sec. 2-track tape, Three Blind Mice Records
+- **TBM** — P
+- **PAP-20006** — LP Trio Records
+- **TBM-CD-2523** — CD TBM Video
 - [[TBM-23]] — LP TBM Video
-- [[TBM-CD-1829]] — CD TBM Records
-- [[TBM-23-45]] — 2LP CISCO 45rpm
-- [[TBM-XR-5023]] — XRCD TBM Records
-- [[MHCP-10024]] — CD Sony Music Direct
-- [[THCD-264]] — CD Disk Union
-- [[THLP-365]] — LP Disk Union
-- [[IMP6022-45]] — LP IMPEX RECORDS
+- **TBM-CD-1829** — CD TBM Records
+- **TBM-23-45** — 2LP CISCO 45rpm
+- **TBM-XR-5023** — XRCD TBM Records
+- **MHCP-10024** — CD Sony Music Direct
+- **THCD-264** — CD Disk Union
+- **THLP-365** — LP Disk Union
+- **IMP6022-45** — LP IMPEX RECORDS
 
 ---
 

@@ -65,12 +65,12 @@ cover: covers/TBM-12.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2512]] — LP Three Blind Mice Records
-- [[PAP-20012]] — LP Trio Records
-- [[TBM-CD-1812]] — CD TBM Records
-- [[TBM-XR-0012]] — XRCD TBM Video
-- [[MHCP-10025]] — CD Sony Music Direct
-- [[THCD-303]] — CD Disk Union
+- **TBM-2512** — LP Three Blind Mice Records
+- **PAP-20012** — LP Trio Records
+- **TBM-CD-1812** — CD TBM Records
+- **TBM-XR-0012** — XRCD TBM Video
+- **MHCP-10025** — CD Sony Music Direct
+- **THCD-303** — CD Disk Union
 
 ---
 

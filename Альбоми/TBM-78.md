@@ -59,7 +59,7 @@ cover: covers/TBM-78.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-240]] — CD Disk Union
+- **THCD-240** — CD Disk Union
 
 ---
 

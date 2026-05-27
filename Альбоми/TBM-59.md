@@ -64,14 +64,14 @@ cover: covers/TBM-59.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2559]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20021]] — LP Trio Records
-- [[TBM-CD-2559]] — CD TBM Video
-- [[TBM-XR-0059]] — XRCD TBM Video
-- [[TBM-CD-1859]] — CD TBM Records
-- [[TBM-XR-0059]] — XRCD TBM Records
-- [[THCD-228]] — CD Disk Union
+- **TBM-2559** — LP Three Blind Mice Records
+- **TBM** — P
+- **PAP-20021** — LP Trio Records
+- **TBM-CD-2559** — CD TBM Video
+- **TBM-XR-0059** — XRCD TBM Video
+- **TBM-CD-1859** — CD TBM Records
+- **TBM-XR-0059** — XRCD TBM Records
+- **THCD-228** — CD Disk Union
 
 ---
 

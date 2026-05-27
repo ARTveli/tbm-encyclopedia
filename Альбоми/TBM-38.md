@@ -62,8 +62,8 @@ cover: covers/TBM-38.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-CD-1838]] — CD TBM Records
-- [[THCD-394]] — CD Disk Union
+- **TBM-CD-1838** — CD TBM Records
+- **THCD-394** — CD Disk Union
 
 ---
 

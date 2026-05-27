@@ -60,9 +60,9 @@ cover: covers/TBM-25.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2525]] — LP Three Blind Mice Records
+- **TBM-2525** — LP Three Blind Mice Records
 - [[TBM-25]] — LP TBM Video
-- [[TBM-CD-2525]] — CD TBM Video
+- **TBM-CD-2525** — CD TBM Video
 
 ---
 

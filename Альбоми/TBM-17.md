@@ -65,15 +65,15 @@ cover: covers/TBM-17.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2517]] — LP Three Blind Mice Records
-- [[PJ-1024]] — LP Nippon Phonogram
-- [[TBM]] — P
-- [[PAP-20013]] — LP Trio Records
-- [[ART-7]] — CD Disk Union / Art Union
-- [[TBM-CD-2517]] — CD TBM Video
-- [[TBM-CD-1817]] — CD TBM Records
-- [[MHCP-10039]] — CD Sony Music Direct
-- [[THCD-260]] — CD Disk Union
+- **TBM-2517** — LP Three Blind Mice Records
+- **PJ-1024** — LP Nippon Phonogram
+- **TBM** — P
+- **PAP-20013** — LP Trio Records
+- **ART-7** — CD Disk Union / Art Union
+- **TBM-CD-2517** — CD TBM Video
+- **TBM-CD-1817** — CD TBM Records
+- **MHCP-10039** — CD Sony Music Direct
+- **THCD-260** — CD Disk Union
 
 ---
 

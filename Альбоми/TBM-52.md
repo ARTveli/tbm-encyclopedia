@@ -57,9 +57,9 @@ cover: covers/TBM-52.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2552]] — LP Three Blind Mice Records
-- [[TBM-CD-1852]] — CD TBM Records
-- [[THCD-317]] — CD Disk Union
+- **TBM-2552** — LP Three Blind Mice Records
+- **TBM-CD-1852** — CD TBM Records
+- **THCD-317** — CD Disk Union
 
 ---
 

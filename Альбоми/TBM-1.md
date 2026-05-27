@@ -62,12 +62,12 @@ cover: covers/TBM-1.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2501]] — LP Three Blind Mice Records
-- [[PJ-1021]] — LP Nippon Phonogram
-- [[PAP-20031]] — LP Trio Records
-- [[TBM-CD-2501]] — CD TBM Video
-- [[MHCP-10042]] — CD Sony Music Direct
-- [[THCD-217]] — CD Disk Union
+- **TBM-2501** — LP Three Blind Mice Records
+- **PJ-1021** — LP Nippon Phonogram
+- **PAP-20031** — LP Trio Records
+- **TBM-CD-2501** — CD TBM Video
+- **MHCP-10042** — CD Sony Music Direct
+- **THCD-217** — CD Disk Union
 
 ---
 

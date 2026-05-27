@@ -64,7 +64,7 @@ cover: covers/TBM-49.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-CD-1849]] — CD TBM Records
+- **TBM-CD-1849** — CD TBM Records
 
 ---
 

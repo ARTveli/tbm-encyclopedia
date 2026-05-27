@@ -60,9 +60,9 @@ cover: covers/TBM-65.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2565]] — LP Three Blind Mice Records
-- [[TBM-CD-2565]] — CD TBM Video
-- [[MHCP-10040]] — CD Sony Music Direct
+- **TBM-2565** — LP Three Blind Mice Records
+- **TBM-CD-2565** — CD TBM Video
+- **MHCP-10040** — CD Sony Music Direct
 
 ---
 

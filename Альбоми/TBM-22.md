@@ -61,7 +61,7 @@ cover: covers/TBM-22.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2522]] — LP Three Blind Mice Records
+- **TBM-2522** — LP Three Blind Mice Records
 
 ---
 

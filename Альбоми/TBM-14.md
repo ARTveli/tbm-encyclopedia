@@ -59,10 +59,10 @@ cover: covers/TBM-14.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2514]] — LP Three Blind Mice Records
-- [[PAP-20029]] — LP Trio Records
-- [[TBM-CD-1814]] — CD TBM Records
-- [[THCD-251]] — CD Disk Union
+- **TBM-2514** — LP Three Blind Mice Records
+- **PAP-20029** — LP Trio Records
+- **TBM-CD-1814** — CD TBM Records
+- **THCD-251** — CD Disk Union
 
 ---
 

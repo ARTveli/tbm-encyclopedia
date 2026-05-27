@@ -62,9 +62,9 @@ cover: covers/TBM-20.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-CD-1820]] — CD TBM Records
-- [[MHCP-10028]] — CD Sony Music Direct
-- [[THCD-252]] — CD Disk Union
+- **TBM-CD-1820** — CD TBM Records
+- **MHCP-10028** — CD Sony Music Direct
+- **THCD-252** — CD Disk Union
 
 ---
 

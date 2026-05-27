@@ -94,7 +94,7 @@ cover: covers/TBM-70.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-393]] — CD Disk Union
+- **THCD-393** — CD Disk Union
 
 ---
 

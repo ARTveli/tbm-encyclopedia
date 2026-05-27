@@ -61,10 +61,10 @@ cover: covers/TBM-39.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2539]] — LP Three Blind Mice Records
+- **TBM-2539** — LP Three Blind Mice Records
 - [[TBM-39]] — LP TBM Video
-- [[TBM-CD-1839]] — CD TBM Records
-- [[THCD-222]] — CD Disk Union
+- **TBM-CD-1839** — CD TBM Records
+- **THCD-222** — CD Disk Union
 
 ---
 

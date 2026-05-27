@@ -66,14 +66,14 @@ cover: covers/TBM-8.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-34]] — LP Three Blind Mice Records
-- [[TBM-2508]] — LP Three Blind Mice Records
-- [[PJ-1022]] — LP Nippon Phonogram
-- [[PAP-20023]] — LP Trio Records
-- [[ARTCD-11]] — CD Disk Union / Art Union
-- [[TBM-CD-1808]] — CD TBM Records
-- [[MHCP-10044]] — CD Sony Music Direct
-- [[THCD-237]] — CD Disk Union
+- **TBM-34** — LP Three Blind Mice Records
+- **TBM-2508** — LP Three Blind Mice Records
+- **PJ-1022** — LP Nippon Phonogram
+- **PAP-20023** — LP Trio Records
+- **ARTCD-11** — CD Disk Union / Art Union
+- **TBM-CD-1808** — CD TBM Records
+- **MHCP-10044** — CD Sony Music Direct
+- **THCD-237** — CD Disk Union
 
 ---
 

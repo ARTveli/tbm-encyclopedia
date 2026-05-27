@@ -64,16 +64,16 @@ cover: covers/TBM-63.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2563]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20010]] — LP Trio Records
+- **TBM-2563** — LP Three Blind Mice Records
+- **TBM** — P
+- **PAP-20010** — LP Trio Records
 - [[TBM-63]] — LP TBM Video
-- [[ARTCD-13]] — CD Disk Union / Art Union
-- [[TBM-CD-2563]] — CD TBM Video
-- [[TBM-XR-0063]] — XRCD TBM Video
-- [[TBM-CD-1863]] — CD TBM Records
-- [[MHCP-10046]] — CD Sony Music Direct
-- [[THCD-266]] — CD Disk Union
+- **ARTCD-13** — CD Disk Union / Art Union
+- **TBM-CD-2563** — CD TBM Video
+- **TBM-XR-0063** — XRCD TBM Video
+- **TBM-CD-1863** — CD TBM Records
+- **MHCP-10046** — CD Sony Music Direct
+- **THCD-266** — CD Disk Union
 
 ---
 

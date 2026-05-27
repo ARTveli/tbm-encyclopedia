@@ -65,12 +65,12 @@ cover: covers/TBM-40.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2540]] — LP Three Blind Mice Records
-- [[PAP-20030]] — LP Trio Records
-- [[TBM-CD-2540]] — CD TBM Video
-- [[TBM-CD-1840]] — CD TBM Records
-- [[MHCP-10041]] — CD Sony Music Direct
-- [[THCD-310]] — CD Disk Union
+- **TBM-2540** — LP Three Blind Mice Records
+- **PAP-20030** — LP Trio Records
+- **TBM-CD-2540** — CD TBM Video
+- **TBM-CD-1840** — CD TBM Records
+- **MHCP-10041** — CD Sony Music Direct
+- **THCD-310** — CD Disk Union
 
 ---
 

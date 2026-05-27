@@ -58,9 +58,9 @@ cover: covers/TBM-10.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[PAP-20038]] — LP Trio Records
-- [[TBM-XR-0010]] — XRCD TBM Video
-- [[THCD-230]] — CD Disk Union
+- **PAP-20038** — LP Trio Records
+- **TBM-XR-0010** — XRCD TBM Video
+- **THCD-230** — CD Disk Union
 
 ---
 

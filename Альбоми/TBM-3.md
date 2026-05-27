@@ -58,9 +58,9 @@ cover: covers/TBM-3.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2503]] — LP Three Blind Mice Records
-- [[TBM-CD-1803]] — CD TBM Records
-- [[THCD-218]] — CD Disk Union
+- **TBM-2503** — LP Three Blind Mice Records
+- **TBM-CD-1803** — CD TBM Records
+- **THCD-218** — CD Disk Union
 
 ---
 

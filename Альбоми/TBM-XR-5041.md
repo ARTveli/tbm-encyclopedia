@@ -59,7 +59,7 @@ cover: covers/TBM-XR-5041.jpg
 **Реліз:** TBM Video
 
 ## Перевидання
-- [[TBM-CD-1841]] — CD TBM Records
+- **TBM-CD-1841** — CD TBM Records
 
 ---
 

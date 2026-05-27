@@ -65,12 +65,12 @@ cover: covers/TBM-33.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2533]] — LP Three Blind Mice Records
-- [[TBM]] — P
-- [[PAP-20016]] — LP Trio Records
-- [[TBM-XR-0033]] — XRCD TBM Video
-- [[TBM-CD-1833]] — CD TBM Records
-- [[THCD-391]] — CD Disk Union
+- **TBM-2533** — LP Three Blind Mice Records
+- **TBM** — P
+- **PAP-20016** — LP Trio Records
+- **TBM-XR-0033** — XRCD TBM Video
+- **TBM-CD-1833** — CD TBM Records
+- **THCD-391** — CD Disk Union
 
 ---
 

@@ -63,10 +63,10 @@ cover: covers/TBM-28.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2528]] — LP Three Blind Mice Records
-- [[TBM-CD-2528]] — CD TBM Video
-- [[TBM-CD-1828]] — CD TBM Records
-- [[THCD-225]] — CD Disk Union
+- **TBM-2528** — LP Three Blind Mice Records
+- **TBM-CD-2528** — CD TBM Video
+- **TBM-CD-1828** — CD TBM Records
+- **THCD-225** — CD Disk Union
 
 ---
 

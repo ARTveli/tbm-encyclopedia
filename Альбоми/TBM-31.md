@@ -58,7 +58,7 @@ cover: covers/TBM-31.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[THCD-244]] — CD Disk Union
+- **THCD-244** — CD Disk Union
 
 ---
 

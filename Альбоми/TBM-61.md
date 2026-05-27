@@ -70,14 +70,14 @@ cover: covers/TBM-61.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2561]] — LP Three Blind Mice Records
-- [[PJ-1029]] — LP Nippon Phonogram
-- [[PAP-20027]] — LP Trio Records
-- [[TBM-CD-2561]] — CD TBM Video
-- [[TBM-XR-0061]] — XRCD TBM Video
-- [[TBM-CD-1861]] — CD TBM Records
-- [[THCD-257]] — CD Disk Union
-- [[THLP-410]] — LP Disk Union
+- **TBM-2561** — LP Three Blind Mice Records
+- **PJ-1029** — LP Nippon Phonogram
+- **PAP-20027** — LP Trio Records
+- **TBM-CD-2561** — CD TBM Video
+- **TBM-XR-0061** — XRCD TBM Video
+- **TBM-CD-1861** — CD TBM Records
+- **THCD-257** — CD Disk Union
+- **THLP-410** — LP Disk Union
 
 ---
 

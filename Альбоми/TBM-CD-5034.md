@@ -70,8 +70,8 @@ cover: covers/TBM-CD-5034.jpg
 **Реліз:** TBM Video
 
 ## Перевидання
-- [[TBM-CD-1834]] — CD TBM Records
-- [[THCD-314]] — CD Disk Union
+- **TBM-CD-1834** — CD TBM Records
+- **THCD-314** — CD Disk Union
 
 ---
 

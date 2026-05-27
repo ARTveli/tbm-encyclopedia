@@ -70,13 +70,13 @@ cover: covers/TBM-37.jpg
 **Реліз:** Three Blind Mice Records
 
 ## Перевидання
-- [[TBM-2537]] — LP Three Blind Mice Records
-- [[PAP-20033]] — LP Trio Records
-- [[TBM-CD-2537]] — CD TBM Video
-- [[TBM-XR-0037]] — XRCD TBM Video
-- [[TBM-CD-1837]] — CD TBM Records
-- [[MHCP-10038]] — CD Sony Music Direct
-- [[THCD-267]] — CD Disk Union
+- **TBM-2537** — LP Three Blind Mice Records
+- **PAP-20033** — LP Trio Records
+- **TBM-CD-2537** — CD TBM Video
+- **TBM-XR-0037** — XRCD TBM Video
+- **TBM-CD-1837** — CD TBM Records
+- **MHCP-10038** — CD Sony Music Direct
+- **THCD-267** — CD Disk Union
 
 ---
 
