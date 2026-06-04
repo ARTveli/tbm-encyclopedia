@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
       "basename": "TBM-57",
       "path": "Альбоми/TBM-57.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "TBM-23",
       "path": "Альбоми/TBM-23.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-1",
@@ -195,10 +195,6 @@
     {
       "basename": "TBM-3006",
       "path": "Альбоми/TBM-3006.md"
-    },
-    {
-      "basename": "TBM-3005",
-      "path": "Альбоми/TBM-3005.md"
     }
   ],
   "omittedPaths": [],
