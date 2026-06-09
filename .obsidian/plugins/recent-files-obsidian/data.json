@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Інтервʼю",
+      "path": "Інтервʼю.md"
+    },
+    {
+      "basename": "Індекс_артистів",
+      "path": "Індекс_артистів.md"
+    },
+    {
       "basename": "TBM-27",
       "path": "Альбоми/TBM-27.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "TBM-1_liner",
       "path": "Liner_Notes/TBM-1_liner.md"
-    },
-    {
-      "basename": "Індекс_артистів",
-      "path": "Індекс_артистів.md"
     },
     {
       "basename": "TBM-CD-2842",
@@ -195,10 +199,6 @@
     {
       "basename": "TBM(P)-4003",
       "path": "Альбоми/TBM(P)-4003.md"
-    },
-    {
-      "basename": "TBM-4002",
-      "path": "Альбоми/TBM-4002.md"
     }
   ],
   "omittedPaths": [],
