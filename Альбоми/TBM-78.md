@@ -65,7 +65,7 @@ cover: covers/TBM-78.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-78_liner|Коментарі Акіра Ямато (1976)]]
+- [[Liner_Notes/TBM-78_liner|(1976)]]
 
 ## Рецензія
 
