@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TBM-78",
+      "path": "Альбоми/TBM-78.md"
+    },
+    {
+      "basename": "TBM-78_liner",
+      "path": "Liner_Notes/TBM-78_liner.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
       "basename": "TBM-3007",
       "path": "Альбоми/TBM-3007.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "TBM-51",
       "path": "Альбоми/TBM-51.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "Індекс_артистів",
@@ -191,14 +199,6 @@
     {
       "basename": "TBM-1004",
       "path": "Альбоми/TBM-1004.md"
-    },
-    {
-      "basename": "TBM-1002-3",
-      "path": "Альбоми/TBM-1002-3.md"
-    },
-    {
-      "basename": "TBM-24",
-      "path": "Альбоми/TBM-24.md"
     }
   ],
   "omittedPaths": [],
