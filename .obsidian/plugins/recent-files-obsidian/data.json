@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Інтервʼю",
-      "path": "Інтервʼю.md"
+      "basename": "TBM-3007",
+      "path": "Альбоми/TBM-3007.md"
+    },
+    {
+      "basename": "TBM-3007_liner",
+      "path": "Liner_Notes/TBM-3007_liner.md"
+    },
+    {
+      "basename": "Артист — Цуйоші Ямамото",
+      "path": "Артисти/Артист — Цуйоші Ямамото.md"
+    },
+    {
+      "basename": "TBM-30",
+      "path": "Альбоми/TBM-30.md"
+    },
+    {
+      "basename": "TBM-30_liner",
+      "path": "Liner_Notes/TBM-30_liner.md"
+    },
+    {
+      "basename": "Артист — Йошіо Отомо",
+      "path": "Артисти/Артист — Йошіо Отомо.md"
+    },
+    {
+      "basename": "TBM-51",
+      "path": "Альбоми/TBM-51.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
     },
     {
       "basename": "Індекс_артистів",
       "path": "Індекс_артистів.md"
+    },
+    {
+      "basename": "Інтервʼю",
+      "path": "Інтервʼю.md"
     },
     {
       "basename": "TBM-27",
@@ -23,10 +55,6 @@
     {
       "basename": "TBM-12",
       "path": "Альбоми/TBM-12.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-57",
@@ -47,10 +75,6 @@
     {
       "basename": "TBM-63",
       "path": "Альбоми/TBM-63.md"
-    },
-    {
-      "basename": "Артист — Цуйоші Ямамото",
-      "path": "Артисти/Артист — Цуйоші Ямамото.md"
     },
     {
       "basename": "TBM-41",
@@ -103,10 +127,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "TBM-3007",
-      "path": "Альбоми/TBM-3007.md"
     },
     {
       "basename": "Інтерв'ю з Такеші Фуджі",
@@ -179,26 +199,6 @@
     {
       "basename": "TBM-24",
       "path": "Альбоми/TBM-24.md"
-    },
-    {
-      "basename": "TBM-CD-5038",
-      "path": "Альбоми/TBM-CD-5038.md"
-    },
-    {
-      "basename": "TBM-XR-5043",
-      "path": "Альбоми/TBM-XR-5043.md"
-    },
-    {
-      "basename": "TBM-5002",
-      "path": "Альбоми/TBM-5002.md"
-    },
-    {
-      "basename": "TBM-5001",
-      "path": "Альбоми/TBM-5001.md"
-    },
-    {
-      "basename": "TBM(P)-4003",
-      "path": "Альбоми/TBM(P)-4003.md"
     }
   ],
   "omittedPaths": [],
