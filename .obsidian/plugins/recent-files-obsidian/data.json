@@ -5,6 +5,10 @@
       "path": "Альбоми/TBM-77.md"
     },
     {
+      "basename": "TBM-77_liner",
+      "path": "Liner_Notes/TBM-77_liner.md"
+    },
+    {
       "basename": "Артист — Масару Імада",
       "path": "Артисти/Артист — Масару Імада.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Передмова",
       "path": "Передмова.md"
-    },
-    {
-      "basename": "PAP-25042",
-      "path": "Альбоми/PAP-25042.md"
     }
   ],
   "omittedPaths": [],
