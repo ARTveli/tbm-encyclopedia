@@ -70,7 +70,7 @@ cover: covers/TBM-77.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-77_liner|Коментар Ейічі Фуджі (1976)]] 
+- [[Liner_Notes/TBM-77_liner|(1976)]]
 
 ## Рецензія
 
