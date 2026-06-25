@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
+      "basename": "TBM-36",
+      "path": "Альбоми/TBM-36.md"
+    },
+    {
+      "basename": "TBM-3004",
+      "path": "Альбоми/TBM-3004.md"
+    },
+    {
+      "basename": "Передмова",
+      "path": "Передмова.md"
+    },
+    {
+      "basename": "Автор",
+      "path": "Автор.md"
+    },
+    {
+      "basename": "Індекс_артистів",
+      "path": "Індекс_артистів.md"
+    },
+    {
       "basename": "TBM-33",
       "path": "Альбоми/TBM-33.md"
     },
@@ -37,10 +61,6 @@
       "path": "Liner_Notes/TBM-77_liner.md"
     },
     {
-      "basename": "Каталог",
-      "path": "Каталог.md"
-    },
-    {
       "basename": "TBM-5003",
       "path": "Альбоми/TBM-5003.md"
     },
@@ -71,14 +91,6 @@
     {
       "basename": "Інтервʼю",
       "path": "Інтервʼю.md"
-    },
-    {
-      "basename": "Автор",
-      "path": "Автор.md"
-    },
-    {
-      "basename": "Індекс_артистів",
-      "path": "Індекс_артистів.md"
     },
     {
       "basename": "Now!! – Masaru Imada Quartet_1970(TBM-2)",
@@ -187,18 +199,6 @@
     {
       "basename": "TBM-CD-2842",
       "path": "Альбоми/TBM-CD-2842.md"
-    },
-    {
-      "basename": "Артист — Теруо Накамура",
-      "path": "Артисти/Артист — Теруо Накамура.md"
-    },
-    {
-      "basename": "TBM-18",
-      "path": "Альбоми/TBM-18.md"
-    },
-    {
-      "basename": "Артист — Стів Гроссман",
-      "path": "Артисти/Артист — Стів Гроссман.md"
     }
   ],
   "omittedPaths": [],
