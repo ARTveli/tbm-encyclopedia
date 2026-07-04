@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "TBM-36",
-      "path": "Альбоми/TBM-36.md"
+      "basename": "TBM-5001_liner",
+      "path": "Liner_Notes/TBM-5001_liner.md"
+    },
+    {
+      "basename": "TBM-5001",
+      "path": "Альбоми/TBM-5001.md"
     },
     {
       "basename": "Каталог",
       "path": "Каталог.md"
+    },
+    {
+      "basename": "TBM-23",
+      "path": "Альбоми/TBM-23.md"
+    },
+    {
+      "basename": "TBM-23_liner",
+      "path": "Liner_Notes/TBM-23_liner.md"
+    },
+    {
+      "basename": "TBM-36",
+      "path": "Альбоми/TBM-36.md"
     },
     {
       "basename": "TBM-3004",
@@ -181,24 +197,8 @@
       "path": "Артисти/Артист — Ічіро Міморі.md"
     },
     {
-      "basename": "TBM-23",
-      "path": "Альбоми/TBM-23.md"
-    },
-    {
       "basename": "TBM-1",
       "path": "Альбоми/TBM-1.md"
-    },
-    {
-      "basename": "Артист — Масахіро Кікучі",
-      "path": "Артисти/Артист — Масахіро Кікучі.md"
-    },
-    {
-      "basename": "TBM-1_liner",
-      "path": "Liner_Notes/TBM-1_liner.md"
-    },
-    {
-      "basename": "TBM-CD-2842",
-      "path": "Альбоми/TBM-CD-2842.md"
     }
   ],
   "omittedPaths": [],

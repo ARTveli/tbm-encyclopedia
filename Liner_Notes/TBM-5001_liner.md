@@ -94,8 +94,6 @@ tags:
 
 Отже, ці четверо близькі за віком і мають схожі концепції щодо джазу. Але хоч би що там було, кожен з них є господарем у власному королівстві. Те, що об'єднало їх консенсусом під назвою «блюз» і змусило так приємно і легко свінгувати, — це заслуга продюсера, який любить блюз. Я хочу, щоб це слухали лише справжні шанувальники джазу, не заради нагороди Japan Jazz Award, а для душі.
 
-*(Підпис під фото)*: [[Артист — Сунао Вада|Сунао Вада]] та Такеші Фудзії під час обговорення.
-
 ---
 
 ## Коментарі до композицій
@@ -129,14 +127,14 @@ Master Recorder: A-80 16ch 76cm/sec. (STUDER)
 2channel Recorder: A-80 2ch 38cm/sec. (STUDER)
 Magnetic Tape: 250 (SCOTCH)
 Microphones:
-    Piano; C-451 (AKG) × 2
-    Hammond Organ; RE-20 (ELECTRO-VOICE) × 2
-                   D-24 (AKG)
-    Electric Guitar; MD-421 (SENNHEISER)
-    Bass; RE-20 (ELECTRO-VOICE)
-          LINE
-    Drums; RE-20 / BD
-           MD-421 × 3 / TT. BT. SD.
-           C-451 (AKG) / Hi
-           U-87 (NEUMAN) / Top
+Piano; C-451 (AKG) × 2
+Hammond Organ; RE-20 (ELECTRO-VOICE) × 2
+D-24 (AKG)
+Electric Guitar; MD-421 (SENNHEISER)
+Bass; RE-20 (ELECTRO-VOICE)
+LINE
+Drums; RE-20 / BD
+MD-421 × 3 / TT. BT. SD.
+C-451 (AKG) / Hi
+U-87 (NEUMAN) / Top
 
