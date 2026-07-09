@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "TBM-3007",
+      "path": "Альбоми/TBM-3007.md"
+    },
+    {
+      "basename": "TBM-3007_liner",
+      "path": "Liner_Notes/TBM-3007_liner.md"
+    },
+    {
       "basename": "TBM-5001",
       "path": "Альбоми/TBM-5001.md"
+    },
+    {
+      "basename": "TBM(P)-5018",
+      "path": "Альбоми/TBM(P)-5018.md"
     },
     {
       "basename": "TBM-5001_liner",
@@ -43,14 +55,6 @@
     {
       "basename": "TBM-33",
       "path": "Альбоми/TBM-33.md"
-    },
-    {
-      "basename": "TBM-3007",
-      "path": "Альбоми/TBM-3007.md"
-    },
-    {
-      "basename": "Moon Ray – Yoshio Otomo Quartet With Tsuyoshi Yamamoto_1977(TBM-3007)",
-      "path": "_originals/Moon Ray – Yoshio Otomo Quartet With Tsuyoshi Yamamoto_1977(TBM-3007).md"
     },
     {
       "basename": "TBM-77",
@@ -125,10 +129,6 @@
       "path": "Liner_Notes/TBM-78_liner.md"
     },
     {
-      "basename": "TBM-3007_liner",
-      "path": "Liner_Notes/TBM-3007_liner.md"
-    },
-    {
       "basename": "Артист — Цуйоші Ямамото",
       "path": "Артисти/Артист — Цуйоші Ямамото.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Артист — Ічіро Міморі",
       "path": "Артисти/Артист — Ічіро Міморі.md"
-    },
-    {
-      "basename": "TBM-1",
-      "path": "Альбоми/TBM-1.md"
     }
   ],
   "omittedPaths": [],
