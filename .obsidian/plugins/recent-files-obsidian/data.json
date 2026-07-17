@@ -5,6 +5,10 @@
       "path": "Каталог.md"
     },
     {
+      "basename": "TBM-35",
+      "path": "Альбоми/TBM-35.md"
+    },
+    {
       "basename": "TBM-27",
       "path": "Альбоми/TBM-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TBM-12",
       "path": "Альбоми/TBM-12.md"
-    },
-    {
-      "basename": "TBM-57",
-      "path": "Альбоми/TBM-57.md"
     }
   ],
   "omittedPaths": [],
