@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Хронологія",
+      "path": "Хронологія.md"
+    },
+    {
+      "basename": "Topics",
+      "path": "Topics.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "TBM-22",
+      "path": "Альбоми/TBM-22.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
       "basename": "TBM(P)-5018",
       "path": "Альбоми/TBM(P)-5018.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "TBM-5001_liner",
       "path": "Liner_Notes/TBM-5001_liner.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM-23",
@@ -183,22 +199,6 @@
     {
       "basename": "Артист — Ісао Судзукі",
       "path": "Артисти/Артист — Ісао Судзукі.md"
-    },
-    {
-      "basename": "TBM-76",
-      "path": "Альбоми/TBM-76.md"
-    },
-    {
-      "basename": "TBM-44",
-      "path": "Альбоми/TBM-44.md"
-    },
-    {
-      "basename": "TBM-63",
-      "path": "Альбоми/TBM-63.md"
-    },
-    {
-      "basename": "TBM-41",
-      "path": "Альбоми/TBM-41.md"
     }
   ],
   "omittedPaths": [],
