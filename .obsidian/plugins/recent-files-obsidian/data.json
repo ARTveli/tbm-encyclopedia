@@ -5,6 +5,10 @@
       "path": "Каталог.md"
     },
     {
+      "basename": "TBM-38",
+      "path": "Альбоми/TBM-38.md"
+    },
+    {
       "basename": "TBM-35",
       "path": "Альбоми/TBM-35.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Артист — Кенджі Морі",
       "path": "Артисти/Артист — Кенджі Морі.md"
-    },
-    {
-      "basename": "TBM-12",
-      "path": "Альбоми/TBM-12.md"
     }
   ],
   "omittedPaths": [],
