@@ -5,6 +5,18 @@
       "path": "Каталог.md"
     },
     {
+      "basename": "TBM-51",
+      "path": "Альбоми/TBM-51.md"
+    },
+    {
+      "basename": "TBM-50",
+      "path": "Альбоми/TBM-50.md"
+    },
+    {
+      "basename": "TBM-43",
+      "path": "Альбоми/TBM-43.md"
+    },
+    {
       "basename": "TBM-38",
       "path": "Альбоми/TBM-38.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Артист — Йошіо Отомо",
       "path": "Артисти/Артист — Йошіо Отомо.md"
-    },
-    {
-      "basename": "TBM-51",
-      "path": "Альбоми/TBM-51.md"
-    },
-    {
-      "basename": "TBM-43",
-      "path": "Альбоми/TBM-43.md"
-    },
-    {
-      "basename": "Артист — Кенджі Морі",
-      "path": "Артисти/Артист — Кенджі Морі.md"
     }
   ],
   "omittedPaths": [],
