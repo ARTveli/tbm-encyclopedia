@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "TBM-70_liner",
+      "path": "Liner_Notes/TBM-70_liner.md"
+    },
+    {
+      "basename": "TBM-70",
+      "path": "Альбоми/TBM-70.md"
+    },
+    {
+      "basename": "TBM-1002-3",
+      "path": "Альбоми/TBM-1002-3.md"
+    },
+    {
       "basename": "Каталог",
       "path": "Каталог.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "TBM-60_liner",
       "path": "Liner_Notes/TBM-60_liner.md"
-    },
-    {
-      "basename": "TBM-78",
-      "path": "Альбоми/TBM-78.md"
-    },
-    {
-      "basename": "TBM-78_liner",
-      "path": "Liner_Notes/TBM-78_liner.md"
-    },
-    {
-      "basename": "Артист — Цуйоші Ямамото",
-      "path": "Артисти/Артист — Цуйоші Ямамото.md"
     }
   ],
   "omittedPaths": [],
