@@ -15,7 +15,7 @@ tags: [index, home]
 - 📝 [[Передмова]]
 - 🎤 [[Інтервʼю|Усі інтерв'ю]]
 - 🗂 [[Topics|Тематичні нариси]]
-- 🎛 [Інтерактивна полиця і граф музикантів](https://artveli.github.io/tbm-encyclopedia/explore/)
+- 🎛 <a href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Інтерактивна полиця і граф музикантів</a>
 
 ## Швидкі запити
 
