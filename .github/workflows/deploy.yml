@@ -54,6 +54,12 @@ jobs:
           cd quartz
           npx quartz build
 
+      - name: Build explorer page
+        run: |
+          mkdir -p quartz/public/explore
+          python3 vault/.github/scripts/build_database.py --vault vault --out quartz/public/explore/data.json
+          cp vault/.github/explore/index.html quartz/public/explore/index.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
