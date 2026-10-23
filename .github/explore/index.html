@@ -81,17 +81,11 @@ select{font:inherit;font-size:14px;padding:7px 10px;border-radius:999px;border:1
 .facts{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-size:14px}
 .facts dt{color:var(--muted)}
 .facts dd{margin:0}
-.review{font-size:15px;line-height:1.55}
+.review{font-size:15px;line-height:1.6}
+.review p{margin:0 0 .9em}
 .links{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .btn{display:inline-block;text-decoration:none;font-weight:600;font-size:14px;padding:9px 14px;border-radius:10px;background:var(--accent);color:var(--accent-ink)}
 .btn.ghost{background:var(--chip);color:var(--ink)}
-.recs{display:flex;flex-direction:column;gap:8px}
-.rec{display:flex;gap:12px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:8px;background:var(--bg);cursor:pointer;text-align:left;font:inherit;color:inherit}
-.rec:hover{border-color:var(--accent)}
-.rec .sleeve{width:52px;flex:none;box-shadow:none}
-.rec .gen{padding:5px}.rec .gen .t{font-size:0}.rec .gen .c{font-size:8px}
-.rec b{display:block;font-size:14px}
-.rec small{color:var(--muted);font-size:12px}
 
 /* ── graph ── */
 .gwrap{display:grid;grid-template-columns:1fr 320px;gap:16px;height:calc(100vh - 170px);min-height:480px}
@@ -112,6 +106,32 @@ canvas{display:block;width:100%;height:100%;cursor:grab}
   .grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:14px}
   .dhead .sleeve{width:100px}
 }
+/* ── timeline ── */
+.hist{position:sticky;top:69px;z-index:10;background:var(--bg);padding:10px 0 6px;margin-bottom:8px;border-bottom:1px solid var(--line);
+  display:flex;align-items:flex-end;gap:2px;height:118px;overflow-x:auto}
+.hcol{flex:1 0 14px;min-width:14px;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;background:none;border:0;padding:0;cursor:pointer;color:var(--muted);font:inherit}
+.hcol .hb{width:100%;max-width:26px;background:var(--chip);border-radius:3px 3px 0 0;position:relative;overflow:hidden}
+.hcol .hb i{position:absolute;left:0;right:0;bottom:0;background:var(--accent)}
+.hcol:hover .hb{background:var(--line)}
+.hcol.cur .hb{outline:2px solid var(--ink);outline-offset:1px}
+.hcol .ev{width:5px;height:5px;border-radius:50%;background:var(--ink);margin-top:3px;opacity:0}
+.hcol .ev.on{opacity:.7}
+.hcol small{font-size:10px;height:13px;line-height:13px;font-family:"IBM Plex Mono",monospace}
+.yr{display:grid;grid-template-columns:110px 1fr;gap:20px;padding:22px 0;border-bottom:1px solid var(--line);scroll-margin-top:200px}
+.yr h2{margin:0;font-size:34px;line-height:1;font-family:"IBM Plex Mono",monospace;font-weight:600}
+.yr h2 + p{margin:6px 0 0;color:var(--muted);font-size:13px}
+.ycov{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:10px}
+.ycov .card .sleeve{box-shadow:0 3px 10px rgba(0,0,0,.15)}
+.ycov .gen{padding:6px}.ycov .gen .t{font-size:10px}.ycov .gen .c{font-size:8px}
+.ycov .badge{top:4px;right:4px}.ycov .badge i{font-size:9px;padding:1px 4px}
+.ycov .card.dim{opacity:.18}
+.ycov .card.hit .sleeve{outline:3px solid var(--accent);outline-offset:2px}
+.evs{list-style:none;padding:0;margin:14px 0 0;display:flex;flex-direction:column;gap:8px}
+.evs li{font-size:14px;line-height:1.5;padding-left:14px;border-left:2px solid var(--accent)}
+.evs b{font-weight:600}
+.evs button{font:inherit;font-size:13px;border:0;background:var(--chip);color:var(--ink);border-radius:4px;padding:0 5px;cursor:pointer;font-family:"IBM Plex Mono",monospace}
+.evs button:hover{background:var(--accent);color:var(--accent-ink)}
+@media (max-width:820px){ .yr{grid-template-columns:1fr;gap:10px;scroll-margin-top:130px} .yr h2{font-size:26px} .hist{position:static} }
 [hidden]{display:none!important}
 </style>
 </head>
@@ -122,6 +142,7 @@ canvas{display:block;width:100%;height:100%;cursor:grab}
     <div class="tabs" role="tablist">
       <button role="tab" id="t-shelf" aria-selected="true">Полиця</button>
       <button role="tab" id="t-graph" aria-selected="false">Музиканти</button>
+      <button role="tab" id="t-time" aria-selected="false">Хронологія</button>
     </div>
   </div>
 </header>
@@ -157,6 +178,16 @@ canvas{display:block;width:100%;height:100%;cursor:grab}
       <aside class="side" id="side"></aside>
     </div>
   </section>
+  <section id="v-time" hidden>
+    <div class="controls">
+      <input type="search" id="tq" placeholder="Підсвітити музиканта або звукорежисера…" list="hl-list" autocomplete="off">
+      <datalist id="hl-list"></datalist>
+      <button class="chip" id="t-reset">Скинути</button>
+      <span class="count" id="tcount"></span>
+    </div>
+    <div class="hist" id="hist"></div>
+    <div id="years"></div>
+  </section>
 </main>
 
 <div class="scrim" id="scrim"></div>
@@ -187,18 +218,22 @@ fetch("data.json").then(r=>r.json()).then(d=>{
     ALB.set(a.id, a);
     for (const p of a.personnel){ if(!BY_ARTIST.has(p)) BY_ARTIST.set(p,[]); BY_ARTIST.get(p).push(a); }
   }
-  initShelf(); initGraph(); route();
-}).catch(()=>{ $("#grid").innerHTML = '<p class="empty">Не вдалося завантажити дані.</p>'; });
+  for (const f of [initShelf, initGraph, initTimeline]){ try{ f(); }catch(e){ console.error(f.name, e); } }
+  route();
+}).catch(e=>{ console.error(e); $("#grid").innerHTML = '<p class="empty">Не вдалося завантажити дані.</p>'; });
 
 /* ── вкладки ── */
+let TAB = "shelf";
 function setTab(t){
-  const shelf = t !== "graph";
-  $("#t-shelf").setAttribute("aria-selected", shelf); $("#t-graph").setAttribute("aria-selected", !shelf);
-  $("#v-shelf").hidden = !shelf; $("#v-graph").hidden = shelf;
-  if (!shelf) G.resize();
+  TAB = t;
+  for (const k of ["shelf","graph","time"]){
+    $("#t-"+k).setAttribute("aria-selected", k===t); $("#v-"+k).hidden = k!==t; }
+  if (t==="graph") G.resize();
 }
+const tabHash = () => TAB==="shelf" ? "#" : "#"+TAB;
 $("#t-shelf").onclick = ()=>{ setTab("shelf"); history.replaceState(null,"","#"); };
 $("#t-graph").onclick = ()=>{ setTab("graph"); history.replaceState(null,"","#graph"); };
+$("#t-time").onclick  = ()=>{ setTab("time");  history.replaceState(null,"","#time"); };
 
 /* ── ПОЛИЦЯ ── */
 const F = {q:"", decade:"all", awards:false, liner:false, sort:"year"};
@@ -233,25 +268,10 @@ function renderShelf(){
   $("#empty").hidden = list.length>0;
 }
 
-/* ── рекомендації: спільні музиканти, лідер, звукорежисер, рік ── */
-const engName = e => (e||"").split("(")[0].trim();
-function recommend(a){
-  const mine = new Set(a.personnel);
-  return DB.albums.filter(b=>b.id!==a.id).map(b=>{
-    const shared = b.personnel.filter(p=>mine.has(p));
-    let score = shared.length*3, why=[];
-    if (shared.length) why.push("спільні: "+shared.slice(0,3).join(", ")+(shared.length>3?"…":""));
-    if (a.artist && b.artist===a.artist){ score+=2; }
-    if (engName(a.engineer) && engName(a.engineer)===engName(b.engineer)){ score+=1; if(!shared.length) why.push("звукорежисер "+engName(b.engineer)); }
-    if (a.year && b.year && Math.abs(a.year-b.year)<=2) score+=.5;
-    return {b,score,why};
-  }).filter(x=>x.score>=3).sort((x,y)=>y.score-x.score).slice(0,5);
-}
 
 /* ── картка альбому ── */
 function openAlbum(id){
   const a = ALB.get(id); if(!a) return;
-  const recs = recommend(a);
   const liner = a.liner.map(l=>`<a class="btn ghost" href="${pageUrl(l.url)}">📝 Liner notes · ${esc(l.author)}</a>`).join("");
   $("#drawer").innerHTML = `
     <button class="close" aria-label="Закрити">×</button>
@@ -265,9 +285,7 @@ function openAlbum(id){
       <h3>Запис</h3><dl class="facts">
         ${a.engineer?`<dt>Звукорежисер</dt><dd>${esc(a.engineer)}</dd>`:""}
         ${a.awards?`<dt>Нагороди</dt><dd>${esc(a.awards)}</dd>`:""}</dl>
-      ${a.review?`<h3>Рецензія</h3><p class="review">${esc(a.review)}</p>`:""}
-      ${recs.length?`<h3>Що слухати далі</h3><div class="recs">${recs.map(r=>`<button class="rec" data-id="${esc(r.b.id)}">${sleeve(r.b)}
-        <div><b>${esc(r.b.title)}</b><small>${esc(r.b.artist)} · ${r.b.year||""}<br>${esc(r.why.join(" · "))}</small></div></button>`).join("")}</div>`:""}
+      ${a.review?`<h3>Рецензія</h3><div class="review">${a.review.split(/\n\n+/).map(x=>`<p>${esc(x)}</p>`).join("")}</div>`:""}
     </div>`;
   $("#drawer").classList.add("open"); $("#scrim").classList.add("open");
   $("#drawer").setAttribute("aria-hidden","false"); $("#drawer").scrollTop = 0;
@@ -275,12 +293,11 @@ function openAlbum(id){
 }
 function closeAlbum(){ $("#drawer").classList.remove("open"); $("#scrim").classList.remove("open");
   $("#drawer").setAttribute("aria-hidden","true");
-  history.replaceState(null,"", $("#v-graph").hidden ? "#" : "#graph"); }
+  history.replaceState(null,"", tabHash()); }
 $("#scrim").onclick = closeAlbum;
 document.addEventListener("keydown", e=>{ if(e.key==="Escape") closeAlbum(); });
 $("#drawer").onclick = e=>{
   if (e.target.closest(".close")) return closeAlbum();
-  const r = e.target.closest(".rec"); if (r) return openAlbum(r.dataset.id);
   const p = e.target.closest("[data-p]"); if (p){ closeAlbum(); setTab("graph"); G.focus(p.dataset.p); }
 };
 
@@ -420,12 +437,82 @@ function initGraph(){
   build(); side();
 }
 
+const engName = e => (e||"").split("(")[0].trim();
+
+/* ── ХРОНОЛОГІЯ ── */
+const T = {};
+function initTimeline(){
+  const events = DB.events || [];
+  const byYear = new Map();
+  const add = (y,k,v)=>{ if(!byYear.has(y)) byYear.set(y,{albums:[],events:[],label:String(y)}); byYear.get(y)[k].push(v); };
+  for (const a of DB.albums) if (a.year) add(a.year,"albums",a);
+  for (const e of events){ add(e.year,"events",e); byYear.get(e.year).label = e.label || String(e.year); }
+  const years = [...byYear.keys()].sort((a,b)=>a-b);
+  if (!years.length) return;
+  const y0 = years[0], y1 = years.at(-1);
+  const maxN = Math.max(...years.map(y=>byYear.get(y).albums.length), 1);
+
+  // каталожний номер у тексті події → альбом
+  const norm = s => s.replace(/\s/g,"").toUpperCase();
+  const CAT = new Map(DB.albums.map(a=>[norm(a.cat), a.id]));
+  const catId = c => CAT.get(norm(c)) || CAT.get(norm(c).replace(/^TBM-/,"TBM-CD-"));
+  const linkify = e => esc(e.text).replace(/TBM\s?(?:\(P\))?-(?:CD-|XR-)?\d+(?:\/\d+)?/g,
+    m => { const id = catId(m); return id ? `<button data-id="${esc(id)}">${m}</button>` : m; });
+
+  // підсвітка: музиканти + звукорежисери
+  const engs = [...new Set(DB.albums.map(a=>engName(a.engineer)).filter(Boolean))];
+  const hlNames = [...new Set([...BY_ARTIST.keys(), ...engs])].sort((a,b)=>a.localeCompare(b));
+  $("#hl-list").innerHTML = hlNames.map(n=>`<option value="${esc(n)}">`).join("");
+  let hl = null;
+  const isHit = a => hl && (a.personnel.includes(hl) || engName(a.engineer)===hl);
+
+  function render(){
+    // гістограма по всіх роках діапазону
+    let h = "";
+    for (let y=y0; y<=y1; y++){
+      const d = byYear.get(y), n = d?.albums.length||0, k = d ? d.albums.filter(isHit).length : 0;
+      h += `<button class="hcol" data-y="${y}" title="${y}: ${n} альб.${d?.events.length?" · "+d.events.length+" под.":""}">
+        <div class="hb" style="height:${n? 6+Math.round(n/maxN*70):2}px">${hl&&k?`<i style="height:${Math.round(k/n*100)}%"></i>`:""}</div>
+        <span class="ev ${d?.events.length?"on":""}"></span><small>${y%5===0?String(y).slice(2):""}</small></button>`;
+    }
+    $("#hist").innerHTML = h;
+
+    $("#years").innerHTML = years.map(y=>{
+      const d = byYear.get(y);
+      const al = [...d.albums].sort((a,b)=>a.cat.localeCompare(b.cat,undefined,{numeric:true}));
+      return `<section class="yr" id="y${y}"><div><h2>${esc(d.label)}</h2><p>${al.length?al.length+" альб.":"подія"}</p></div><div>
+        ${al.length?`<div class="ycov">${al.map(a=>`<button class="card ${hl?(isHit(a)?"hit":"dim"):""}" data-id="${esc(a.id)}" title="${esc(a.cat+" · "+a.title+" — "+a.artist)}">${sleeve(a)}</button>`).join("")}</div>`:""}
+        ${d.events.length?`<ul class="evs">${d.events.map(e=>`<li>${e.date?`<b>${esc(e.date)}:</b> `:""}${linkify(e)}</li>`).join("")}</ul>`:""}
+      </div></section>`;
+    }).join("");
+    const total = hl ? DB.albums.filter(isHit).length : 0;
+    $("#tcount").textContent = hl ? `${hl}: ${total} альб.` : `${y0}–${y1} · ${events.length} подій`;
+  }
+
+  function go(y){
+    const target = years.find(x=>x>=y) ?? years.at(-1);
+    document.getElementById("y"+target)?.scrollIntoView({behavior:"smooth"});
+    document.querySelectorAll(".hcol").forEach(c=>c.classList.toggle("cur", +c.dataset.y===target));
+  }
+  $("#hist").onclick = e=>{ const c=e.target.closest(".hcol"); if(c) go(+c.dataset.y); };
+  $("#years").onclick = e=>{ const b=e.target.closest("[data-id]"); if(b) openAlbum(b.dataset.id); };
+  $("#tq").addEventListener("change", e=>{ const v=e.target.value.trim(); hl = hlNames.includes(v) ? v : null; render();
+    const first = hl && DB.albums.filter(isHit).map(a=>a.year).filter(Boolean).sort((a,b)=>a-b)[0];
+    if (first) go(first); });
+  $("#t-reset").onclick = ()=>{ hl=null; $("#tq").value=""; render(); };
+
+  Object.assign(T,{go});
+  render();
+}
+
 /* ── глибокі посилання: #album=TBM-23, #artist=Ім'я, #graph ── */
 function route(){
   const h = decodeURIComponent(location.hash.slice(1));
   if (h.startsWith("album=")) openAlbum(h.slice(6));
   else if (h.startsWith("artist=")){ setTab("graph"); G.focus(h.slice(7)); }
   else if (h==="graph") setTab("graph");
+  else if (h==="time") setTab("time");
+  else if (h.startsWith("year=")){ setTab("time"); T.go(+h.slice(5)); }
 }
 </script>
 </body>

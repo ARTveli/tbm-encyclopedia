@@ -124,7 +124,8 @@ def main():
         cover = fm.get("cover")
         if cover and not (v / cover).exists():
             cover = None
-        review = strip_md(section(body, "Рецензія"))
+        review = "\n\n".join(x for x in (strip_md(par) for par in
+                  re.split(r"\n\s*\n", section(body, "Рецензія"))) if x)
         personnel = [p for p in (fm.get("personnel") or []) if p]
         albums.append({
             "id": f.stem,
@@ -138,23 +139,47 @@ def main():
             "awards": fm.get("awards") or "",
             "personnel": personnel,
             "cover": cover,
-            "review": review[:600] + ("…" if len(review) > 600 else ""),
+            "review": review,
             "liner": liners.get(cat, []),
             "url": slugify(f"Альбоми/{f.stem}"),
         })
 
     albums.sort(key=lambda a: (a["year"] or 9999, a["cat"]))
 
+    # ── Хронологія лейблу ──
+    events = []
+    chron = next((f for f in v.rglob("Хронологія*.md")
+                  if ".obsidian" not in f.parts and "_originals" not in f.parts), None)
+    if chron:
+        _, cbody = parse_frontmatter(chron.read_text(encoding="utf-8"))
+        year = label = None
+        for line in cbody.split("\n"):
+            m = re.match(r"^\s*(?:#+\s*)?\**\s*(\d{4})(?:\s*[~–-]\s*(\d{4}))?\s*р", line)
+            if m and not re.match(r"^\s*[*-]\s", line):
+                year = int(m.group(1))
+                label = f"{m.group(1)}–{m.group(2)}" if m.group(2) else m.group(1)
+                continue
+            m = re.match(r"^\s*[*-]\s+(.*)$", line)
+            if m and year:
+                raw = m.group(1)
+                dm = re.match(r"^\*\*(.+?):?\*\*:?\s*(.*)$", raw)
+                date, text = (dm.group(1).rstrip(":"), dm.group(2)) if dm else ("", raw)
+                text = strip_md(text)
+                cats = re.findall(r"TBM\s?(?:\(P\))?-(?:CD-|XR-)?\d+(?:/\d+)?", text)
+                events.append({"year": year, "label": label, "date": strip_md(date),
+                               "text": text, "cats": [c.replace(" ", "") for c in cats]})
+
+
     # лишаємо тільки артистів, що фігурують у складах
     used = {p for a in albums for p in a["personnel"]}
     artists = {k: val for k, val in artists.items() if k in used}
 
-    data = {"albums": albums, "artists": artists}
+    data = {"albums": albums, "artists": artists, "events": events}
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"✓ data.json: {len(albums)} альбомів, {len(artists)} артистів, "
           f"{sum(len(x) for x in liners.values())} liner notes, "
-          f"{sum(1 for a in albums if a['cover'])} обкладинок → {args.out}")
+          f"{sum(1 for a in albums if a['cover'])} обкладинок, {len(events)} подій хронології → {args.out}")
 
 
 if __name__ == "__main__":
