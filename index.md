@@ -10,11 +10,7 @@ tags: [index, home]
 <p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · 1970–2003</p>
 <h1 class="tbm-title">TBM Енциклопедія</h1>
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
-<div class="tbm-cta">
-<a class="tbm-btn" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Полиця альбомів</a>
 </div>
-</div>
-<a class="tbm-stack" id="tbm-stack" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore aria-label="Полиця альбомів"></a>
 </div>
 <div class="tbm-stats">
 <div><b>142</b><span>альбомів</span></div>
@@ -27,12 +23,13 @@ tags: [index, home]
 ## Розділи
 
 <div class="tbm-sections">
-<a href="Каталог"><span>01</span><b>Каталог релізів</b><small>Повний хронологічний список</small></a>
-<a href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore><span>02</span><b>Хронологія лейблу</b><small>Інтерактивна шкала 1963–2014</small></a>
-<a href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore><span>03</span><b>Граф музикантів</b><small>414 музикантів і їхні зв&#x27;язки</small></a>
-<a href="Інтервʼю"><span>04</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
-<a href="Topics"><span>05</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
-<a href="Передмова"><span>06</span><b>Передмова</b><small>Про книгу та переклад</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore><span>01</span><b>Полиця альбомів</b><small>Обкладинки, пошук і фільтри</small></a>
+<a href="Каталог"><span>02</span><b>Каталог релізів</b><small>Повний хронологічний список</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore><span>03</span><b>Хронологія лейблу</b><small>Інтерактивна шкала 1963–2014</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore><span>04</span><b>Граф музикантів</b><small>414 музикантів і їхні зв&#x27;язки</small></a>
+<a href="Інтервʼю"><span>05</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
+<a href="Topics"><span>06</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
+<a href="Передмова"><span>07</span><b>Передмова</b><small>Про книгу та переклад</small></a>
 </div>
 <!-- tbm-home:end -->
 

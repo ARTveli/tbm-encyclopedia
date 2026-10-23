@@ -67,6 +67,7 @@ def collect(vault: Path):
 def build_block(albums, stats) -> str:
     e = html.escape
     sections = [
+        (f"{SITE}/explore/", "Полиця альбомів", "Обкладинки, пошук і фільтри"),
         ("Каталог", "Каталог релізів", "Повний хронологічний список"),
         (f"{SITE}/explore/#time", "Хронологія лейблу", "Інтерактивна шкала 1963–2014"),
         (f"{SITE}/explore/#graph", "Граф музикантів", f'{stats["artists"]} музикантів і їхні зв\'язки'),
@@ -90,11 +91,7 @@ def build_block(albums, stats) -> str:
 <p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · {e(stats["span"])}</p>
 <h1 class="tbm-title">TBM Енциклопедія</h1>
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
-<div class="tbm-cta">
-<a class="tbm-btn" href="{SITE}/explore/" data-router-ignore>Полиця альбомів</a>
 </div>
-</div>
-<a class="tbm-stack" id="tbm-stack" href="{SITE}/explore/" data-router-ignore aria-label="Полиця альбомів"></a>
 </div>
 <div class="tbm-stats">
 {stat(stats["albums"], "альбомів")}
