@@ -133,6 +133,8 @@ canvas{display:block;width:100%;height:100%;cursor:grab}
 .evs button:hover{background:var(--accent);color:var(--accent-ink)}
 @media (max-width:820px){ .yr{grid-template-columns:1fr;gap:10px;scroll-margin-top:130px} .yr h2{font-size:26px} .hist{position:static} }
 [hidden]{display:none!important}
+abbr.ins{text-decoration:underline dotted;text-underline-offset:3px;cursor:help;position:relative;outline:0}
+abbr.ins:hover::after,abbr.ins:focus::after{content:attr(data-t);position:absolute;left:0;top:calc(100% + 6px);white-space:nowrap;background:var(--ink);color:var(--bg);font-size:12px;padding:4px 8px;border-radius:6px;z-index:20;pointer-events:none}
 </style>
 </head>
 <body>
@@ -400,13 +402,16 @@ function initGraph(){
     for (const a of albums) for (const p of a.personnel) if (p!==sel) co.set(p,(co.get(p)||0)+1);
     const topCo = [...co].sort((a,b)=>b[1]-a[1]).slice(0,10);
     const info = DB.artists[sel];
-    el.innerHTML = `<h2>${esc(sel)}</h2><p>${info?.instr?esc(info.instr)+" · ":""}${albums.length} альб.
+    el.innerHTML = `<h2>${esc(sel)}</h2><p>${info?.instr?instrHtml(info.instr)+" · ":""}${albums.length} альб.
       ${info?` · <a href="${pageUrl(info.url)}">сторінка</a>`:""}</p>
       <h3 style="font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em">Альбоми</h3>
       <ul>${albums.map(a=>`<li><button data-id="${esc(a.id)}"><span class="mono">${a.year||""} ${esc(a.cat)}</span>${esc(a.title)}</button></li>`).join("")}</ul>
       ${topCo.length?`<h3 style="font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-top:18px">Найчастіше грав з</h3>
       <ul>${topCo.map(([n,c])=>`<li><button data-a="${esc(n)}"><span class="mono">${c}×</span>${esc(n)}</button></li>`).join("")}</ul>`:""}`;
   }
+  const INSTR = {afl:"альт-флейта",arr:"аранжування",as:"альт-саксофон",b:"бас (контрабас)",bcl:"бас-кларнет",bs:"баритон-саксофон",btb:"бас-тромбон",cho:"бек-вокал (хор)",cl:"кларнет",com:"композитор",con:"диригент",ds:"ударні",elb:"бас-гітара",elp:"електропіаніно",fgh:"флюгельгорн",fl:"флейта",frh:"валторна",g:"гітара",hca:"губна гармоніка",org:"орган",p:"фортепіано",per:"перкусія",pic:"пікколо",piccolo:"пікколо",ss:"сопрано-саксофон",syn:"синтезатор",tb:"тромбон",tp:"труба",ts:"тенор-саксофон",vib:"вібрафон",vln:"скрипка",vin:"скрипка",vo:"вокал",vtb:"вентильний тромбон",cello:"віолончель",viola:"альт (віола)",key:"клавішні",conga:"конги",tabla:"табла",wadaiko:"вадайко (японський барабан)",etc:"та інші інструменти","etc.":"та інші інструменти"};
+  const instrHtml = s => String(s).split(",").map(t=>{ t=t.trim(); const k=t.toLowerCase().replace(/\.$/,""); const d=INSTR[t.toLowerCase()]||INSTR[k];
+    return d?`<abbr class="ins" tabindex="0" data-t="${esc(d)}">${esc(t)}</abbr>`:esc(t); }).join(", ");
   $("#side").onclick = e=>{
     const a = e.target.closest("[data-a]"); if (a) return focus(a.dataset.a);
     const b = e.target.closest("[data-id]"); if (b) openAlbum(b.dataset.id);
