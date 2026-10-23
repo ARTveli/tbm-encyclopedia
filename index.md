@@ -6,15 +6,15 @@ tags: [index, home]
 
 <!-- tbm-home:start -->
 <div class="tbm-hero">
-<img class="tbm-logo" src="static/icon.png" alt="">
-<div>
-<p class="tbm-kicker">Three Blind Mice · Tokyo · 1970–2003</p>
+<div class="tbm-hero-text">
+<p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · 1970–2003</p>
 <h1 class="tbm-title">TBM Енциклопедія</h1>
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
 <div class="tbm-cta">
 <a class="tbm-btn" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Полиця альбомів</a>
 </div>
 </div>
+<a class="tbm-stack" id="tbm-stack" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore aria-label="Полиця альбомів"></a>
 </div>
 <div class="tbm-stats">
 <div><b>142</b><span>альбомів</span></div>
@@ -22,6 +22,7 @@ tags: [index, home]
 <div><b>39</b><span>liner notes</span></div>
 <div><b>11</b><span>статей та інтерв&#x27;ю</span></div>
 </div>
+<div class="tbm-daily" id="tbm-daily"></div>
 
 ## Розділи
 

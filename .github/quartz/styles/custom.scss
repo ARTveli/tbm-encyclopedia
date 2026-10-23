@@ -102,24 +102,32 @@ body[data-slug="index"] {
 
 .tbm-hero {
   display: flex;
-  gap: 1.6rem;
-  align-items: flex-start;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-between;
   margin: 2rem 0 1.5rem;
 
-  .tbm-logo {
-    width: 96px;
-    height: 96px;
-    border-radius: 50%;
-    flex: none;
-    box-shadow: $shadow;
+  .tbm-hero-text {
+    flex: 1 1 auto;
+    min-width: 0;
   }
   .tbm-kicker {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
     font-family: $mono;
     font-size: 0.8rem;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--gray);
-    margin: 0 0 0.4rem;
+    margin: 0 0 0.6rem;
+  }
+  .tbm-logo {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    margin: 0;
+    flex: none;
   }
   .tbm-title {
     font-size: 2.8rem;
@@ -133,19 +141,172 @@ body[data-slug="index"] {
     line-height: 1.55;
     color: var(--darkgray);
     margin: 0 0 1.2rem;
-    max-width: 40em;
+    max-width: 36em;
   }
 
   @media all and (max-width: 800px) {
     flex-direction: column;
-    gap: 1rem;
+    align-items: flex-start;
+    gap: 1.2rem;
     margin-top: 1rem;
-    .tbm-logo {
-      width: 64px;
-      height: 64px;
-    }
     .tbm-title {
       font-size: 2.1rem;
+    }
+  }
+}
+
+// ── Стопка платівок (заповнює TBMHome) ──
+a.tbm-stack {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  width: 250px;
+  text-decoration: none;
+  color: var(--gray);
+  &:empty {
+    display: none;
+  }
+  .tbm-stack-art {
+    position: relative;
+    display: block;
+    width: 250px;
+    height: 180px;
+  }
+  .tbm-sleeve,
+  .tbm-disc {
+    position: absolute;
+    left: 55px;
+    top: 15px;
+    width: 150px;
+    height: 150px;
+    transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+  .tbm-sleeve {
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--lightgray);
+    box-shadow: 0 8px 24px rgba(30, 20, 10, 0.25);
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+  }
+  .s0 { transform: translate(-30px, 8px) rotate(-9deg); }
+  .s1 { transform: translate(-12px, 3px) rotate(-4deg); }
+  .s2 { transform: translate(8px, 1px) rotate(3deg); }
+  .s3 { transform: translate(0, 0) rotate(0); }
+  .tbm-disc {
+    border-radius: 50%;
+    background:
+      radial-gradient(circle, var(--secondary) 0 15%, #111 15.5% 17%, transparent 17.5%),
+      repeating-radial-gradient(circle, #151515 0 2px, #262626 2px 3.5px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    transform: translate(0, 0) rotate(0);
+  }
+  .tbm-stack-label {
+    font-family: $mono;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    transition: color 0.2s;
+  }
+  &:hover {
+    color: var(--secondary);
+    .s0 { transform: translate(-58px, 14px) rotate(-15deg); }
+    .s1 { transform: translate(-30px, 6px) rotate(-8deg); }
+    .s2 { transform: translate(-4px, 2px) rotate(-2deg); }
+    .s3 { transform: translate(-30px, 0) rotate(0); }
+    .tbm-disc { transform: translate(52px, 0) rotate(160deg); }
+  }
+  @media all and (max-width: 800px) {
+    align-self: center;
+  }
+}
+
+// ── Альбом дня (заповнює TBMHome) ──
+.tbm-daily {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 1.4rem;
+  align-items: start;
+  padding: 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+  margin: 1.5rem 0 0.5rem;
+  &:empty {
+    display: none;
+  }
+  .tbm-daily-cover {
+    display: block;
+    aspect-ratio: 1;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: $shadow;
+    text-decoration: none;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+  }
+  .tbm-daily-k {
+    font-family: $mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--secondary);
+    margin: 0.1rem 0 0.4rem;
+  }
+  h3 {
+    margin: 0 0 0.25rem;
+    font-size: 1.45rem;
+    line-height: 1.15;
+  }
+  .tbm-daily-a {
+    margin: 0 0 0.7rem;
+    color: var(--gray);
+    font-size: 0.92rem;
+    span {
+      font-family: $mono;
+      font-size: 0.85em;
+    }
+  }
+  .tbm-daily-r {
+    margin: 0 0 1rem;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .tbm-daily-act {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  button.tbm-btn {
+    border: 0;
+    font-family: inherit;
+    line-height: inherit;
+    cursor: pointer;
+  }
+  .external-icon {
+    display: none;
+  }
+  @media all and (max-width: 800px) {
+    grid-template-columns: 1fr;
+    .tbm-daily-cover {
+      width: 60%;
     }
   }
 }
@@ -156,7 +317,8 @@ body[data-slug="index"] {
   gap: 0.5rem;
 }
 
-a.tbm-btn {
+a.tbm-btn,
+button.tbm-btn {
   display: inline-block;
   text-decoration: none;
   font-weight: 600;

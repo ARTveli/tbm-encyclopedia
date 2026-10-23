@@ -20,7 +20,6 @@ from pathlib import Path
 
 SITE = "https://artveli.github.io/tbm-encyclopedia"
 START, END = "<!-- tbm-home:start -->", "<!-- tbm-home:end -->"
-STRIP_SIZE = 14
 
 
 def fm(text: str) -> dict:
@@ -67,17 +66,6 @@ def collect(vault: Path):
 
 def build_block(albums, stats) -> str:
     e = html.escape
-    with_cover = [a for a in albums if a["cover"]]
-    strip = [a for a in with_cover if a["awards"]]
-    strip += [a for a in with_cover if not a["awards"]]
-    strip = sorted(strip[:STRIP_SIZE], key=lambda a: (a["year"] or 9999, a["cat"]))
-
-    covers = "\n".join(
-        f'<a href="Альбоми/{e(a["stem"])}" title="{e(a["cat"])} · {e(a["title"])} — {e(a["artist"])}">'
-        f'<img src="{e(a["cover"])}" alt="{e(a["title"])}" loading="lazy"></a>'
-        for a in strip
-    )
-
     sections = [
         ("Каталог", "Каталог релізів", "Повний хронологічний список"),
         (f"{SITE}/explore/#time", "Хронологія лейблу", "Інтерактивна шкала 1963–2014"),
@@ -98,15 +86,15 @@ def build_block(albums, stats) -> str:
 
     return f"""{START}
 <div class="tbm-hero">
-<img class="tbm-logo" src="static/icon.png" alt="">
-<div>
-<p class="tbm-kicker">Three Blind Mice · Tokyo · {e(stats["span"])}</p>
+<div class="tbm-hero-text">
+<p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · {e(stats["span"])}</p>
 <h1 class="tbm-title">TBM Енциклопедія</h1>
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
 <div class="tbm-cta">
 <a class="tbm-btn" href="{SITE}/explore/" data-router-ignore>Полиця альбомів</a>
 </div>
 </div>
+<a class="tbm-stack" id="tbm-stack" href="{SITE}/explore/" data-router-ignore aria-label="Полиця альбомів"></a>
 </div>
 <div class="tbm-stats">
 {stat(stats["albums"], "альбомів")}
@@ -114,6 +102,7 @@ def build_block(albums, stats) -> str:
 {stat(stats["liner"], "liner notes")}
 {stat(stats["interviews"] + stats["topics"], "статей та інтерв'ю")}
 </div>
+<div class="tbm-daily" id="tbm-daily"></div>
 
 ## Розділи
 
@@ -156,7 +145,7 @@ def main():
     new = front + "\n" + build_block(albums, stats) + "\n" + tail
 
     print(f"Альбомів: {stats['albums']} · музикантів: {stats['artists']} · liner notes: {stats['liner']} · "
-          f"обкладинок у стрічці: {min(STRIP_SIZE, sum(1 for x in albums if x['cover']))}")
+          f"обкладинок: {sum(1 for x in albums if x['cover'])}")
     if a.dry_run:
         print("\n[DRY-RUN] Перші 25 рядків нового index.md:\n")
         print("\n".join(new.split("\n")[:25]))
