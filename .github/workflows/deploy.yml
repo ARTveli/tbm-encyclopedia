@@ -45,6 +45,7 @@ jobs:
         run: |
           cp vault/.github/quartz/quartz.config.ts quartz/quartz.config.ts
           cp vault/.github/quartz/quartz.layout.ts quartz/quartz.layout.ts
+          cp vault/.github/quartz/styles/custom.scss quartz/quartz/styles/custom.scss
           cp vault/.github/quartz/components/TBMFooter.tsx quartz/quartz/components/TBMFooter.tsx
           cp vault/.github/quartz/static/icon.png quartz/quartz/static/icon.png
           cp vault/.github/quartz/static/og-image.png quartz/quartz/static/og-image.png

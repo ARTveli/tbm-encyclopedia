@@ -4,22 +4,56 @@ type: index
 tags: [index, home]
 ---
 
-# TBM Енциклопедія
-
-Інтерактивний переклад книги *Three Blind Mice — Complete Disc Guide*.
+<!-- tbm-home:start -->
+<div class="tbm-hero">
+<img class="tbm-logo" src="static/icon.png" alt="">
+<div>
+<p class="tbm-kicker">Three Blind Mice · Tokyo · 1970–2003</p>
+<h1 class="tbm-title">TBM Енциклопедія</h1>
+<p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
+<div class="tbm-cta">
+<a class="tbm-btn" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Полиця альбомів</a>
+<a class="tbm-btn ghost" href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore>Граф музикантів</a>
+<a class="tbm-btn ghost" href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore>Хронологія</a>
+</div>
+</div>
+</div>
+<div class="tbm-stats">
+<div><b>142</b><span>альбомів</span></div>
+<div><b>414</b><span>музикантів</span></div>
+<div><b>39</b><span>liner notes</span></div>
+<div><b>11</b><span>статей та інтерв&#x27;ю</span></div>
+</div>
+<div class="tbm-strip">
+<a href="Альбоми/TBM-1" title="TBM-1 · Mine — Квінтет Косуке Міне"><img src="covers/TBM-1.jpg" alt="Mine" loading="lazy"></a>
+<a href="Альбоми/TBM-2" title="TBM-2 · Now!! — Квартет Масару Імади"><img src="covers/TBM-2.jpg" alt="Now!!" loading="lazy"></a>
+<a href="Альбоми/TBM-10" title="TBM-10 · Free Form Suite — Масаюкі Такаянагі та New Direction for the Arts"><img src="covers/TBM-10.jpg" alt="Free Form Suite" loading="lazy"></a>
+<a href="Альбоми/TBM-1001" title="TBM-1001 · Jazz Orchestra &#x27;73 — Шуко Мідзуно"><img src="covers/TBM-1001.jpg" alt="Jazz Orchestra &#x27;73" loading="lazy"></a>
+<a href="Альбоми/TBM-15" title="TBM-15 · Blow Up — Тріо та квартет Ісао Судзукі"><img src="covers/TBM-15.jpg" alt="Blow Up" loading="lazy"></a>
+<a href="Альбоми/TBM-17" title="TBM-17 · Live! — Квінтет Терумаси Хіно"><img src="covers/TBM-17.jpg" alt="Live!" loading="lazy"></a>
+<a href="Альбоми/TBM-19" title="TBM-19 · Morning Flight — Квінтет Хіроші Фукумури"><img src="covers/TBM-19.jpg" alt="Morning Flight" loading="lazy"></a>
+<a href="Альбоми/TBM-23" title="TBM-23 · Midnight Sugar — Тріо Цуйоші Ямамото"><img src="covers/TBM-23.jpg" alt="Midnight Sugar" loading="lazy"></a>
+<a href="Альбоми/TBM-25" title="TBM-25 · Blues World — Квартет та квінтет Сунао Вади"><img src="covers/TBM-25.jpg" alt="Blues World" loading="lazy"></a>
+<a href="Альбоми/TBM-30" title="TBM-30 · Misty — Тріо Цуйоші Ямамото"><img src="covers/TBM-30.jpg" alt="Misty" loading="lazy"></a>
+<a href="Альбоми/TBM-1004" title="TBM-1004 · Jazz Orchestra &#x27;75 — Шуко Мідзуно"><img src="covers/TBM-1004.jpg" alt="Jazz Orchestra &#x27;75" loading="lazy"></a>
+<a href="Альбоми/TBM-1005" title="TBM-1005 · Scandinavian Suite — Бінго Мікі, Тацуя Такахаші та Tokyo Union"><img src="covers/TBM-1005.jpg" alt="Scandinavian Suite" loading="lazy"></a>
+<a href="Альбоми/TBM(P)-4003" title="TBM(P)-4003 · Dream Traveler — ZAP"><img src="covers/TBM(P)-4003.jpg" alt="Dream Traveler" loading="lazy"></a>
+<a href="Альбоми/TBM(P)-5014" title="TBM(P)-5014 · Samba de Sun — Квартет Хідехіко Мацумото"><img src="covers/TBM(P)-5014.jpg" alt="Samba de Sun" loading="lazy"></a>
+</div>
 
 ## Розділи
-- 📀 [[Каталог|Повний хронологічний каталог релізів]]
-- 📅 [[Хронологія|Хронологія лейблу]]
-- 🎼 [[Індекс_артистів|Індекс артистів]]
-- 📝 [[Передмова]]
-- 🎤 [[Інтервʼю|Усі інтерв'ю]]
-- 🗂 [[Topics|Тематичні нариси]]
-- 🎛 <a href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Інтерактивна полиця і граф музикантів</a>
 
-## Швидкі запити
+<div class="tbm-sections">
+<a href="Каталог"><span>01</span><b>Каталог релізів</b><small>Повний хронологічний список</small></a>
+<a href="Хронологія"><span>02</span><b>Хронологія лейблу</b><small>Події 1969–2014</small></a>
+<a href="Індекс_артистів"><span>03</span><b>Індекс артистів</b><small>414 музикантів</small></a>
+<a href="Інтервʼю"><span>04</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
+<a href="Topics"><span>05</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
+<a href="Передмова"><span>06</span><b>Передмова</b><small>Про книгу та переклад</small></a>
+</div>
+<!-- tbm-home:end -->
 
-### Альбоми з нагородами
+## Альбоми з нагородами
 | Каталог | Артист | Рік | Нагорода |
 |---------|--------|-----|----------|
 | [[Альбоми/TBM-1\|TBM-1]] | Квінтет Косуке Міне | 1970 | 1970 рік «Jazz Disc Award, премія Japanese Jazz, 5-те місце» |
@@ -50,13 +84,13 @@ tags: [index, home]
 | [[Альбоми/TBM(P)-4003\|TBM(P)-4003]] | ZAP | 1979 | «2-й Японський Джазовий Гран-прі, Найкращий гурт» |
 | [[Альбоми/TBM(P)-5014\|TBM(P)-5014]] | Квартет Хідехіко Мацумото | 1979 | Пам'ятна робота на честь здобуття премії «Fumio Nanri Award» за 1978 рік від |
 
-### Усі інтерв'ю
+## Усі інтерв'ю
 - [[Інтервʼю/Інтерв'ю з Такеші Фуджі|Інтерв'ю з Такеші Фуджі]]
 - [[Інтервʼю/Інтерв'ю з Йосіхіко Каннарі|Інтерв'ю з Йосіхіко Каннарі]]
 - [[Інтервʼю/Інтерв'ю з Кокі Ханавою|Інтерв'ю з Кокі Ханавою]]
 - [[Інтервʼю/Інтерв'ю з Цуйоші Ямамото|Інтерв'ю з Цуйоші Ямамото]] 
 
-### Тематичні нариси
+## Тематичні нариси
 - [[Topics/TBM Topics 1- Музиканти розповідають про сесії в «Гінпарі» (Ginparis)|TBM Topics 1: Музиканти розповідають про сесії в «Гінпарі» (Ginparis)]]
 - [[Topics/TBM Topics 2- Японська джазова сцена до та після заснування TBM|TBM Topics 2: Японська джазова сцена до та після заснування TBM]]
 - [[Topics/TBM Topics 3- Мої улюблені альбоми TBM|TBM Topics 3: Мої улюблені альбоми TBM]]
