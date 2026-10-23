@@ -24,22 +24,6 @@ tags: [index, home]
 <div><b>39</b><span>liner notes</span></div>
 <div><b>11</b><span>статей та інтерв&#x27;ю</span></div>
 </div>
-<div class="tbm-strip">
-<a href="Альбоми/TBM-1" title="TBM-1 · Mine — Квінтет Косуке Міне"><img src="covers/TBM-1.jpg" alt="Mine" loading="lazy"></a>
-<a href="Альбоми/TBM-2" title="TBM-2 · Now!! — Квартет Масару Імади"><img src="covers/TBM-2.jpg" alt="Now!!" loading="lazy"></a>
-<a href="Альбоми/TBM-10" title="TBM-10 · Free Form Suite — Масаюкі Такаянагі та New Direction for the Arts"><img src="covers/TBM-10.jpg" alt="Free Form Suite" loading="lazy"></a>
-<a href="Альбоми/TBM-1001" title="TBM-1001 · Jazz Orchestra &#x27;73 — Шуко Мідзуно"><img src="covers/TBM-1001.jpg" alt="Jazz Orchestra &#x27;73" loading="lazy"></a>
-<a href="Альбоми/TBM-15" title="TBM-15 · Blow Up — Тріо та квартет Ісао Судзукі"><img src="covers/TBM-15.jpg" alt="Blow Up" loading="lazy"></a>
-<a href="Альбоми/TBM-17" title="TBM-17 · Live! — Квінтет Терумаси Хіно"><img src="covers/TBM-17.jpg" alt="Live!" loading="lazy"></a>
-<a href="Альбоми/TBM-19" title="TBM-19 · Morning Flight — Квінтет Хіроші Фукумури"><img src="covers/TBM-19.jpg" alt="Morning Flight" loading="lazy"></a>
-<a href="Альбоми/TBM-23" title="TBM-23 · Midnight Sugar — Тріо Цуйоші Ямамото"><img src="covers/TBM-23.jpg" alt="Midnight Sugar" loading="lazy"></a>
-<a href="Альбоми/TBM-25" title="TBM-25 · Blues World — Квартет та квінтет Сунао Вади"><img src="covers/TBM-25.jpg" alt="Blues World" loading="lazy"></a>
-<a href="Альбоми/TBM-30" title="TBM-30 · Misty — Тріо Цуйоші Ямамото"><img src="covers/TBM-30.jpg" alt="Misty" loading="lazy"></a>
-<a href="Альбоми/TBM-1004" title="TBM-1004 · Jazz Orchestra &#x27;75 — Шуко Мідзуно"><img src="covers/TBM-1004.jpg" alt="Jazz Orchestra &#x27;75" loading="lazy"></a>
-<a href="Альбоми/TBM-1005" title="TBM-1005 · Scandinavian Suite — Бінго Мікі, Тацуя Такахаші та Tokyo Union"><img src="covers/TBM-1005.jpg" alt="Scandinavian Suite" loading="lazy"></a>
-<a href="Альбоми/TBM(P)-4003" title="TBM(P)-4003 · Dream Traveler — ZAP"><img src="covers/TBM(P)-4003.jpg" alt="Dream Traveler" loading="lazy"></a>
-<a href="Альбоми/TBM(P)-5014" title="TBM(P)-5014 · Samba de Sun — Квартет Хідехіко Мацумото"><img src="covers/TBM(P)-5014.jpg" alt="Samba de Sun" loading="lazy"></a>
-</div>
 
 ## Розділи
 

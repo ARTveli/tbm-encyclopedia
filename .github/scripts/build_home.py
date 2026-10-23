@@ -114,9 +114,6 @@ def build_block(albums, stats) -> str:
 {stat(stats["liner"], "liner notes")}
 {stat(stats["interviews"] + stats["topics"], "статей та інтерв'ю")}
 </div>
-<div class="tbm-strip">
-{covers}
-</div>
 
 ## Розділи
 
