@@ -80,16 +80,18 @@ def build_block(albums, stats) -> str:
 
     sections = [
         ("Каталог", "Каталог релізів", "Повний хронологічний список"),
-        ("Хронологія", "Хронологія лейблу", "Події 1969–2014"),
-        ("Індекс_артистів", "Індекс артистів", f'{stats["artists"]} музикантів'),
+        (f"{SITE}/explore/#time", "Хронологія лейблу", "Інтерактивна шкала 1963–2014"),
+        (f"{SITE}/explore/#graph", "Граф музикантів", f'{stats["artists"]} музикантів і їхні зв\'язки'),
         ("Інтервʼю", "Інтерв'ю", f'{stats["interviews"]} розмови'),
         ("Topics", "Тематичні нариси", f'{stats["topics"]} нарисів'),
         ("Передмова", "Передмова", "Про книгу та переклад"),
     ]
-    cards = "\n".join(
-        f'<a href="{e(href)}"><span>{i:02d}</span><b>{e(title)}</b><small>{e(sub)}</small></a>'
-        for i, (href, title, sub) in enumerate(sections, 1)
-    )
+
+    def card(i, href, title, sub):
+        ext = " data-router-ignore" if href.startswith("http") else ""
+        return f'<a href="{e(href)}"{ext}><span>{i:02d}</span><b>{e(title)}</b><small>{e(sub)}</small></a>'
+
+    cards = "\n".join(card(i, *s) for i, s in enumerate(sections, 1))
 
     def stat(n, label):
         return f"<div><b>{n}</b><span>{e(label)}</span></div>"
@@ -103,8 +105,6 @@ def build_block(albums, stats) -> str:
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
 <div class="tbm-cta">
 <a class="tbm-btn" href="{SITE}/explore/" data-router-ignore>Полиця альбомів</a>
-<a class="tbm-btn ghost" href="{SITE}/explore/#graph" data-router-ignore>Граф музикантів</a>
-<a class="tbm-btn ghost" href="{SITE}/explore/#time" data-router-ignore>Хронологія</a>
 </div>
 </div>
 </div>

@@ -13,8 +13,6 @@ tags: [index, home]
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
 <div class="tbm-cta">
 <a class="tbm-btn" href="https://artveli.github.io/tbm-encyclopedia/explore/" data-router-ignore>Полиця альбомів</a>
-<a class="tbm-btn ghost" href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore>Граф музикантів</a>
-<a class="tbm-btn ghost" href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore>Хронологія</a>
 </div>
 </div>
 </div>
@@ -29,8 +27,8 @@ tags: [index, home]
 
 <div class="tbm-sections">
 <a href="Каталог"><span>01</span><b>Каталог релізів</b><small>Повний хронологічний список</small></a>
-<a href="Хронологія"><span>02</span><b>Хронологія лейблу</b><small>Події 1969–2014</small></a>
-<a href="Індекс_артистів"><span>03</span><b>Індекс артистів</b><small>414 музикантів</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore><span>02</span><b>Хронологія лейблу</b><small>Інтерактивна шкала 1963–2014</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore><span>03</span><b>Граф музикантів</b><small>414 музикантів і їхні зв&#x27;язки</small></a>
 <a href="Інтервʼю"><span>04</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
 <a href="Topics"><span>05</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
 <a href="Передмова"><span>06</span><b>Передмова</b><small>Про книгу та переклад</small></a>
