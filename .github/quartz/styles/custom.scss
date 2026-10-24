@@ -453,3 +453,153 @@ button.tbm-btn {
 .tbm-sections .external-icon {
   display: none;
 }
+
+// ── Головна: без провідника зліва і без графа/змісту справа ──
+body[data-slug="index"] {
+  .sidebar.left .explorer,
+  .sidebar.right > * {
+    display: none;
+  }
+}
+
+// ── Liner Notes: сторінка-список ──
+body[data-slug="Liner_Notes/index"],
+body[data-slug="Liner_Notes"] {
+  .page-listing,
+  .content-meta,
+  .tags,
+  .sidebar.right > * {
+    display: none;
+  }
+}
+
+// окремий liner note: без тегів і зайвих блоків справа
+body[data-slug^="Liner_Notes/"] {
+  .tags,
+  .sidebar.right .graph,
+  .sidebar.right .backlinks {
+    display: none;
+  }
+}
+
+.tbm-ln-lead {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--darkgray);
+  max-width: 38em;
+  margin: 0.4rem 0 1.6rem;
+}
+
+.tbm-ln-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  .external-icon {
+    display: none;
+  }
+}
+
+a.tbm-ln {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 1.1rem;
+  align-items: start;
+  padding: 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+  color: var(--dark);
+  text-decoration: none;
+  transition: border-color 0.15s, transform 0.15s;
+  &:hover {
+    border-color: var(--secondary);
+    transform: translateY(-2px);
+    color: var(--dark);
+  }
+  .tbm-ln-cover {
+    display: block;
+    aspect-ratio: 1;
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--lightgray);
+    box-shadow: $shadow;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+    i {
+      display: flex;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+      font-family: $mono;
+      font-style: normal;
+      font-size: 0.75rem;
+      color: var(--gray);
+    }
+  }
+  .tbm-ln-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+  .tbm-ln-k {
+    font-family: $mono;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--secondary);
+  }
+  b {
+    font-size: 1.12rem;
+    line-height: 1.25;
+  }
+  .tbm-ln-a {
+    color: var(--gray);
+    font-size: 0.9rem;
+  }
+  .tbm-ln-ex {
+    margin-top: 0.45rem;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .tbm-ln-by {
+    margin-top: 0.45rem;
+    font-family: $mono;
+    font-size: 0.72rem;
+    color: var(--gray);
+  }
+  @media all and (max-width: 600px) {
+    grid-template-columns: 76px 1fr;
+    gap: 0.8rem;
+    .tbm-ln-ex {
+      display: none;
+    }
+  }
+}
+
+// однакова висота рядків у всіх картках розділів (внутрішні й зовнішні посилання)
+.tbm-sections a,
+.tbm-sections a.internal {
+  line-height: 1.3;
+  font-weight: inherit;
+  small {
+    line-height: 1.35;
+  }
+}
+
+// граф і зміст — приховані на всіх сторінках
+.sidebar.right .graph,
+.sidebar.right .toc {
+  display: none;
+}

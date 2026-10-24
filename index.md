@@ -30,6 +30,7 @@ tags: [index, home]
 <a href="Інтервʼю"><span>05</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
 <a href="Topics"><span>06</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
 <a href="Передмова"><span>07</span><b>Передмова</b><small>Про книгу та переклад</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/Liner_Notes/" data-router-ignore><span>08</span><b>Liner Notes</b><small>39 текстів з конвертів</small></a>
 </div>
 <!-- tbm-home:end -->
 
