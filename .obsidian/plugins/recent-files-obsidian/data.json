@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "TBM-19",
+      "path": "Альбоми/TBM-19.md"
+    },
+    {
+      "basename": "Каталог",
+      "path": "Каталог.md"
+    },
+    {
+      "basename": "Інтервʼю",
+      "path": "Інтервʼю.md"
+    },
+    {
+      "basename": "Індекс_артистів",
+      "path": "Індекс_артистів.md"
+    },
+    {
+      "basename": "Хронологія",
+      "path": "Хронологія.md"
+    },
+    {
       "basename": "TBM-70",
       "path": "Альбоми/TBM-70.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "TBM-1002-3",
       "path": "Альбоми/TBM-1002-3.md"
-    },
-    {
-      "basename": "Каталог",
-      "path": "Каталог.md"
     },
     {
       "basename": "TBM(P)-1801-2",
@@ -55,18 +71,6 @@
     {
       "basename": "TBM-25",
       "path": "Альбоми/TBM-25.md"
-    },
-    {
-      "basename": "Інтервʼю",
-      "path": "Інтервʼю.md"
-    },
-    {
-      "basename": "Індекс_артистів",
-      "path": "Індекс_артистів.md"
-    },
-    {
-      "basename": "Хронологія",
-      "path": "Хронологія.md"
     },
     {
       "basename": "Topics",
@@ -195,10 +199,6 @@
     {
       "basename": "Now!! – Masaru Imada Quartet_1970(TBM-2)",
       "path": "_originals/Now!! – Masaru Imada Quartet_1970(TBM-2).md"
-    },
-    {
-      "basename": "TBM-60_liner",
-      "path": "Liner_Notes/TBM-60_liner.md"
     }
   ],
   "omittedPaths": [],
