@@ -651,22 +651,22 @@ function initInstr(){
       const ys = [...new Set(lu.filter(([,i])=>has(i,Y)).map(([n])=>n))];
       for (const x of xs) cx.set(x,(cx.get(x)||0)+1);
       for (const y of ys) cy.set(y,(cy.get(y)||0)+1);
-      for (const x of xs) for (const y of ys){ if (x===y) continue; const k=x+"\u0000"+y;
+      for (const x of xs) for (const y of ys){ if (x===y) continue; const k=x+"|"+y;
         if(!pairs.has(k)) pairs.set(k,[]); pairs.get(k).push(a); }
     }
     // рядки й стовпці: музиканти з найбільшою кількістю спільних записів
-    const score = (who, idx) => { const m=new Map(); for (const [k,v] of pairs){ const p=k.split("\u0000")[idx]; m.set(p,(m.get(p)||0)+v.length); } return [...m].sort((a,b)=>b[1]-a[1]).slice(0,who).map(x=>x[0]); };
+    const score = (who, idx) => { const m=new Map(); for (const [k,v] of pairs){ const p=k.split("|")[idx]; m.set(p,(m.get(p)||0)+v.length); } return [...m].sort((a,b)=>b[1]-a[1]).slice(0,who).map(x=>x[0]); };
     const rows = score(14,0), cols = score(14,1);
     const max = Math.max(1,...[...pairs.values()].map(v=>v.length));
     const top = [...pairs].sort((a,b)=>b[1].length-a[1].length).slice(0,6);
-    $("#hm-top").innerHTML = top.map(([k,v])=>{ const [x,y]=k.split("\u0000");
+    $("#hm-top").innerHTML = top.map(([k,v])=>{ const [x,y]=k.split("|");
       return `<li><button data-k="${esc(k)}">${esc(x)} + ${esc(y)}: ${v.length}</button></li>`; }).join("");
     $("#hm").innerHTML = `<thead><tr><th></th>${cols.map(c=>`<th><span>${esc(c)}</span></th>`).join("")}</tr></thead><tbody>${
-      rows.map(r=>`<tr><th>${esc(r)}</th>${cols.map(c=>{ const k=r+"\u0000"+c, n=pairs.get(k)?.length||0;
+      rows.map(r=>`<tr><th>${esc(r)}</th>${cols.map(c=>{ const k=r+"|"+c, n=pairs.get(k)?.length||0;
         const alpha = n ? .18 + .82*n/max : 0;
         return `<td class="${n?"on":""} ${cur===k?"cur":""}" style="${n?`background:color-mix(in srgb, var(--accent) ${Math.round(alpha*100)}%, var(--chip))`:""}">${n?`<button data-k="${esc(k)}" title="${esc(r)} + ${esc(c)}: ${n}" style="color:${alpha>.55?"var(--accent-ink)":"var(--ink)"}">${n}</button>`:""}</td>`; }).join("")}</tr>`).join("")
     }</tbody>`;
-    const show = k => { cur=k; const v=pairs.get(k)||[]; const [x,y]=k.split("\u0000");
+    const show = k => { cur=k; const v=pairs.get(k)||[]; const [x,y]=k.split("|");
       $("#hm-out").innerHTML = `<h3>${esc(x)} (${LBL[X]}) + ${esc(y)} (${LBL[Y]}): ${v.length} альб.</h3>
         <div class="mini">${[...v].sort((a,b)=>(a.year||0)-(b.year||0)).map(a=>`<button class="card" data-id="${esc(a.id)}" title="${esc(a.cat+" "+a.title)}">${sleeve(a)}<div class="meta"><small>${a.year||""}</small></div></button>`).join("")}</div>`;
       document.querySelectorAll("#hm td").forEach(td=>td.classList.toggle("cur", td.querySelector("button")?.dataset.k===k)); };
