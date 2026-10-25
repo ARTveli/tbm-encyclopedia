@@ -20,6 +20,14 @@ personnel:
 - Кійоші Такано
 - Ясуші Фукушіма
 - Ісао Йота
+- Коджі Судзукі
+- Мамору Морі
+- Кадзумі Такеда
+- Коджіро Ямагучі
+- Йошікадзу Кіші
+- Терухіко Катаока
+- Масамічі Камітака
+- Осаму Шіомура
 reissues:
 - TBM-2567
 - TBM-CD-2567
@@ -54,7 +62,7 @@ cover: covers/TBM-67.jpg
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
 <div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Ісао Йота</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Шігео-Нукіта">Шігео Нукіта</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Теруо-Фукушіма">Теруо Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Шігео-Нукіта">Шігео Нукіта</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Судзукі">Коджі Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мамору-Морі">Мамору Морі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Теруо-Фукушіма">Теруо Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Кадзумі Такеда</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коджіро-Ямагучі">Коджіро Ямагучі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошікадзу-Кіші">Йошікадзу Кіші</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терухіко-Катаока">Терухіко Катаока</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Масамічі Камітака</span> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
 <div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><span>Тосіюкі Міяма</span> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -70,6 +78,14 @@ cover: covers/TBM-67.jpg
 - [[Артист — Кійоші Такано|Кійоші Такано]]
 - [[Артист — Ясуші Фукушіма|Ясуші Фукушіма]]
 - [[Артист — Ісао Йота|Ісао Йота]]
+- [[Артист — Коджі Судзукі|Коджі Судзукі]]
+- [[Артист — Мамору Морі|Мамору Морі]]
+- [[Артист — Кадзумі Такеда|Кадзумі Такеда]]
+- [[Артист — Коджіро Ямагучі|Коджіро Ямагучі]]
+- [[Артист — Йошікадзу Кіші|Йошікадзу Кіші]]
+- [[Артист — Терухіко Катаока|Терухіко Катаока]]
+- [[Артист — Масамічі Камітака|Масамічі Камітака]]
+- [[Артист — Осаму Шіомура|Осаму Шіомура]]
 
 ## Запис
 4 та 7 травня 1976 року Токіо, «Epicurus Studios, Shibuya»

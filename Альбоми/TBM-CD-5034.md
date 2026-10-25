@@ -18,6 +18,7 @@ personnel:
 - Ясуо Сано
 - Томохіро Яхіро
 - Гість
+- Лео Ванда Сміт
 reissues:
 - TBM-CD-1834
 - THCD-314
@@ -54,7 +55,7 @@ cover: covers/TBM-CD-5034.jpg
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
 <div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кен-Цунода">Кен Цунода</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ясуо-Сано">Ясуо Сано</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Томохіро-Яхіро">Томохіро Яхіро</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Тошікі-Нагата">Тошікі Нагата</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Наокі-Кубошіма">Наокі Кубошіма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сачі-Хаясака">Сачі Хаясака</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Тацуя-Сато">Тацуя Сато</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йоічі-Мурата">Йоічі Мурата</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сачі-Хаясака">Сачі Хаясака</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Тацуя-Сато">Тацуя Сато</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йоічі-Мурата">Йоічі Мурата</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Лео-Ванда-Сміт">Лео Ванда Сміт</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
@@ -69,6 +70,7 @@ cover: covers/TBM-CD-5034.jpg
 - [[Артист — Ясуо Сано|Ясуо Сано]]
 - [[Артист — Томохіро Яхіро|Томохіро Яхіро]]
 - [[Артист — Гість|Гість]]
+- [[Артист — Лео Ванда Сміт|Лео Ванда Сміт]]
 
 ## Запис
 5 та 6 листопада 1989 року Токіо, «Euphonics Studio» Записано 25 листопада 1989 року Нью-Йорк, «Baby Monster Studio»

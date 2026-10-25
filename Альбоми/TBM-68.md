@@ -21,6 +21,13 @@ personnel:
 - Масахіро Канаяма
 - Казуя Сугімото
 - Казухіро Ебісава
+- Шінджі Накаяма
+- Йошіфумі Тада
+- Хіроші Абіко
+- Мотохару Судзукі
+- Томоакі Хашідзуме
+- Кійотака Учіда
+- Масахіро Ікумі
 tags:
 - album
 - tbm
@@ -49,8 +56,8 @@ cover: covers/TBM-68.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Казухіро-Ебісава">Казухіро Ебісава</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Казуя-Сугімото">Казуя Сугімото</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масахіро-Канаяма">Масахіро Канаяма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кенічі-Арая">Кенічі Арая</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Тацуя Такахаші</span> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Бінго-Мікі">Бінго Мікі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кейджі-Хорі">Кейджі Хорі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такемі-Ішікане">Такемі Ішікане</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Шінобу Кумамото</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коічі-Окада">Коічі Окада</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кенічі-Сударе">Кенічі Сударе</a> <abbr class="tbm-i" tabindex="0" data-t="бас-тромбон">btb</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Казухіро-Ебісава">Казухіро Ебісава</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Казуя-Сугімото">Казуя Сугімото</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масахіро-Канаяма">Масахіро Канаяма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кенічі-Арая">Кенічі Арая</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масахіро-Ікумі">Масахіро Ікумі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Тацуя Такахаші</span> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Бінго-Мікі">Бінго Мікі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кейджі-Хорі">Кейджі Хорі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такемі-Ішікане">Такемі Ішікане</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Шінджі-Накаяма">Шінджі Накаяма</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Шінобу Кумамото</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коічі-Окада">Коічі Окада</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кенічі-Сударе">Кенічі Сударе</a> <abbr class="tbm-i" tabindex="0" data-t="бас-тромбон">btb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошіфумі-Тада">Йошіфумі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Хіроші-Абіко">Хіроші Абіко</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Мотохару-Судзукі">Мотохару Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Томоакі-Хашідзуме">Томоакі Хашідзуме</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кійотака-Учіда">Кійотака Учіда</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
@@ -66,6 +73,13 @@ cover: covers/TBM-68.jpg
 - [[Артист — Масахіро Канаяма|Масахіро Канаяма]]
 - [[Артист — Казуя Сугімото|Казуя Сугімото]]
 - [[Артист — Казухіро Ебісава|Казухіро Ебісава]]
+- [[Артист — Шінджі Накаяма|Шінджі Накаяма]]
+- [[Артист — Йошіфумі Тада|Йошіфумі Тада]]
+- [[Артист — Хіроші Абіко|Хіроші Абіко]]
+- [[Артист — Мотохару Судзукі|Мотохару Судзукі]]
+- [[Артист — Томоакі Хашідзуме|Томоакі Хашідзуме]]
+- [[Артист — Кійотака Учіда|Кійотака Учіда]]
+- [[Артист — Масахіро Ікумі|Масахіро Ікумі]]
 
 ## Запис
 18 травня 1976 року Живий запис у Токіо, «Yamaha Hall, Ginza» під час фестивалю «5 Days in Jazz '76»

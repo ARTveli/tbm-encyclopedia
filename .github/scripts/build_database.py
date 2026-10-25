@@ -167,6 +167,7 @@ def _lineup_block(block: str):
             m = re.match(r"^(.*?)\s*\(([^()]*)\)\s*$", piece)
             name, inner = (m.group(1).strip(), m.group(2)) if m else (piece.strip(), None)
             name = re.sub(r"\s*\([^()]*\)", "", name).strip()
+            name = re.sub(r"\s*\[[^\]]*\]", "", name).strip()   # «Лео Ванда Сміт [Вадада Лео Сміт]»
             name = re.sub(r"^(?:[a-zа-яіїєґ'ʼ’]+\s+)+", "", name)   # «додається Коносуке…»
             if not re.match(r"^[A-ZА-ЯІЇЄҐ]", name) or len(name) > 40:
                 pending = []
