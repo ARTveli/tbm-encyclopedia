@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-68.jpg"
+description: "TBM-68 · Токіо Юніон під керівництвом Тацуї Такахаші · 1976. Оркестр «Tokyo Union» під керівництвом Тацуї Такахаші став вважатися одним із найпривабливіших джазових біг-бендів саме після випуску…"
 catalog: TBM-68
 artist: Токіо Юніон під керівництвом Тацуї Такахаші
 artist_en: Tatsuya Takahashi & The Tokyo Union

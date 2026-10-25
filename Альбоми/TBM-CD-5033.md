@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5033.jpg"
+description: "TBM-CD-5033 · Квартет Мікінорі Фуджівари + 1 · 1989. Мікінорі Фуджівара — саксофоніст, який активно виступав у гурті басиста Хідето Канаї, одного з найважливіших музикантів для лейблу TBM."
 catalog: TBM-CD-5033
 artist: Квартет Мікінорі Фуджівари + 1
 artist_en: Mikinori Fujiwara Quartet + 1

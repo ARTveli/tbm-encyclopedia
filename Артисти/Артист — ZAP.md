@@ -1,5 +1,7 @@
 ---
 type: artist
+description: "ZAP"
+title: "ZAP"
 name: ZAP
 instruments: гурт
 tags:

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-18.jpg"
+description: "TBM-18 · Група Теруо Накамури · 1973. Це один із небагатьох записів у каталозі TBM, зроблених за кордоном, і склад учасників тут просто неймовірний."
 catalog: TBM-18
 artist: Група Теруо Накамури
 artist_en: Teruo Nakamura Group

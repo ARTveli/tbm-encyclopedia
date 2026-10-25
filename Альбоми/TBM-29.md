@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-29.jpg"
+description: "TBM-29 · Ісао Судзукі & Сунао Вада + Тріо Цуйоші Ямамото, Квінтет Джорджа Оцуки + 2 · 1974. Приблизно через три тижні після запису дебютного альбому «Midnight Sugar» (TBM-23), Цуйоші Ямамото отримав…"
 catalog: TBM-29
 artist: Ісао Судзукі & Сунао Вада + Тріо Цуйоші Ямамото, Квінтет Джорджа Оцуки + 2
 artist_en: Isao Suzuki & Sunao Wada with The Tsuyoshi Yamamoto Trio, George Otsuka

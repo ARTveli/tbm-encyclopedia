@@ -17,7 +17,7 @@ async function load(base: string) {
 }
 
 function dailyCard(a: any, explore: string, kicker: string) {
-  const cover = new URL("../" + a.cover, explore).href
+  const cover = new URL("../" + (a.thumb || a.cover), explore).href
   const review = String(a.review || "").split(/\n\n+/)[0]
   const href = explore + "#album=" + encodeURIComponent(a.id)
   return `

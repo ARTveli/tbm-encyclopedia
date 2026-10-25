@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-65.jpg"
+description: "TBM-65 · Квартет Шьоджі Йокоучі · 1976. Будучи автентичним і майстерним джазовим гітаристом, Шьоджі Йокоучі до цього моменту не записував джазових альбомів."
 catalog: TBM-65
 artist: Квартет Шьоджі Йокоучі
 artist_en: Shoji Yokouchi Quartet

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-53.jpg"
+description: "TBM-53 · Тріо та Квінтет Сейічі Накамури · 1975. Невидані записи з фестивалю «5 Days in Jazz» 1974 року були випущені у 2014 році під назвою «The Boss» (Comeback Corporation) (див."
 catalog: TBM-53
 artist: Тріо та Квінтет Сейічі Накамури
 artist_en: Seiichi Nakamura Trio & Quintet

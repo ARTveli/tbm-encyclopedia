@@ -1,5 +1,7 @@
 ---
 type: artist
+description: "Х'юберт Івз III: фортепіано; 1 альб. на Three Blind Mice"
+title: "Х'юберт Івз III"
 name: Х'юберт Івз III
 instruments: p
 tags:

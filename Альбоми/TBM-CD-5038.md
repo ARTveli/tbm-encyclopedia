@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5038.jpg"
+description: "TBM-CD-5038 · Гурт Мікінорі Фуджівари · 1991. Це другий і останній альбом Мікінорі Фуджівари на лейблі TBM."
 catalog: TBM-CD-5038
 artist: Гурт Мікінорі Фуджівари
 artist_en: Mikinori Fujiwara Group

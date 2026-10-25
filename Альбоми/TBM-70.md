@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-70.jpg"
+description: "TBM-70 · Шуко Мідзуно & Тосіюкі Міяма та New Herd · 1976. Шуко Мідзуно залишив три роботи на лейблі TBM."
 catalog: TBM-70
 artist: Шуко Мідзуно & Тосіюкі Міяма та New Herd
 artist_en: Shuko Mizuno & Toshiyuki Miyama & The New Herd

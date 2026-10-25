@@ -1,11 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import TBMHome from "./quartz/components/TBMHome"
+import TBMHome, { TBMHead } from "./quartz/components/TBMHome"
 import TBMFooter from "./quartz/components/TBMFooter"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
+  head: TBMHead(),
   header: [],
   afterBody: [TBMHome(), ],
   footer: TBMFooter(),

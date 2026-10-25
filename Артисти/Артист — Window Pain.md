@@ -1,5 +1,7 @@
 ---
 type: artist
+description: "Window Pain"
+title: "Window Pain"
 name: Window Pain
 instruments: гурт
 tags:

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-61.jpg"
+description: "TBM-61 · Квартет Мотохіко Хіно + 1 · 1976. Мотохіко Хіно залишався дещо в тіні свого старшого брата Терумаси Хіно (tp), але серед шанувальників джазу він був відомий як геніальний барабанщик ще з…"
 catalog: TBM-61
 artist: Квартет Мотохіко Хіно + 1
 artist_en: Motohiko Hino Quartet + 1
@@ -92,7 +94,7 @@ cover: covers/TBM-61.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-61_liner|Такеші Фудзії (1976) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-61_liner|Такесі Фудзії (1976) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

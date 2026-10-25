@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-57.jpg"
+description: "TBM-57 · Ісао Судзукі та Jazz Friends · 1975. Після того, як Ісао Судзукі та Куніхіко Сугано (p) продемонстрували свою майстерність як видатний дует на альбомах «Blow Up» (TBM-15) та «Blue City»…"
 catalog: TBM-57
 artist: Ісао Судзукі та Jazz Friends
 artist_en: Isao Suzuki & Jazz Friends

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-66.jpg"
+description: "TBM-66 · Джордж Кавагучі та The Big 4 · 1976. Те, що на TBM вийшов навіть альбом Джорджа Кавагучі та The Big 4, викликає глибоку повагу до цього лейблу."
 catalog: TBM-66
 artist: Джордж Кавагучі та The Big 4
 artist_en: George Kawaguchi & The Big 4

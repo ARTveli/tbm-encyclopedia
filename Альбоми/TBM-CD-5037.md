@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5037.jpg"
+description: "TBM-CD-5037 · Шунзо Оно · 1991. Шунзо Оно, який і донині активно працює та базується у Нью-Йорку, переїхав туди у 1974 році."
 catalog: TBM-CD-5037
 artist: Шунзо Оно
 artist_en: Shunzo Ohno

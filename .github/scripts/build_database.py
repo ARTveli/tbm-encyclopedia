@@ -300,6 +300,8 @@ def main():
             "personnel": personnel,
             "lineup": lineup,
             "cover": cover,
+            "thumb": (f"covers/thumbs/{Path(cover).stem}.webp"
+                      if cover and (v / "covers" / "thumbs" / f"{Path(cover).stem}.webp").exists() else None),
             "review": review,
             "liner": liners.get(cat, []),
             "url": slugify(f"Альбоми/{f.stem}"),

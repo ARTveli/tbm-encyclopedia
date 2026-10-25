@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-47.jpg"
+description: "TBM-47 · Тріо Масару Імади · 1975. Дюк Еллінгтон (p) пішов з життя 24 травня 1974 року."
 catalog: TBM-47
 artist: Тріо Масару Імади
 artist_en: Masaru Imada Trio

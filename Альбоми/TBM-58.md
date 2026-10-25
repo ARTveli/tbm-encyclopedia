@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-58.jpg"
+description: "TBM-58 · Коджі Моріяма та Тріо Цуйоші Ямамото · 1975. У різдвяну ніч 1974 року в клубі «Misty» на Роппонгі відбувся живий запис тріо Цуйоші Ямамото (альбоми TBM-37, 41, 52)."
 catalog: TBM-58
 artist: Коджі Моріяма та Тріо Цуйоші Ямамото
 artist_en: Koji Moriyama & Tsuyoshi Yamamoto Trio

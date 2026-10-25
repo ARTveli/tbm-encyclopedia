@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-43.jpg"
+description: "TBM-43 · Дует Куніміцу Інаби та Саданорі Накамура · 1975. Зараз ми можемо бути лише вдячними за те, що такий альбом був залишений для історії."
 catalog: TBM-43
 artist: Дует Куніміцу Інаби та Саданорі Накамура
 artist_en: Kunimitsu Inaba = Sadanori Nakamure Duo

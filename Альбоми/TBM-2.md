@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-2.jpg"
+description: "TBM-2 · Квартет Масару Імади · 1970. Другий з двох перших альбомів, випущених лейблом TBM."
 catalog: TBM-2
 artist: Квартет Масару Імади
 artist_en: Masaru Imada Quartet

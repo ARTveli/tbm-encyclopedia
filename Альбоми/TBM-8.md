@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-8.jpg"
+description: "TBM-8 · Кіміко Касаї + Квартет Косуке Міне · 1971. Цей альбом поєднав Косуке Міне, якого активно просував лейбл TBM, із Кіміко Касаї, яка на той час перебувала на піку популярності."
 catalog: TBM-8
 artist: Кіміко Касаї + Квартет Косуке Міне
 artist_en: Kimiko Kasai + Kosuke Mine Quartet

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-16.jpg"
+description: "TBM-16 · Шігеко Тоя та Джаз Френдс · 1973. Другий альбом, записаний під ім'ям Шігеко Тоя."
 catalog: TBM-16
 artist: Шігеко Тоя та Джаз Френдс
 artist_en: Shigeko Toya & Jazz Friends

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-73.jpg"
+description: "TBM-73 · Тріо Хідео Ічікави · 1976. Хідео Ічікава вперше привернув до себе широку увагу як піаніст тріо Джорджа Оцуки (ds)."
 catalog: TBM-73
 artist: Тріо Хідео Ічікави
 artist_en: Hideo Ichikawa Trio

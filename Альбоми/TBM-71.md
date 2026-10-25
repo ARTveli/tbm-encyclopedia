@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-71.jpg"
+description: "TBM-71 · Шігеко Тоя та Марі Накамото · 1976. Дві співачки, чий дебют відбувся на лейблі TBM, вийшли на сцену в третій день фестивалю «5 Days in Jazz», що пройшов у 1976 році."
 catalog: TBM-71
 artist: Шігеко Тоя та Марі Накамото
 artist_en: Shigeko Toya & Mari Nakamoto

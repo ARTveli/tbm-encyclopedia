@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-37.jpg"
+description: "TBM-37 · Тріо Цуйоші Ямамото · 1974. Різдво 1974 року."
 catalog: TBM-37
 artist: Тріо Цуйоші Ямамото
 artist_en: Tsuyoshi Yamamoto Trio

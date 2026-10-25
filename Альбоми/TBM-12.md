@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-12.jpg"
+description: "TBM-12 · Квартет та секстет Сунао Вади · 1972. Сунао Вада відомий у світі джазу як «блюзовий гітарист Японії номер один»."
 catalog: TBM-12
 artist: Квартет та секстет Сунао Вади
 artist_en: Sunao Wada Quartet & Sextet

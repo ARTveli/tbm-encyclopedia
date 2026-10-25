@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-78.jpg"
+description: "TBM-78 · Квартет Ісоо Фукуї · 1976. Ісоо Фукуї, басист, який був активним у 1970-х роках, якось непомітно зник з поля зору (він помер у 2015 році)."
 catalog: TBM-78
 artist: Квартет Ісоо Фукуї
 artist_en: Isoo Fukui Quartet

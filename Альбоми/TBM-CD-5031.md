@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5031.jpg"
+description: "TBM-CD-5031 · Квінтет Йошіюкі Яманаки + 2 · 1989. У 1987 році TBM уклав угоду про співпрацю з компанією ATR із Західної Німеччини (на той час), і вони спільно запустили проєкт із випуску CD."
 catalog: TBM-CD-5031
 artist: Квінтет Йошіюкі Яманаки + 2
 artist_en: Yoshiyuki Yamanaka Quintet + 2

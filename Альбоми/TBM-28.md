@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-28.jpg"
+description: "TBM-28 · Квартет Такаші Мізухаші + 2 · 1974. Соул-виконання заголовного треку підкорило серця джазових фанатів у цьому дебютному та проривному альбомі Такаші Мізухаші."
 catalog: TBM-28
 artist: Квартет Такаші Мізухаші + 2
 artist_en: Takashi Mizuhashi Quartet + 2

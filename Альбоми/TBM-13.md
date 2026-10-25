@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-13.jpg"
+description: "TBM-13 · Квінтет Джорджа Оцуки · 1972. У другій половині 1960-х років Джордж Оцука випустив три чудових альбоми в складі тріо на лейблі Tact (який згодом придбала компанія Nippon Columbia)."
 catalog: TBM-13
 artist: Квінтет Джорджа Оцуки
 artist_en: George Otsuka Quintet

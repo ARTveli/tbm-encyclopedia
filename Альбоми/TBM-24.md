@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-24.jpg"
+description: "TBM-24 · Квартет Ісао Судзукі + 1 · 1974. Це другий альбом, що вийшов після дебютної роботи «Blow Up» (TBM-15)."
 catalog: TBM-24
 artist: Квартет Ісао Судзукі + 1
 artist_en: Isao Suzuki Quartet + 1

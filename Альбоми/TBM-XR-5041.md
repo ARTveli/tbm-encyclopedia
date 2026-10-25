@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-XR-5041.jpg"
+description: "TBM-XR-5041 · Такаюкі Като · 2001. Це друга робота Такаюкі Като на TBM, що вийшла майже через 12 років після його попереднього альбому «Guitar Music» (TBM-CD-5032)."
 catalog: TBM-XR-5041
 artist: Такаюкі Като
 artist_en: Takayuki Kato

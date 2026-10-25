@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-41.jpg"
+description: "TBM-41 · Тріо Цуйоші Ямамото · 1974. ※ TBM-42 — це перевидання альбому «Masaru Imada Quartet / Now!!» (TBM-2)."
 catalog: TBM-41
 artist: Тріо Цуйоші Ямамото
 artist_en: Tsuyoshi Yamamoto Trio

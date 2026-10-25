@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5040.jpg"
+description: "TBM-CD-5040 · Ушіо Сакаї за участю Сунао Вади · 1993. Уже в 1960-х роках Ушіо Сакаї став провідним джазовим органістом Японії."
 catalog: TBM-CD-5040
 artist: Ушіо Сакаї за участю Сунао Вади
 artist_en: Ushio Sakai featuring Sunao Wada

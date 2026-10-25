@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-20.jpg"
+description: "TBM-20 · Секстет Наосуке Міямото · 1973. Лейбл TBM, який звертав увагу і на музикантів, що активно виступали в регіоні Кансай (західна частина Японії), спочатку випустив альбом «Coco's Blues»…"
 catalog: TBM-20
 artist: Секстет Наосуке Міямото
 artist_en: Naosuke Miyamoto Sextet

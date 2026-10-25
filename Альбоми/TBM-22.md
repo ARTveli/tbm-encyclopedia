@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-22.jpg"
+description: "TBM-22 · Тріо Масару Імади + Шігеко Тоя · 1973. Сторона А містить виступ тріо Масару Імади, а сторона Б присвячена вокалу Шігеко Тоя."
 catalog: TBM-22
 artist: Тріо Масару Імади + Шігеко Тоя
 artist_en: The Masaru Imada Trio + Shigeko Toya

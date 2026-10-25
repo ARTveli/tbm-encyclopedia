@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-59.jpg"
+description: "TBM-59 · Яма та Джіроуз Вейв · 1975. Від моменту запису його першого лідерського альбому «Midnight Sugar» (TBM-23) у березні 1974 року до запису цієї роботи минув лише один рік і дев'ять місяців."
 catalog: TBM-59
 artist: Яма та Джіроуз Вейв
 artist_en: Yama & Jiro's Wave

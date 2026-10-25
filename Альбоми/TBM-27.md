@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-27.jpg"
+description: "TBM-27 · Кенджі Морі / Тріо Хідео Ічікави · 1974. Лейбл TBM докладає чимало зусиль для представлення регіональних музикантів, особливо тих, хто живе в Нагої."
 catalog: TBM-27
 artist: Кенджі Морі / Тріо Хідео Ічікави
 artist_en: Kenji Mori / Hideo Ichikawa Trio

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-39.jpg"
+description: "TBM-39 · Тріо Масару Імади + 2 · 1975. Це робота, яка демонструє нові горизонти Масару Імади — музиканта, що раніше записував для TBM альбоми у стилі, близькому до фрі-форм, або ж у традиційному…"
 catalog: TBM-39
 artist: Тріо Масару Імади + 2
 artist_en: Masaru Imada Trio + 2
@@ -78,7 +80,7 @@ cover: covers/TBM-39.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-39_liner|Такеші Фудзії (1975) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-39_liner|Такесі Фудзії (1975) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

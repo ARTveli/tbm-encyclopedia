@@ -1,5 +1,7 @@
 ---
 type: artist
+description: "Jimmy, Yoko & Shin"
+title: "Jimmy, Yoko & Shin"
 name: Jimmy, Yoko & Shin
 instruments: гурт
 tags:

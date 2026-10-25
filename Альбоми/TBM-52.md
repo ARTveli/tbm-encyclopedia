@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-52.jpg"
+description: "TBM-52 · Тріо Цуйоші Ямамото · 1974. Це третій альбом із серії живих записів у клубі «Misty», де тоді регулярно виступав Цуйоші Ямамото, чия популярність стрімко зростала."
 catalog: TBM-52
 artist: Тріо Цуйоші Ямамото
 artist_en: Tsuyoshi Yamamoto Trio

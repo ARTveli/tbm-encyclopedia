@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-67.jpg"
+description: "TBM-67 · Тосіюкі Міяма та New Herd · 1976. Це третій самостійний альбом оркестру «New Herd» на лейблі TBM."
 catalog: TBM-67
 artist: Тосіюкі Міяма та New Herd
 artist_en: Toshiyuki Miyama & The New Herd

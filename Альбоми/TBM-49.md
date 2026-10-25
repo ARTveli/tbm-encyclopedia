@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-49.jpg"
+description: "TBM-49 · Квінтет Сунао Вади, Хітомі Уеда, Тріо Ушіо Сакаї · 1975. Це концертний запис з фестивалю «5 Days in Jazz», у якому Сунао Вада бере участь другий рік поспіль."
 catalog: TBM-49
 artist: Квінтет Сунао Вади, Хітомі Уеда, Тріо Ушіо Сакаї
 artist_en: Sunao Wada Quintet, Hitomi Ueda, Ushio Sakai Trio

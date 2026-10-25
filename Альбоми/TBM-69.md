@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-69.jpg"
+description: "TBM-69 · Тріо Цуйоші Ямамото · 1976. Це чудовий альбом, який народився під час фестивалю «5 Days in Jazz», що відбувся у 1976 році."
 catalog: TBM-69
 artist: Тріо Цуйоші Ямамото
 artist_en: Tsuyoshi Yamamoto Trio

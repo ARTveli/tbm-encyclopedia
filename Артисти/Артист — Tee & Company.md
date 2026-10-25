@@ -1,5 +1,7 @@
 ---
 type: artist
+description: "Tee & Company"
+title: "Tee & Company"
 name: Tee & Company
 instruments: гурт
 tags:

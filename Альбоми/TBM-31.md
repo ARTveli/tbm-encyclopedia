@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-31.jpg"
+description: "TBM-31 · Квартет Такаші Мізухаші · 1974. Лейбл TBM випустив два лідерських альбоми Такаші Мізухаші."
 catalog: TBM-31
 artist: Квартет Такаші Мізухаші
 artist_en: Takashi Mizuhashi Quartet

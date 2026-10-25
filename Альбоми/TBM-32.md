@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-32.jpg"
+description: "TBM-32 · Тосіюкі Міяма та New Herd · 1974. Тосіюкі Міяма та оркестр «New Herd» виступили на «Monterey Jazz Festival» (Монтерейський джазовий фестиваль) на Західному узбережжі США 20 та 22 вересня…"
 catalog: TBM-32
 artist: Тосіюкі Міяма та New Herd
 artist_en: Toshiyuki Miyama & The New Herd

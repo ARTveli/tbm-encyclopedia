@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-74.jpg"
+description: "TBM-74 · Квартет Хідехіко Мацумото · 1976. Спільний виступ барабанщика Джорджа Кавагучі з тенор-саксофоністом оригінального складу Хідехіко Мацумото на альбомі гурту The Big 4 «The Big 4» (TBM-66)…"
 catalog: TBM-74
 artist: Квартет Хідехіко Мацумото
 artist_en: Hidehiko Matsumoto Quartet

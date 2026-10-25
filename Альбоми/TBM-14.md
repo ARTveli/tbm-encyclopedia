@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-14.jpg"
+description: "TBM-14 · Соло та тріо Масару Імади · 1973. Минуло майже два з половиною роки з моменту його попередньої роботи, і це другий альбом Масару Імади, записаний для лейблу TBM."
 catalog: TBM-14
 artist: Соло та тріо Масару Імади
 artist_en: Masaru Imada Solo & Trio

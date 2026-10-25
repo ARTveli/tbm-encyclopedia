@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5032.jpg"
+description: "TBM-CD-5032 · Тріо Такаюкі Като · 1989. Лейбл TBM на кожному важливому етапі кар'єри створював альбоми для видатного імпровізатора та гітариста Масаюкі Такаянагі."
 catalog: TBM-CD-5032
 artist: Тріо Такаюкі Като
 artist_en: Takayuki Kato Trio

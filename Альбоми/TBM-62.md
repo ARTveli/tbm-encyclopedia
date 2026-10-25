@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-62.jpg"
+description: "TBM-62 · Квінтет Джорджа Оцуки · 1976. Цей альбом, який є його четвертою сольною лідерською роботою, став останнім релізом Джорджа Оцуки на лейблі TBM."
 catalog: TBM-62
 artist: Квінтет Джорджа Оцуки
 artist_en: George Otsuka Quintet

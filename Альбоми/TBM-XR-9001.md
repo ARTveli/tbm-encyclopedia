@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-XR-9001.jpg"
+description: "TBM-XR-9001 · V.A. · 1997. Лейбл TBM, який завжди приділяв особливу увагу якості звуку, почав випускати XRCD-релізи у 1996 році."
 catalog: TBM-XR-9001
 artist: V.A.
 artist_en: Різні виконавці

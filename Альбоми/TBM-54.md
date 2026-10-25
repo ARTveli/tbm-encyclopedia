@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-54.jpg"
+description: "TBM-54 · Йошіко Гото та Дует Куніміцу Інаби та Саданорі Накамура · 1975. ※ TBM-55 — це перевидання альбому «Shuko Mizuno / Jazz Orchestra '73» (TBM-1001)."
 catalog: TBM-54
 artist: Йошіко Гото та Дует Куніміцу Інаби та Саданорі Накамура
 artist_en: Yoshiko Goto & Kunimitsu Inaba = Sadanori Nakamure Duo

@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-33.jpg"
+description: "TBM-33 · Марі Накамото та Тріо Шьоджі Йокоучі + 1 · 1974. ※ TBM-34 — це перевидання альбому «Kimiko Kasai + Kosuke Mine Quartet / Yellow Carcass in the Blue» (TBM-8)."
 catalog: TBM-33
 artist: Марі Накамото та Тріо Шьоджі Йокоучі + 1
 artist_en: Mari Nakamoto & Shoji Yokouchi Trio + 1

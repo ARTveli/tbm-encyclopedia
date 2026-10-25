@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-76.jpg"
+description: "TBM-76 · Секстет Ісао Судзукі · 1976. Починаючи з його дебютної роботи «Blow Up» (TBM-15), цей альбом став сьомим за рахунком і водночас останнім релізом Ісао Судзукі на лейблі TBM."
 catalog: TBM-76
 artist: Секстет Ісао Судзукі
 artist_en: Isao Suzuki Sextet

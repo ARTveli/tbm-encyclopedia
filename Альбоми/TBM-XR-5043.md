@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-XR-5043.jpg"
+description: "TBM-XR-5043 · Тошіхіро Акамацу · 2002. Примітка: TBM-XR-5044 «Eiji Nakayama Group with Masaru Imada / North Plain» (перевидання PAP-25022) випущено TBM Records."
 catalog: TBM-XR-5043
 artist: Тошіхіро Акамацу
 artist_en: Toshihiro Akamatsu

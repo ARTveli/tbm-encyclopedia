@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-60.jpg"
+description: "TBM-60 · Масару Імада · 1976. Разом із Цуйоші Ямамото, Масару Імада є одним із піаністів, що найкраще представляють лейбл TBM."
 catalog: TBM-60
 artist: Масару Імада
 artist_en: Masaru Imada

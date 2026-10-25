@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-36.jpg"
+description: "TBM-36 · Квартет Ісао Судзукі + 1 · 1974. Найбільш визначною рисою цього альбому є те, що він задокументував майстерність Ісао Судзукі як мультиінструменталіста."
 catalog: TBM-36
 artist: Квартет Ісао Судзукі + 1
 artist_en: Isao Suzuki Quartet + 1

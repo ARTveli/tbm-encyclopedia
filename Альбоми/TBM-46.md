@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-46.jpg"
+description: "TBM-46 · Квартет Хідефумі Токі · 1975. Хідефумі Токі, який дебютував на професійній сцені у 1970 році, успішно будував свою кар'єру і саме тут записав свій перший лідерський альбом."
 catalog: TBM-46
 artist: Квартет Хідефумі Токі
 artist_en: Hidefumi Toki Quartet
@@ -77,7 +79,7 @@ cover: covers/TBM-46.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-46_liner|Такеші Фудзії (Takeshi Fujii) (1975) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-46_liner|Такесі Фудзії (Takeshi Fujii) (1975) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

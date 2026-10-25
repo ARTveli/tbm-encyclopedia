@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-75.jpg"
+description: "TBM-75 · Квінтет Сунао Вади + 1 · 1976. Попередня робота гітариста Сунао Вади «Blues for Bird» (TBM-49) була живим записом із фестивалю «5 Days in Jazz», що відбувся у 1975 році."
 catalog: TBM-75
 artist: Квінтет Сунао Вади + 1
 artist_en: Sunao Wada Quintet + 1

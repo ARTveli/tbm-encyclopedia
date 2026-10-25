@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-3.jpg"
+description: "TBM-3 · Квартет та квінтет Такао Уемацу · 1970. На початку оригінальних нотаток до альбому їхній автор Сьоїті Юї пише: «Нова зірка тенор-саксофона, народжена в 1970 році»."
 catalog: TBM-3
 artist: Квартет та квінтет Такао Уемацу
 artist_en: Takao Uematsu Quartet/Quintet

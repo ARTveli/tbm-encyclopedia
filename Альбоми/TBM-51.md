@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-51.jpg"
+description: "TBM-51 · Йошіо Отомо = Хідефумі Токі Alto Madness · 1975. Йошіо Отомо, який отримав високу оцінку за свої виступи на альбомах Такаші Мізухаші (b) на лейблі TBM, нарешті записав власний лідерський…"
 catalog: TBM-51
 artist: Йошіо Отомо = Хідефумі Токі Alto Madness
 artist_en: Yoshio Otomo = Hidefumi Toki Alto Madness

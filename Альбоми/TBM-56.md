@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-56.jpg"
+description: "TBM-56 · Марі Накамото та Дует Ісао Судзукі й Кадзумі Ватанабе · 1975. На своїх двох попередніх альбомах для TBM (TBM-21, 33) Марі Накамото демонструвала свою індивідуальність під акомпанемент комбо…"
 catalog: TBM-56
 artist: Марі Накамото та Дует Ісао Судзукі й Кадзумі Ватанабе
 artist_en: Mari Nakamoto & Isao Suzuki = Kazumi Watanabe Duo

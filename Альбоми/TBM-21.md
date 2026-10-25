@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-21.jpg"
+description: "TBM-21 · Марі Накамото та Тріо Ясуро Осави + 2 · 1973. Після Кіміко Касаї та Шігеко Тоя, наступною співачкою, яка випустила альбом на лейблі TBM, стала Марі Накамото."
 catalog: TBM-21
 artist: Марі Накамото та Тріо Ясуро Осави + 2
 artist_en: Mari Nakamoto & Yasuro Osawa Trio + 2

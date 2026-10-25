@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-35.jpg"
+description: "TBM-35 · Тріо Джорджа Оцуки · 1974. Як лідер на лейблі TBM, це третій альбом Джорджа Оцуки (якщо враховувати концертний запис «Now's the Time» (TBM-29) з фестивалю «5 Days in Jazz '74», випущений…"
 catalog: TBM-35
 artist: Тріо Джорджа Оцуки
 artist_en: George Otsuka Trio

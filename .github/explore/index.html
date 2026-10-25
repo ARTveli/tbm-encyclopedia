@@ -312,6 +312,7 @@ const PALETTE = ["#8c2f1f","#1f4e5f","#5b3a6b","#2f5d3a","#7a5a1c","#38404f","#6
 function hash(s){let h=0;for(const c of s)h=(h*31+c.charCodeAt(0))|0;return Math.abs(h)}
 function sleeve(a){
   const badges = [a.awards?"<i>★</i>":"", a.liner.length?"<i>📝</i>":""].join("");
+  if (a.thumb) return `<div class="sleeve"><img loading="lazy" src="${BASE}${esc(a.thumb)}" alt="${esc(a.title)}" onerror="this.onerror=null;this.src='${BASE}${esc(a.cover)}'"><div class="badge">${badges}</div></div>`;
   if (a.cover) return `<div class="sleeve"><img loading="lazy" src="${BASE}${esc(a.cover)}" alt="${esc(a.title)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'gen',innerHTML:'<span class=c>${esc(a.cat)}</span>'}))"><div class="badge">${badges}</div></div>`;
   return `<div class="sleeve" style="background:${PALETTE[hash(a.cat)%PALETTE.length]}"><div class="gen"><div class="disc"></div><span class="c">${esc(a.cat)}</span><span class="t">${esc(a.title)}</span></div><div class="badge">${badges}</div></div>`;
 }

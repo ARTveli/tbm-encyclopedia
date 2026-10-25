@@ -50,6 +50,8 @@ def collect(vault: Path):
             "stem": f.stem, "cat": d.get("catalog") or f.stem, "title": d.get("title") or "",
             "artist": d.get("artist") or "", "year": year, "awards": d.get("awards"),
             "cover": cover if cover and (vault / cover).exists() else None,
+            "thumb": (f"covers/thumbs/{Path(cover).stem}.webp"
+                      if cover and (vault / "covers" / "thumbs" / f"{Path(cover).stem}.webp").exists() else None),
         })
     count = lambda folder: len([f for f in (vault / folder).glob("*.md") if f.name != "index.md"]) if (vault / folder).exists() else 0
     stats = {
@@ -158,7 +160,7 @@ def build_liner_page(vault: Path, albums) -> tuple[Path, int] | None:
             "url": f"{SITE}/{slugify('Liner_Notes/' + f.stem)}",
             "cat": meta.get("catalog") or f.stem, "year": a.get("year"),
             "title": a.get("title") or meta.get("title") or f.stem,
-            "artist": a.get("artist") or "", "cover": a.get("cover"),
+            "artist": a.get("artist") or "", "cover": a.get("thumb") or a.get("cover"),
             "author": meta.get("original_author") or "", "tr": meta.get("translator") or "",
             "ex": excerpt(body),
         })

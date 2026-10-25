@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-CD-5034.jpg"
+description: "TBM-CD-5034 · Сачі Хаясака та Stir Up · 1989. Незважаючи на те, що минуло лише кілька років від її дебюту, на момент запису цього альбому Сачі Хаясака вже здобула визнання як фрі-джазова…"
 catalog: TBM-CD-5034
 artist: Сачі Хаясака та Stir Up
 artist_en: Sachi Hayasaka and Stir Up

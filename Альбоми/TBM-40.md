@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-40.jpg"
+description: "TBM-40 · Йошіко Гото та Квартет Такаші Мізухаші · 1975. Після альбомів «Yoshiko This Girl» (1970) та «Yoshiko Meets Brown» (1972), що вийшли на лейблі Nippon Columbia / Denon, це її наступна робота."
 catalog: TBM-40
 artist: Йошіко Гото та Квартет Такаші Мізухаші
 artist_en: Yoshiko Goto & Takashi Mizuhashi Quartet

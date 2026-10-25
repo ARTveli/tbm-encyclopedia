@@ -1,5 +1,7 @@
 ---
 type: album
+socialImage: "covers/TBM-48.jpg"
+description: "TBM-48 · Тосіюкі Міяма та New Herd · 1975. Тосіюкі Міяма та оркестр «New Herd», які викликали величезний резонанс своїм виступом на джазовому фестивалі в Монтереї попереднього року (1974), записали в…"
 catalog: TBM-48
 artist: Тосіюкі Міяма та New Herd
 artist_en: Toshiyuki Miyama & The New Herd
