@@ -1,11 +1,12 @@
 ---
 type: liner_notes
+title: "Orang-Utan: liner notes"
 catalog: TBM-44
 album_title: Orang-Utan
 album_artist: Квартет Ісао Судзукі + 2
 original_author: Осаму Учіди (Osamu Uchida)
 year: 1975
-translator: Юко М. DARWEN
+translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
@@ -48,4 +49,4 @@ tags:
 
 Увесь альбом бездоганно організований навколо постаті [[Артист — Ісао Судзукі|Ісао Судзукі]], даруючи слухачеві заспокійливий і глибокий біт від початку до кінця.
 
-*Переклад Юко М. DARWEN*
+*Переклад Юко М. Дарвен*

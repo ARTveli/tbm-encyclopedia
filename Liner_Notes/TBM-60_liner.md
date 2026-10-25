@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Solo Piano: liner notes"
 catalog: TBM-60
 album_title: Solo Piano
 album_artist: Масару Імада

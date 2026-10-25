@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Sunrise / Sunset: liner notes"
 catalog: TBM-78
 album_title: Sunrise / Sunset
 album_artist: Квартет Ісоо Фукуї

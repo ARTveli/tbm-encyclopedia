@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Mine: liner notes"
 catalog: TBM-1
 album_title: Mine
 album_artist: Квінтет Косуке Міне

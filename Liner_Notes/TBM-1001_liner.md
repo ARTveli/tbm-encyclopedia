@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Jazz Orchestra '73: liner notes"
 catalog: TBM-1001
 album_title: Jazz Orchestra '73
 album_artist: Шуко Мідзуно

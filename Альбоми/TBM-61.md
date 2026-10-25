@@ -92,7 +92,7 @@ cover: covers/TBM-61.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-61_liner|Такео Фудзії (1976) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-61_liner|Такеші Фудзії (1976) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

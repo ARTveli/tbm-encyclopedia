@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Midnight Sugar: liner notes"
 catalog: TBM-23
 album_title: Midnight Sugar
 album_artist: Тріо Цуйоші Ямамото

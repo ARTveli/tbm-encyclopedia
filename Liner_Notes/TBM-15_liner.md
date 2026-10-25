@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Blow Up: liner notes"
 catalog: TBM-15
 album_title: Blow Up
 album_artist: Тріо та квартет Ісао Судзукі

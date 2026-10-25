@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Standards: liner notes"
 catalog: TBM-77
 album_title: Standards
 album_artist: Тріо Масару Імади

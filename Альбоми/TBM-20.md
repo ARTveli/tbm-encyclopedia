@@ -79,7 +79,7 @@ cover: covers/TBM-20.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-20_liner|(1973) — пер. Юко М. DARWEN]]
+- [[Liner_Notes/TBM-20_liner|(1973) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

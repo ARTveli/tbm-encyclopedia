@@ -83,7 +83,7 @@ cover: covers/TBM-26.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-26_liner|(1974) — пер. Юко М. DARWEN]]
+- [[Liner_Notes/TBM-26_liner|(1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

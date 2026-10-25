@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Midnight Sun: liner notes"
 catalog: TBM-5009
 album_title: Midnight Sun
 album_artist: Тріо Цуйоші Ямамото

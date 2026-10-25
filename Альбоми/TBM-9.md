@@ -93,7 +93,7 @@ cover: covers/TBM-9.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-9_liner|(1963) — пер. Юко М. DARWEN]]
+- [[Liner_Notes/TBM-9_liner|(1963) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

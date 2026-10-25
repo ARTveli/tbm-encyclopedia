@@ -78,7 +78,7 @@ cover: covers/TBM-39.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-39_liner|Такео Фудзії (1975) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-39_liner|Такеші Фудзії (1975) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

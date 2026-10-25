@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Remember of Love: liner notes"
 catalog: TBM-5007
 album_title: Remember of Love
 album_artist: Квартет Масару Імади

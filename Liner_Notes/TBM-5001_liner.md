@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Blues Blues Blues: liner notes"
 catalog: TBM-5001
 album_title: Blues Blues Blues
 album_artist: Квартет Сунао Вади

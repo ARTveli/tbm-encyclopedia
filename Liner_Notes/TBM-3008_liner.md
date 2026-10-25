@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Mr. Wonderful: liner notes"
 catalog: TBM-3008
 album_title: Mr. Wonderful
 album_artist: Аяко Хосокава

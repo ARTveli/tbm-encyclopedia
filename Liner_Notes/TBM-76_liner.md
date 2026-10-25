@@ -1,10 +1,11 @@
 ---
 type: liner_notes
+title: "Ako's Dream: liner notes"
 catalog: TBM-76
 album_title: Ako's Dream
 album_artist: Секстет Ісао Судзукі
 year: 1976
-translator: Юко М. DARWEN
+translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
@@ -82,4 +83,4 @@ tags:
 
 Я хотів би завершити цю анотацію надією, що заради своєї любої Ако-чан він продовжуватиме робити ще більші творчі стрибки і даруватиме нам одну радісну роботу за іншою.
 
-*Переклад Юко М. DARWEN*
+*Переклад Юко М. Дарвен*

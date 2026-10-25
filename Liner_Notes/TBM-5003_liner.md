@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Alone Together: liner notes"
 catalog: TBM-5003
 album_title: Alone Together
 album_artist: Масару Імада та Джордж Мраз

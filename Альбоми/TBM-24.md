@@ -96,7 +96,7 @@ cover: covers/TBM-24.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-24_liner|(1974) — пер. Юко М. DARWEN]]
+- [[Liner_Notes/TBM-24_liner|(1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

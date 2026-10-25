@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Moon Ray: liner notes"
 catalog: TBM-3007
 album_title: Moon Ray
 album_artist: Квартет Йошіо Отомо

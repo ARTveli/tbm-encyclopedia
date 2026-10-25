@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Girl Talk: liner notes"
 catalog: TBM-59
 album_title: Girl Talk
 album_artist: Яма та Джіроуз Вейв

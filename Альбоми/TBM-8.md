@@ -88,7 +88,7 @@ cover: covers/TBM-8.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-8_liner|(1971) — пер. Юко М. DARWEN]]
+- [[Liner_Notes/TBM-8_liner|(1971) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

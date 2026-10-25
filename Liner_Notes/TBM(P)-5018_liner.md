@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Cool Jojo: liner notes"
 catalog: TBM(P)-5018
 album_title: Cool Jojo
 album_artist: Masayuki Takayanagi Second Concept

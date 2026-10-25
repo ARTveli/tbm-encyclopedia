@@ -1,10 +1,11 @@
 ---
 type: liner_notes
+title: "Yellow Carcass In The Blue: liner notes"
 catalog: TBM-8
 album_title: Yellow Carcass In The Blue
 album_artist: Кіміко Касаї + Квартет Косуке Міне
 year: 1971
-translator: Юко М. DARWEN
+translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
@@ -26,4 +27,4 @@ tags:
 
 Два треки, **«River Dry»** та **«Be Still My Soul»**, виконані виключно Квартетом [[Артист — Косуке Міне|Косуке Міне]], який забезпечує акомпанемент. Вони демонструють палке й натхненне виконання тогочасних молодих елітних гравців, які увібрали в себе все: від бопу до модального джазу і навіть фрістайлу.
 
-*Переклад Юко М. DARWEN*
+*Переклад Юко М. Дарвен*

@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "TOKI: liner notes"
 catalog: TBM-46
 album_title: TOKI
 album_artist: Квартет Хідефумі Токі

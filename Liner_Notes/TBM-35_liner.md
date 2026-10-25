@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "You Are My Sunshine: liner notes"
 catalog: TBM-35
 album_title: You Are My Sunshine
 album_artist: Тріо Джорджа Оцуки

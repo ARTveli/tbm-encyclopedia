@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "New Herd: liner notes"
 catalog: TBM-32
 album_title: New Herd
 album_artist: Тосіюкі Міяма та New Herd

@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Go On: liner notes"
 catalog: TBM-13
 album_title: Go On
 album_artist: Квінтет Джорджа Оцуки

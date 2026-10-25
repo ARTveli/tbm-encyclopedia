@@ -1,5 +1,6 @@
 ---
 type: liner_notes
+title: "Misty: liner notes"
 catalog: TBM-30
 album_title: Misty
 album_artist: Тріо Цуйоші Ямамото

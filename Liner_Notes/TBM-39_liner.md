@@ -1,9 +1,10 @@
 ---
 type: liner_notes
+title: "Green Caterpillar: liner notes"
 catalog: TBM-39
 album_title: Green Caterpillar
 album_artist: Тріо Масару Імади + 2
-original_author: Такео Фудзії
+original_author: Такеші Фудзії
 translator: Юко М. Дарвен
 tags:
   - liner_notes
@@ -13,7 +14,7 @@ tags:
 year: 1975
 ---
 
-# Рецензія Такео Фудзії
+# Рецензія Такеші Фудзії
 
 ## I. Стан джазу в Японії в 1970-х роках і [[Артист — Масару Імада|Масару Імада]]
 
