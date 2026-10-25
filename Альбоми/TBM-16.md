@@ -47,6 +47,15 @@ c
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><span>Сігеко Тоя</span> <abbr title="вокал">vo</abbr> <abbr title="фортепіано">p</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Сігеко Тоя|Сігеко Тоя]]
 - [[Артист — Масару Імада|Масару Імада]]
 - [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]

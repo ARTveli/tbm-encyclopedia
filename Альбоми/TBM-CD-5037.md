@@ -45,6 +45,15 @@ cover: covers/TBM-CD-5037.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Біллі-Драммонд">Біллі Драммонд</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Рей-Шпігель">Рей Шпігель</a> <abbr title="табла">tabla</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Джеймс-Джинус">Джеймс Джинус</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Рене-Роснес">Рене Роснес</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Стів-Вілсон">Стів Вілсон</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шунзо-Оно">Шунзо Оно</a> <abbr title="труба">tp</abbr> <abbr title="флюгельгорн">fgh</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Шунзо Оно|Шунзо Оно]]
 - [[Артист — Рене Роснес|Рене Роснес]]
 - [[Артист — Джеймс Джинус|Джеймс Джинус]]

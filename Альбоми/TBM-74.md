@@ -46,6 +46,15 @@ cover: covers/TBM-74.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Мотохіко-Хіно">Мотохіко Хіно</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Нобуйоші-Іно">Нобуйоші Іно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хідехіко-Мацумото">Хідехіко Мацумото</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="флейта">fl</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хідехіко Мацумото|Хідехіко Мацумото]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Нобуйоші Іно|Нобуйоші Іно]]

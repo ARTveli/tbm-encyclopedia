@@ -41,6 +41,14 @@ cover: covers/TBM-73.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хідео-Ямакі">Хідео Ямакі</a> <abbr title="ударні">ds</abbr> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="віолончель">cello</abbr> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr> <abbr title="блокфлейта">recorder</abbr> <abbr title="перкусія">per</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
 - [[Артист — Хідео Ямакі|Хідео Ямакі]]

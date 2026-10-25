@@ -46,6 +46,15 @@ cover: covers/TBM-71.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Такуджі Кусумото</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Акіра Дайоші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Шігеко-Тоя">Шігеко Тоя</a> <abbr title="вокал">vo</abbr> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Марі-Накамото">Марі Накамото</a> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Шігеко Тоя|Шігеко Тоя]]
 - [[Артист — Марі Накамото|Марі Накамото]]
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]

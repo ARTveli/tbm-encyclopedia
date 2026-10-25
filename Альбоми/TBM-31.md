@@ -43,6 +43,15 @@ cover: covers/TBM-31.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хідео-Секіне">Хідео Секіне</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Карашіма">Фуміо Карашіма</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіо-Отомо">Йошіо Отомо</a> <abbr title="альт-саксофон">as</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
 - [[Артист — Йошіо Отомо|Йошіо Отомо]]
 - [[Артист — Фуміо Карашіма|Фуміо Карашіма]]

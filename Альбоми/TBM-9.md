@@ -52,6 +52,15 @@ cover: covers/TBM-9.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масахіко-Тогаші">Масахіко Тогаші</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Хіроші Ямазакі</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Хідето-Канаї">Хідето Канаї</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Масабумі Кікучі</span> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Йосуке-Ямашіта">Йосуке Ямашіта</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr title="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Саданорі Накамуре</span> <abbr title="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кьохей-Уяма">Кьохей Уяма</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терумаса-Хіно">Терумаса Хіно</a> <abbr title="труба">tp</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]]
 - [[Артист — Хідето Канаї|Хідето Канаї]]
 - [[Артист — Куніміцу Інаба|Куніміцу Інаба]]

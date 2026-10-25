@@ -51,6 +51,14 @@ cover: covers/TBM-63.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Дональд-Бейлі">Дональд Бейлі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="віолончель">cello</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Ісао Судзукі|Ісао Судзукі]]
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
 - [[Артист — Дональд Бейлі|Дональд Бейлі]]

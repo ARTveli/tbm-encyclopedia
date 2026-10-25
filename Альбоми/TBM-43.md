@@ -49,6 +49,14 @@ c
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Саданорі Накамуре</span> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Куніміцу Інаба|Куніміцу Інаба]]
 - [[Артист — Саданорі Накамуре|Саданорі Накамуре]]
 

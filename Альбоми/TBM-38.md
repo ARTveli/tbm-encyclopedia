@@ -47,6 +47,15 @@ cover: covers/TBM-38.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Мамору-Хамасакі">Мамору Хамасакі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Тадао-Канеко">Тадао Канеко</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Йошіакі-Оцука">Йошіакі Оцука</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Казухіко-Такеда">Казухіко Такеда</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Такаші-Фуруя">Такаші Фуруя</a> <abbr title="вокал">vo</abbr> <abbr title="альт-саксофон">as</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Такаші Фуруя|Такаші Фуруя]]
 - [[Артист — Йошіакі Оцука|Йошіакі Оцука]]
 - [[Артист — Казухіко Такеда|Казухіко Такеда]]

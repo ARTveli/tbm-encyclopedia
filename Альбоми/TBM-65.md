@@ -46,6 +46,14 @@ cover: covers/TBM-65.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хаджіме-Ішімацу">Хаджіме Ішімацу</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Масанага-Харада">Масанага Харада</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шьоджі-Йокоучі">Шьоджі Йокоучі</a> <abbr title="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Тору-Коніші">Тору Коніші</a> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Шьоджі Йокоучі|Шьоджі Йокоучі]]
 - [[Артист — Тору Коніші|Тору Коніші]]
 - [[Артист — Масанага Харада|Масанага Харада]]

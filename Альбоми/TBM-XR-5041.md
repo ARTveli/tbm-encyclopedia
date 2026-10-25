@@ -44,6 +44,14 @@ cover: covers/TBM-XR-5041.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шота-Кояма">Шота Кояма</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Ямадзакі">Хіроші Ямадзакі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Норікацу-Кореясу">Норікацу Кореясу</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Нобуйоші-Іно">Нобуйоші Іно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Такаюкі Като|Такаюкі Като]]
 - [[Артист — Норікацу Кореясу|Норікацу Кореясу]]
 - [[Артист — Нобуйоші Іно|Нобуйоші Іно]]

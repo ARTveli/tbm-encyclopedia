@@ -43,6 +43,15 @@ cover: covers/TBM-3.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Оцука">Джордж Оцука</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Йосіо Судзукі</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Садаюсу Фудзії</span> <abbr title="електропіаніно">elp</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такао-Уемацу">Такао Уемацу</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Такаші Імаї</span> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Такао Уемацу|Такао Уемацу]]
 - [[Артист — Такаші Імаї|Такаші Імаї]]
 - [[Артист — Садаюсу Фудзії|Садаюсу Фудзії]]

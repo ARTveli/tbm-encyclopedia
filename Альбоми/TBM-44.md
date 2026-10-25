@@ -45,6 +45,15 @@ cover: covers/TBM-44.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шінджі-Морі">Шінджі Морі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="віолончель">cello</abbr> <abbr title="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Осаму-Кавакамі">Осаму Кавакамі</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Казумі Ватанабе</span> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr title="альт-саксофон">as</abbr> <abbr title="флейта">fl</abbr> <abbr title="бас-кларнет">bcl</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Марі-Накамото">Марі Накамото</a> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Ісао Судзукі|Ісао Судзукі]]
 - [[Артист — Казумі Ватанабе|Казумі Ватанабе]]
 - [[Артист — Осаму Кавакамі|Осаму Кавакамі]]

@@ -46,6 +46,15 @@ cover: covers/TBM-20.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Шьоджі Накаяма</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Наосуке-Міямото">Наосуке Міямото</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масайоші-Йонеда">Масайоші Йонеда</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такаші-Фуруя">Такаші Фуруя</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Цуйоші-Гото">Цуйоші Гото</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кунджі-Шігі">Кунджі Шігі</a> <abbr title="труба">tp</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Наосуке Міямото|Наосуке Міямото]]
 - [[Артист — Такаші Фуруя|Такаші Фуруя]]
 - [[Артист — Цуйоші Гото|Цуйоші Гото]]

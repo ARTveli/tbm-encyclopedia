@@ -43,6 +43,15 @@ cover: covers/TBM-13.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Оцука">Джордж Оцука</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Тошіюкі-Дайтоку">Тошіюкі Дайтоку</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мабумі-Ямагучі">Мабумі Ямагучі</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шунзо-Оно">Шунзо Оно</a> <abbr title="труба">tp</abbr> <abbr title="флюгельгорн">fgh</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Джордж Оцука|Джордж Оцука]]
 - [[Артист — Шунзо Оно|Шунзо Оно]]
 - [[Артист — Мабумі Ямагучі|Мабумі Ямагучі]]

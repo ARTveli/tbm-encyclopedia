@@ -45,6 +45,14 @@ cover: covers/TBM-60.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr title="фортепіано">p</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Масару Імада|Масару Імада]]
 
 ## Запис

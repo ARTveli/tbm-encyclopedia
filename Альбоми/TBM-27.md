@@ -38,6 +38,15 @@ cover: covers/TBM-27.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Аріхіде Курата</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Таміо-Кавабата">Таміо Кавабата</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr title="альт-саксофон">as</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Кенджі Морі|Кенджі Морі]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Таміо Кавабата|Таміо Кавабата]]

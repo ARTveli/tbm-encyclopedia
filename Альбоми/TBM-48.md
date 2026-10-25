@@ -52,6 +52,16 @@ cover: covers/TBM-48.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Ісао Йота</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr title="гітара">g</abbr> <abbr title="аранжування">arr</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сейджі-Іноуе">Сейджі Іноуе</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr title="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr title="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Шоджі Іто</span> <abbr title="бас-тромбон">btb</abbr></span></div>
+<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><span>Тосіюкі Міяма</span> <abbr title="диригент">con</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Тосіюкі Міяма|Тосіюкі Міяма]]
 - [[Артист — Ацуо Шіраї|Ацуо Шіраї]]
 - [[Артист — Сейджі Іноуе|Сейджі Іноуе]]

@@ -48,6 +48,15 @@ cover: covers/TBM-76.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Акіра Дої</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Мотохіко-Хамасе">Мотохіко Хамасе</a> <abbr title="бас-гітара">elb</abbr> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr> <abbr title="синтезатор">syn</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Казумі Ватанабе</span> <abbr title="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Казумаса-Акіяма">Казумаса Акіяма</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="віолончель">cello</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Ісао Судзукі|Ісао Судзукі]]
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
 - [[Артист — Казумі Ватанабе|Казумі Ватанабе]]

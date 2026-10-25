@@ -50,6 +50,15 @@ cover: covers/TBM-CD-5034.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кен-Цунода">Кен Цунода</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ясуо-Сано">Ясуо Сано</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Томохіро-Яхіро">Томохіро Яхіро</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Тошікі-Нагата">Тошікі Нагата</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Наокі-Кубошіма">Наокі Кубошіма</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сачі-Хаясака">Сачі Хаясака</a> <abbr title="альт-саксофон">as</abbr> <abbr title="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Тацуя-Сато">Тацуя Сато</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йоічі-Мурата">Йоічі Мурата</a> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Сачі Хаясака|Сачі Хаясака]]
 - [[Артист — Тацуя Сато|Тацуя Сато]]
 - [[Артист — Йоічі Мурата|Йоічі Мурата]]

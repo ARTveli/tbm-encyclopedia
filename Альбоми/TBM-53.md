@@ -43,6 +43,15 @@ cover: covers/TBM-53.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Такуджі Кусумото</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Юкінорі Нарішіге</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Ітабаші">Фуміо Ітабаші</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кійоші-Сугімото">Кійоші Сугімото</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Сейічі Накамура</span> <abbr title="тенор-саксофон">ts</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Сейічі Накамура|Сейічі Накамура]]
 - [[Артист — Кійоші Сугімото|Кійоші Сугімото]]
 - [[Артист — Фуміо Ітабаші|Фуміо Ітабаші]]

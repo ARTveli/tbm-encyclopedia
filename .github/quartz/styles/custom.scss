@@ -603,3 +603,116 @@ a.tbm-ln {
 .sidebar.right .toc {
   display: none;
 }
+
+// ── Схема ансамблю на сторінці альбому (build_ensembles.py) ──
+:root {
+  --g-keys: #b4432b;
+  --g-bass: #2f6b8a;
+  --g-drums: #a07a12;
+  --g-guitar: #4f7a3a;
+  --g-reeds: #7b4b94;
+  --g-brass: #d9822b;
+  --g-strings: #2a8a7c;
+  --g-vocal: #c2456f;
+  --g-other: #9a9184;
+}
+:root[saved-theme="dark"] {
+  --g-keys: #e0694d;
+  --g-bass: #5fa3c7;
+  --g-drums: #d4a93a;
+  --g-guitar: #82b065;
+  --g-reeds: #b086c9;
+  --g-brass: #f0a057;
+  --g-strings: #4fbcab;
+  --g-vocal: #e57a9c;
+  --g-other: #8d8475;
+}
+
+.tbm-ens {
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+  padding: 1rem 0.8rem 0.6rem;
+  margin: 0.6rem 0 1.4rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  overflow: hidden;
+  + ul {
+    display: none;
+  }
+  .external-icon {
+    display: none;
+  }
+}
+
+.tbm-ens-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 0.7rem 0;
+  border-bottom: 1px dashed var(--lightgray);
+  > b {
+    flex-basis: 100%;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--gray);
+  }
+  &.tbm-ens-extra {
+    opacity: 0.85;
+  }
+}
+
+.tbm-ens-m {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  font-size: 0.9rem;
+  line-height: 1.3;
+  i {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    flex: none;
+    background: var(--g-other);
+  }
+  a {
+    text-decoration: none;
+  }
+  abbr {
+    font-size: 0.78rem;
+    color: var(--gray);
+    text-decoration: underline dotted;
+    text-underline-offset: 2px;
+    cursor: help;
+  }
+  @each $g in keys, bass, drums, guitar, reeds, brass, strings, vocal, other {
+    &[data-g="#{$g}"] i {
+      background: var(--g-#{$g});
+    }
+  }
+}
+
+.tbm-ens-stage {
+  text-align: center;
+  font-size: 0.72rem;
+  color: var(--gray);
+  margin: 0.5rem 0 0;
+  letter-spacing: 0.04em;
+}
+
+// обкладинка 400px не розпирає сторінку на телефоні
+article img {
+  max-width: 100%;
+  height: auto;
+}
+@media all and (max-width: 800px) {
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

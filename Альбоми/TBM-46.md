@@ -45,6 +45,15 @@ cover: covers/TBM-46.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Стів-Джексон">Стів Джексон</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Нобуйоші-Іно">Нобуйоші Іно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Казумі Ватанабе</span> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хідефумі-Токі">Хідефумі Токі</a> <abbr title="альт-саксофон">as</abbr> <abbr title="сопрано-саксофон">ss</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хідефумі Токі|Хідефумі Токі]]
 - [[Артист — Казумі Ватанабе|Казумі Ватанабе]]
 - [[Артист — Нобуйоші Іно|Нобуйоші Іно]]

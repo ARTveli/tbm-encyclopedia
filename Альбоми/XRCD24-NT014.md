@@ -40,6 +40,15 @@ cover: covers/XRCD24-NT014.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шінджі-Морі">Шінджі Морі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроші-Тамура">Хіроші Тамура</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кадзумі-Ватанабе">Кадзумі Ватанабе</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сеїчі-Накамура">Сеїчі Накамура</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіо-Отомо">Йошіо Отомо</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігехару-Мукаї">Шігехару Мукаї</a> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Сеїчі Накамура|Сеїчі Накамура]]
 - [[Артист — Шігехару Мукаї|Шігехару Мукаї]]
 - [[Артист — Хіроші Тамура|Хіроші Тамура]]

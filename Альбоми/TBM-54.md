@@ -47,6 +47,15 @@ cover: covers/TBM-54.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Саданорі Накамуре</span> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Йошіко-Гото">Йошіко Гото</a> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Йошіко Гото|Йошіко Гото]]
 - [[Артист — Куніміцу Інаба|Куніміцу Інаба]]
 - [[Артист — Саданорі Накамуре|Саданорі Накамуре]]

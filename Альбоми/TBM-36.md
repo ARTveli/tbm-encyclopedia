@@ -45,6 +45,14 @@ cover: covers/TBM-36.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шінджі-Морі">Шінджі Морі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="віолончель">cello</abbr> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr> <abbr title="орган">org</abbr> <abbr title="вібрафон">vib</abbr> <abbr title="вокал">vo</abbr> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Осаму-Кавакамі">Осаму Кавакамі</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Акіра-Оказава">Акіра Оказава</a> <abbr title="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кадзумі-Ватанабе">Кадзумі Ватанабе</a> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Ісао Судзукі|Ісао Судзукі]]
 - [[Артист — Кадзумі Ватанабе|Кадзумі Ватанабе]]
 - [[Артист — Осаму Кавакамі|Осаму Кавакамі]]

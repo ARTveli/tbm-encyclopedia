@@ -44,6 +44,15 @@ cover: covers/TBM-10.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Хіроші Ямазакі</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джо-Мізукі">Джо Мізукі</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr title="гітара">g</abbr> <abbr title="перкусія">per</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Кендзі Морі</span> <abbr title="кларнет">cl</abbr> <abbr title="пікколо">pic</abbr> <abbr title="сопрано-саксофон">ss</abbr> <abbr title="блокфлейта">recorder</abbr> <abbr title="альт-саксофон">as</abbr> <abbr title="флейта">fl</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]]
 - [[Артист — Кендзі Морі|Кендзі Морі]]
 - [[Артист — Хіроші Ямазакі|Хіроші Ямазакі]]

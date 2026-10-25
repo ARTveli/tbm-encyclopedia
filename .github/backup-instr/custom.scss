@@ -1,0 +1,605 @@
+@use "./base.scss";
+
+// ───────────────────────────────────────────────────────────
+// TBM Енциклопедія — стиль у дусі «TBM Полиця»
+// Кольори задаються в quartz.config.ts (theme.colors)
+// ───────────────────────────────────────────────────────────
+
+$mono: "IBM Plex Mono", ui-monospace, monospace;
+$shadow: 0 10px 30px rgba(40, 30, 15, 0.14);
+
+// ── Загальне ──
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.01em;
+}
+
+.page-title a {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+// посилання: без «плашки», з тонким підкресленням
+a.internal,
+a.external {
+  background-color: transparent;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 35%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.15s;
+  &:hover {
+    color: var(--secondary);
+    text-decoration-color: var(--secondary);
+  }
+}
+
+a.internal.tag-link {
+  text-decoration: none;
+  background: var(--lightgray);
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  font-size: 0.85em;
+}
+
+// таблиці
+article table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95em;
+  th {
+    text-align: left;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--gray);
+    font-weight: 600;
+    border-bottom: 1px solid var(--lightgray);
+    padding: 0.5rem 0.6rem;
+  }
+  td {
+    border-bottom: 1px solid var(--lightgray);
+    padding: 0.55rem 0.6rem;
+    vertical-align: top;
+    line-height: 1.45;
+  }
+  td:first-child {
+    font-family: $mono;
+    font-size: 0.85em;
+    white-space: nowrap;
+  }
+  tr:hover td {
+    background: var(--highlight);
+  }
+}
+
+article img {
+  border-radius: 4px;
+}
+
+// ── Головна сторінка ──
+body[data-slug="index"] {
+  .page-header {
+    display: none;
+  }
+
+  article > h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--gray);
+    font-weight: 600;
+    margin: 2.6rem 0 1rem;
+    a[role="anchor"] {
+      display: none;
+    }
+  }
+}
+
+.tbm-hero {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2rem 0 1.5rem;
+
+  .tbm-hero-text {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+  .tbm-kicker {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-family: $mono;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--gray);
+    margin: 0 0 0.6rem;
+  }
+  .tbm-logo {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    margin: 0;
+    flex: none;
+  }
+  .tbm-title {
+    font-size: 2.8rem;
+    line-height: 1;
+    margin: 0 0 0.8rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .tbm-lead {
+    font-size: 1.08rem;
+    line-height: 1.55;
+    color: var(--darkgray);
+    margin: 0 0 1.2rem;
+    max-width: 36em;
+  }
+
+  @media all and (max-width: 800px) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.2rem;
+    margin-top: 1rem;
+    .tbm-title {
+      font-size: 2.1rem;
+    }
+  }
+}
+
+// ── Стопка платівок (заповнює TBMHome) ──
+a.tbm-stack {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  width: 250px;
+  text-decoration: none;
+  color: var(--gray);
+  &:empty {
+    display: none;
+  }
+  .tbm-stack-art {
+    position: relative;
+    display: block;
+    width: 250px;
+    height: 180px;
+  }
+  .tbm-sleeve,
+  .tbm-disc {
+    position: absolute;
+    left: 55px;
+    top: 15px;
+    width: 150px;
+    height: 150px;
+    transition: transform 0.45s cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+  .tbm-sleeve {
+    border-radius: 3px;
+    overflow: hidden;
+    background: var(--lightgray);
+    box-shadow: 0 8px 24px rgba(30, 20, 10, 0.25);
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+  }
+  .s0 { transform: translate(-30px, 8px) rotate(-9deg); }
+  .s1 { transform: translate(-12px, 3px) rotate(-4deg); }
+  .s2 { transform: translate(8px, 1px) rotate(3deg); }
+  .s3 { transform: translate(0, 0) rotate(0); }
+  .tbm-disc {
+    border-radius: 50%;
+    background:
+      radial-gradient(circle, var(--secondary) 0 15%, #111 15.5% 17%, transparent 17.5%),
+      repeating-radial-gradient(circle, #151515 0 2px, #262626 2px 3.5px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    transform: translate(0, 0) rotate(0);
+  }
+  .tbm-stack-label {
+    font-family: $mono;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    transition: color 0.2s;
+  }
+  &:hover {
+    color: var(--secondary);
+    .s0 { transform: translate(-58px, 14px) rotate(-15deg); }
+    .s1 { transform: translate(-30px, 6px) rotate(-8deg); }
+    .s2 { transform: translate(-4px, 2px) rotate(-2deg); }
+    .s3 { transform: translate(-30px, 0) rotate(0); }
+    .tbm-disc { transform: translate(52px, 0) rotate(160deg); }
+  }
+  @media all and (max-width: 800px) {
+    align-self: center;
+  }
+}
+
+// ── Альбом дня (заповнює TBMHome) ──
+.tbm-daily {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 1.4rem;
+  align-items: start;
+  padding: 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+  margin: 1.5rem 0 0.5rem;
+  &:empty {
+    display: none;
+  }
+  .tbm-daily-cover {
+    display: block;
+    aspect-ratio: 1;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: $shadow;
+    text-decoration: none;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+  }
+  .tbm-daily-k {
+    font-family: $mono;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--secondary);
+    margin: 0.1rem 0 0.4rem;
+  }
+  h3 {
+    margin: 0 0 0.25rem;
+    font-size: 1.45rem;
+    line-height: 1.15;
+  }
+  .tbm-daily-a {
+    margin: 0 0 0.7rem;
+    color: var(--gray);
+    font-size: 0.92rem;
+    span {
+      font-family: $mono;
+      font-size: 0.85em;
+    }
+  }
+  .tbm-daily-r {
+    margin: 0 0 1rem;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .tbm-daily-act {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  button.tbm-btn {
+    border: 0;
+    font-family: inherit;
+    line-height: inherit;
+    cursor: pointer;
+  }
+  .external-icon {
+    display: none;
+  }
+  @media all and (max-width: 800px) {
+    grid-template-columns: 1fr;
+    .tbm-daily-cover {
+      width: 60%;
+    }
+  }
+}
+
+.tbm-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+a.tbm-btn,
+button.tbm-btn {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.92rem;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  background: var(--secondary);
+  color: var(--light);
+  transition: transform 0.15s, filter 0.15s;
+  &:hover {
+    color: var(--light);
+    transform: translateY(-1px);
+    filter: brightness(1.08);
+  }
+  .external-icon {
+    display: none;
+  }
+  &.ghost {
+    background: var(--lightgray);
+    color: var(--dark);
+    &:hover {
+      color: var(--dark);
+    }
+  }
+}
+
+.tbm-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+  margin: 1.5rem 0;
+  div {
+    padding: 0.9rem 0.8rem;
+    border-left: 1px solid var(--lightgray);
+    &:first-child {
+      border-left: 0;
+      padding-left: 0;
+    }
+  }
+  b {
+    display: block;
+    font-family: $mono;
+    font-size: 1.7rem;
+    font-weight: 600;
+    color: var(--dark);
+    line-height: 1.1;
+  }
+  span {
+    font-size: 0.82rem;
+    color: var(--gray);
+  }
+  @media all and (max-width: 800px) {
+    grid-template-columns: repeat(2, 1fr);
+    div:nth-child(3) {
+      border-left: 0;
+      padding-left: 0;
+    }
+    div:nth-child(n + 3) {
+      border-top: 1px solid var(--lightgray);
+    }
+  }
+}
+
+.tbm-strip {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 112px;
+  gap: 14px;
+  overflow-x: auto;
+  padding: 6px 2px 18px;
+  scroll-snap-type: x mandatory;
+  a {
+    display: block;
+    aspect-ratio: 1;
+    scroll-snap-align: start;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: $shadow;
+    background: var(--lightgray);
+    text-decoration: none;
+    transition: transform 0.2s;
+    &:hover {
+      transform: translateY(-4px);
+    }
+  }
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+    border-radius: 0;
+  }
+}
+
+.tbm-sections {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 1rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+    text-decoration: none;
+    color: var(--dark);
+    transition: border-color 0.15s, transform 0.15s;
+    &:hover {
+      border-color: var(--secondary);
+      transform: translateY(-2px);
+      color: var(--dark);
+    }
+  }
+  span {
+    font-family: $mono;
+    font-size: 0.75rem;
+    color: var(--secondary);
+  }
+  b {
+    font-size: 1.02rem;
+  }
+  small {
+    color: var(--gray);
+    font-size: 0.82rem;
+  }
+}
+
+.tbm-sections .external-icon {
+  display: none;
+}
+
+// ── Головна: без провідника зліва і без графа/змісту справа ──
+body[data-slug="index"] {
+  .sidebar.left .explorer,
+  .sidebar.right > * {
+    display: none;
+  }
+}
+
+// ── Liner Notes: сторінка-список ──
+body[data-slug="Liner_Notes/index"],
+body[data-slug="Liner_Notes"] {
+  .page-listing,
+  .content-meta,
+  .tags,
+  .sidebar.right > * {
+    display: none;
+  }
+}
+
+// окремий liner note: без тегів і зайвих блоків справа
+body[data-slug^="Liner_Notes/"] {
+  .tags,
+  .sidebar.right .graph,
+  .sidebar.right .backlinks {
+    display: none;
+  }
+}
+
+.tbm-ln-lead {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--darkgray);
+  max-width: 38em;
+  margin: 0.4rem 0 1.6rem;
+}
+
+.tbm-ln-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  .external-icon {
+    display: none;
+  }
+}
+
+a.tbm-ln {
+  display: grid;
+  grid-template-columns: 112px 1fr;
+  gap: 1.1rem;
+  align-items: start;
+  padding: 0.9rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--light) 60%, var(--lightgray));
+  color: var(--dark);
+  text-decoration: none;
+  transition: border-color 0.15s, transform 0.15s;
+  &:hover {
+    border-color: var(--secondary);
+    transform: translateY(-2px);
+    color: var(--dark);
+  }
+  .tbm-ln-cover {
+    display: block;
+    aspect-ratio: 1;
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--lightgray);
+    box-shadow: $shadow;
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      margin: 0;
+      border-radius: 0;
+    }
+    i {
+      display: flex;
+      height: 100%;
+      align-items: center;
+      justify-content: center;
+      font-family: $mono;
+      font-style: normal;
+      font-size: 0.75rem;
+      color: var(--gray);
+    }
+  }
+  .tbm-ln-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-width: 0;
+  }
+  .tbm-ln-k {
+    font-family: $mono;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--secondary);
+  }
+  b {
+    font-size: 1.12rem;
+    line-height: 1.25;
+  }
+  .tbm-ln-a {
+    color: var(--gray);
+    font-size: 0.9rem;
+  }
+  .tbm-ln-ex {
+    margin-top: 0.45rem;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--darkgray);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .tbm-ln-by {
+    margin-top: 0.45rem;
+    font-family: $mono;
+    font-size: 0.72rem;
+    color: var(--gray);
+  }
+  @media all and (max-width: 600px) {
+    grid-template-columns: 76px 1fr;
+    gap: 0.8rem;
+    .tbm-ln-ex {
+      display: none;
+    }
+  }
+}
+
+// однакова висота рядків у всіх картках розділів (внутрішні й зовнішні посилання)
+.tbm-sections a,
+.tbm-sections a.internal {
+  line-height: 1.3;
+  font-weight: inherit;
+  small {
+    line-height: 1.35;
+  }
+}
+
+// граф і зміст — приховані на всіх сторінках
+.sidebar.right .graph,
+.sidebar.right .toc {
+  display: none;
+}

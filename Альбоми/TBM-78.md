@@ -44,6 +44,14 @@ cover: covers/TBM-78.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Казухіро Мацуіші</span> <abbr title="вібрафон">vib</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="віолончель">cello</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шьоджі-Йокоучі">Шьоджі Йокоучі</a> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Шьоджі Йокоучі|Шьоджі Йокоучі]]

@@ -51,6 +51,16 @@ cover: covers/TBM-45.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масахару-Накаяма">Масахару Накаяма</a> <abbr title="ударні">ds</abbr> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Нобуясу Урушіяма</span> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Хідето-Канаї">Хідето Канаї</a> <abbr title="бас (контрабас)">b</abbr> <abbr title="композитор">com</abbr> <abbr title="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Міцуо-Кадота">Міцуо Кадота</a> <abbr title="фортепіано">p</abbr> <abbr title="синтезатор">syn</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Йошіхіро-Куросава">Йошіхіро Куросава</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Шова-Такамацу">Шова Такамацу</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Куга">Кенджі Куга</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такео-Мотохаші">Такео Мотохаші</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хіроші-Ямада">Хіроші Ямада</a> <abbr title="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr title="альт-саксофон">as</abbr> <abbr title="флейта">fl</abbr> <abbr title="блокфлейта">recorder</abbr> <abbr title="бас-кларнет">bcl</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хідео-Міята">Хідео Міята</a> <abbr title="сопрано-саксофон">ss</abbr> <abbr title="тенор-саксофон">ts</abbr> <abbr title="флейта">fl</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Масакацу-Араї">Масакацу Араї</a> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Когі Мацумура</span> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Казуо-Сакагучі">Казуо Сакагучі</a> <abbr title="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Шіннічі Катоока</span> <abbr title="бас-тромбон">btb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Теруюкі-Фукушіма">Теруюкі Фукушіма</a> <abbr title="труба">tp</abbr></span></div>
+<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><a href="../Артисти/Артист-—-Масахіко-Сато">Масахіко Сато</a> <abbr title="композитор">com</abbr> <abbr title="аранжування">arr</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хідето Канаї|Хідето Канаї]]
 - [[Артист — Шова Такамацу|Шова Такамацу]]
 - [[Артист — Кенджі Куга|Кенджі Куга]]

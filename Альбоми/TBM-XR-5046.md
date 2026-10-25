@@ -48,6 +48,14 @@ cover: covers/TBM-XR-5046.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тошіхіро-Акамацу">Тошіхіро Акамацу</a> <abbr title="вібрафон">vib</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масанорі-Андо">Масанорі Андо</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Йошімі Сато</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Кацумі-Хіраїші">Кацумі Хіраїші</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ейджі-Ясуда">Ейджі Ясуда</a> <abbr title="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясухіко-Сато">Ясухіко Сато</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Юкі-Арімаса">Юкі Арімаса</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="фортепіано">p</abbr> <abbr title="клавішні">key</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Саданорі-Накамура">Саданорі Накамура</a> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Тошіхіро Акамацу|Тошіхіро Акамацу]]
 - [[Артист — Юкі Арімаса|Юкі Арімаса]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]

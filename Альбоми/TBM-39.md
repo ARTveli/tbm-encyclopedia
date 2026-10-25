@@ -46,6 +46,14 @@ cover: covers/TBM-39.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Юджі-Імамура">Юджі Імамура</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr title="електропіаніно">elp</abbr> <abbr title="орган">org</abbr> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Казумі Ватанабе</span> <abbr title="гітара">g</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Масару Імада|Масару Імада]]
 - [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
 - [[Артист — Тецуджіро Обара|Тецуджіро Обара]]

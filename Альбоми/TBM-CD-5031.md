@@ -46,6 +46,15 @@ cover: covers/TBM-CD-5031.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масаюкі-Куме">Масаюкі Куме</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Тошікі-Нагата">Тошікі Нагата</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масайоші-Йонеда">Масайоші Йонеда</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіюкі-Яманака">Йошіюкі Яманака</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сачі-Хаясака">Сачі Хаясака</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Харукі-Сато">Харукі Сато</a> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Йошіюкі Яманака|Йошіюкі Яманака]]
 - [[Артист — Харукі Сато|Харукі Сато]]
 - [[Артист — Масайоші Йонеда|Масайоші Йонеда]]

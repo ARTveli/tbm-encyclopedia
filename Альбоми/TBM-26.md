@@ -48,6 +48,14 @@ cover: covers/TBM-26.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Міцухіко Такада</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Йоїчі Огава</span> <abbr title="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Йоїчі Кімура</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Куніхіко-Сугано">Куніхіко Сугано</a> <abbr title="фортепіано">p</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Куніхіко Сугано|Куніхіко Сугано]]
 - [[Артист — Йоїчі Кімура|Йоїчі Кімура]]
 - [[Артист — Міцухіко Такада|Міцухіко Такада]]

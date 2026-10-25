@@ -47,6 +47,15 @@ cover: covers/TBM-1.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Муракамі">Хіроші Муракамі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr title="електропіаніно">elp</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Косуке-Міне">Косуке Міне</a> <abbr title="альт-саксофон">as</abbr> <abbr title="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Такаші Імаї</span> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Косуке Міне|Косуке Міне]]
 - [[Артист — Такаші Імаї|Такаші Імаї]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]

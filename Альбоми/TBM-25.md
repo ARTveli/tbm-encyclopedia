@@ -45,6 +45,15 @@ cover: covers/TBM-25.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Аріхіде Курата</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Міцуакі-Фуруно">Міцуакі Фуруно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Ушіо-Сакаї">Ушіо Сакаї</a> <abbr title="орган">org</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такао-Уемацу">Такао Уемацу</a> <abbr title="тенор-саксофон">ts</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Сунао Вада|Сунао Вада]]
 - [[Артист — Ушіо Сакаї|Ушіо Сакаї]]
 - [[Артист — Такао Уемацу|Такао Уемацу]]

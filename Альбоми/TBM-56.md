@@ -53,6 +53,15 @@ cover: covers/TBM-56.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Казумі Ватанабе</span> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Марі-Накамото">Марі Накамото</a> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Марі Накамото|Марі Накамото]]
 - [[Артист — Казумі Ватанабе|Казумі Ватанабе]]
 - [[Артист — Ісао Судзукі|Ісао Судзукі]]

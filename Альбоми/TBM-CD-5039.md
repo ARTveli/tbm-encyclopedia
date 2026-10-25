@@ -49,6 +49,16 @@ cover: covers/TBM-CD-5039.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джиммі-Сміт">Джиммі Сміт</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Джон-Хеттел">Джон Хеттел</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Ті-Карсон">Ті Карсон</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Шота-Осабе">Шота Осабе</a> <abbr title="фортепіано">p</abbr> <abbr title="синтезатор">syn</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Рей-Роквелл">Рей Роквелл</a> <abbr title="флейта">fl</abbr> <abbr title="саксофон">sax</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Аяко-Хосокава">Аяко Хосокава</a> <abbr title="вокал">vo</abbr></span></div>
+<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><a href="../Артисти/Артист-—-Тошіхіко-Огава">Тошіхіко Огава</a> <abbr title="аранжування">arr</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Аяко Хосокава|Аяко Хосокава]]
 - [[Артист — Рей Роквелл|Рей Роквелл]]
 - [[Артист — Ті Карсон|Ті Карсон]]

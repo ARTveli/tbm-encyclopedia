@@ -57,6 +57,15 @@ cover: covers/TBM-64.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Сунага">Хіроші Сунага</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Норіо Осава</span> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шьоджі-Йокоучі">Шьоджі Йокоучі</a> <abbr title="гітара">g</abbr> <abbr title="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Ікуо Шіозакі</span> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акіра-Міядзава">Акіра Міядзава</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Фуджіка">Коджі Фуджіка</a> <abbr title="кларнет">cl</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Акіра Тада</span> <abbr title="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Хіроші Ідзумі</span> <abbr title="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Коносуке-Оно">Коносуке Оно</a> <abbr title="альт (віола)">viola</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Йошіо-Хатторі">Йошіо Хатторі</a> <abbr title="віолончель">cello</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><span>Тошіо Оїда</span> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Тошіо Оїда|Тошіо Оїда]]
 - [[Артист — Акійоші Ігараші|Акійоші Ігараші]]
 - [[Артист — Шьоджі Йокоучі|Шьоджі Йокоучі]]

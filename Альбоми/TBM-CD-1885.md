@@ -41,6 +41,15 @@ cover: covers/TBM-CD-1885.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джун-Сайто">Джун Сайто</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Шин Окабе</span> <abbr title="вадайко (японський барабан)">wadaiko</abbr> <abbr title="перкусія">per</abbr> <abbr title="вокал">vo</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Хідето-Канаї">Хідето Канаї</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Йоко-Сумітані">Йоко Сумітані</a> <abbr title="фортепіано">p</abbr> <abbr title="клавішні">key</abbr> <abbr title="вокал">vo</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроші-Тамура">Хіроші Тамура</a> <abbr title="фортепіано">p</abbr> <abbr title="клавішні">key</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сачі-Хаясака">Сачі Хаясака</a> <abbr title="сопрано-саксофон">ss</abbr> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Масанорі-Такано">Масанорі Такано</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="флейта">fl</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мікінорі-Фуджівара">Мікінорі Фуджівара</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Тецуджі-Йошіда">Тецуджі Йошіда</a> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Харукі-Сато">Харукі Сато</a> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хідето Канаї|Хідето Канаї]]
 - [[Артист — Тецуджі Йошіда|Тецуджі Йошіда]]
 - [[Артист — Харукі Сато|Харукі Сато]]

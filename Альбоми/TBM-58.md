@@ -46,6 +46,15 @@ cover: covers/TBM-58.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Нобуйоші-Іно">Нобуйоші Іно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Коджі-Моріяма">Коджі Моріяма</a> <abbr title="вокал">vo</abbr> <abbr title="конги">conga</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Коджі Моріяма|Коджі Моріяма]]
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
 - [[Артист — Нобуйоші Іно|Нобуйоші Іно]]

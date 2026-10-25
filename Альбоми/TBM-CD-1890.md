@@ -35,6 +35,15 @@ cover: covers/TBM-CD-1890.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Такаюкі-Като">Такаюкі Като</a> <abbr title="гітара">g</abbr> <abbr title="ефекти">effectors</abbr> <abbr title="перкусія">per</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Юкі-Сага">Юкі Сага</a> <abbr title="вокал">vo</abbr> <abbr title="ефекти">effectors</abbr> <abbr title="перкусія">per</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Такаюкі Като|Такаюкі Като]]
 - [[Артист — Юкі Сага|Юкі Сага]]
 

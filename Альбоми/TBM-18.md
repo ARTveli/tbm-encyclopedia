@@ -56,6 +56,15 @@ cover: covers/TBM-18.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ленні-Вайт">Ленні Вайт</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Алверн Банн</span> <abbr title="конги">conga</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кейджі-Кішіда">Кейджі Кішіда</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Аль-Музон">Аль Музон</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Рональд-Джексон">Рональд Джексон</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Теруо-Накамура">Теруо Накамура</a> <abbr title="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Джордж Кейблз</span> <abbr title="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Х&#x27;юберт-Івз-III">Х&#x27;юберт Івз III</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Джон-Міллер">Джон Міллер</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Стів-Гроссман">Стів Гроссман</a> <abbr title="сопрано-саксофон">ss</abbr> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Чарльз-Салліван">Чарльз Салліван</a> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Сенді-Х&#x27;юїтт">Сенді Х&#x27;юїтт</a> <abbr title="вокал">vo</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Теруо Накамура|Теруо Накамура]]
 - [[Артист — Стів Гроссман|Стів Гроссман]]
 - [[Артист — Джордж Кейблз|Джордж Кейблз]]

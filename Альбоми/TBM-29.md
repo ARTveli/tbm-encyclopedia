@@ -50,6 +50,15 @@ cover: covers/TBM-29.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Оцука">Джордж Оцука</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Міцуакі-Фуруно">Міцуакі Фуруно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr title="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Тошіюкі-Дайтоку">Тошіюкі Дайтоку</a> <abbr title="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такао-Уемацу">Такао Уемацу</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мабумі-Ямагучі">Мабумі Ямагучі</a> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіо-Отомо">Йошіо Отомо</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Ісао-Судзукі">Ісао Судзукі</a> <abbr title="віолончель">cello</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
 - [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
 - [[Артист — Тецуджіро Обара|Тецуджіро Обара]]

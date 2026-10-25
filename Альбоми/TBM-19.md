@@ -49,6 +49,15 @@ cover: covers/TBM-19.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шінджі-Морі">Шінджі Морі</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Цутому-Окада">Цутому Окада</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроші-Тамура">Хіроші Тамура</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Хіроші-Фукумура">Хіроші Фукумура</a> <abbr title="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігехару-Мукаї">Шігехару Мукаї</a> <abbr title="тромбон">tb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Хіроші Фукумура|Хіроші Фукумура]]
 - [[Артист — Шігехару Мукаї|Шігехару Мукаї]]
 - [[Артист — Хіроші Тамура|Хіроші Тамура]]

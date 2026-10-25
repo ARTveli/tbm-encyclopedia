@@ -46,6 +46,15 @@ cover: covers/TBM-68.jpg
 
 
 ## Склад
+
+<!-- tbm-ensemble:start -->
+<div class="tbm-ens">
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Казухіро-Ебісава">Казухіро Ебісава</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Казуя-Сугімото">Казуя Сугімото</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масахіро-Канаяма">Масахіро Канаяма</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кенічі-Арая">Кенічі Арая</a> <abbr title="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Тацуя Такахаші</span> <abbr title="тенор-саксофон">ts</abbr> <abbr title="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Бінго-Мікі">Бінго Мікі</a> <abbr title="тенор-саксофон">ts</abbr> <abbr title="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кейджі-Хорі">Кейджі Хорі</a> <abbr title="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такемі-Ішікане">Такемі Ішікане</a> <abbr title="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Шінобу Кумамото</span> <abbr title="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коічі-Окада">Коічі Окада</a> <abbr title="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кенічі-Сударе">Кенічі Сударе</a> <abbr title="бас-тромбон">btb</abbr></span></div>
+<p class="tbm-ens-stage">слухачі</p>
+</div>
+<!-- tbm-ensemble:end -->
+
 - [[Артист — Тацуя Такахаші|Тацуя Такахаші]]
 - [[Артист — Бінго Мікі|Бінго Мікі]]
 - [[Артист — Кейджі Хорі|Кейджі Хорі]]
