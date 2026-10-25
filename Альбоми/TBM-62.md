@@ -13,7 +13,7 @@ personnel:
 - Джордж Оцука
 - Шозо Сасакі
 - Фуміо Карашіма
-- Міцуаки Фуруно
+- Міцуакі Фуруно
 - Норіо Оно
 reissues:
 - THCD-239
@@ -45,7 +45,7 @@ cover: covers/TBM-62.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Оцука">Джордж Оцука</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Норіо-Оно">Норіо Оно</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Міцуаки Фуруно</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Карашіма">Фуміо Карашіма</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr> <abbr title="синтезатор">syn</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Оцука">Джордж Оцука</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Норіо-Оно">Норіо Оно</a> <abbr title="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Міцуакі-Фуруно">Міцуакі Фуруно</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Карашіма">Фуміо Карашіма</a> <abbr title="фортепіано">p</abbr> <abbr title="електропіаніно">elp</abbr> <abbr title="синтезатор">syn</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Шозо Сасакі</span> <abbr title="тенор-саксофон">ts</abbr> <abbr title="сопрано-саксофон">ss</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -54,7 +54,7 @@ cover: covers/TBM-62.jpg
 - [[Артист — Джордж Оцука|Джордж Оцука]]
 - [[Артист — Шозо Сасакі|Шозо Сасакі]]
 - [[Артист — Фуміо Карашіма|Фуміо Карашіма]]
-- [[Артист — Міцуаки Фуруно|Міцуаки Фуруно]]
+- [[Артист — Міцуакі Фуруно|Міцуакі Фуруно]]
 - [[Артист — Норіо Оно|Норіо Оно]]
 
 ## Запис

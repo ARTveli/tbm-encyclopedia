@@ -85,7 +85,7 @@ def main():
         lineup = [(p, book_lu[_norm(p)]) for p in (fm.get("personnel") or []) if p and book_lu.get(_norm(p))]
         new = BLOCK_RE.sub("\n\n", text)
         if lineup and re.search(r"^## Склад\s*$", new, re.M):
-            new = re.sub(r"^(## Склад\s*)\n+", lambda m: m.group(1) + "\n\n" + build(lineup, pages) + "\n\n",
+            new = re.sub(r"^(## Склад)[ \t]*\n+", lambda m: m.group(1) + "\n\n" + build(lineup, pages) + "\n\n",
                          new, count=1, flags=re.M)
         else:
             skipped.append(cat)
