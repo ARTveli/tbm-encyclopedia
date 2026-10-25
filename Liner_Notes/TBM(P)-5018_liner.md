@@ -12,6 +12,10 @@ tags:
   - catalog/TBM(P)-5018
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM(P)-5018"><img src="../covers/thumbs/TBM(P)-5018.webp" alt="Cool Jojo"></a><div><span>TBM(P)-5018</span><b>Cool Jojo</b><small>Masayuki Takayanagi Second Concept, 1979</small><a href="../Альбоми/TBM(P)-5018">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Cool JoJo
 ## Masayuki Takayanagi Second Concept ([[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]] Секонд Концепт)
 

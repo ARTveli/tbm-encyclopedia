@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-20
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-20"><img src="../covers/thumbs/TBM-20.webp" alt="Step"></a><div><span>TBM-20</span><b>Step</b><small>Секстет Наосуке Міямото, 1973</small><a href="../Альбоми/TBM-20">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # З нагоди випуску альбому «Step! / Miyamoto, Naosuke Sextet»
 ## Текст: Теруо Ісоно (Teruo Isono)
 

@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-3007
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-3007"><img src="../covers/thumbs/TBM-3007.webp" alt="Moon Ray"></a><div><span>TBM-3007</span><b>Moon Ray</b><small>Квартет Йошіо Отомо, 1977</small><a href="../Альбоми/TBM-3007">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Moon Ray
 ## Квартет [[Артист — Йошіо Отомо|Йошіо Отомо]]
 

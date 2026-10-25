@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-1004
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-1004"><img src="../covers/thumbs/TBM-1004.webp" alt="Jazz Orchestra &#x27;75"></a><div><span>TBM-1004</span><b>Jazz Orchestra &#x27;75</b><small>Шуко Мідзуно, 1975</small><a href="../Альбоми/TBM-1004">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Шуко Мізуно (Shuko Mizuno)
 ## 『Jazz Orchestra '75』 (Джазовий оркестр '75)
 

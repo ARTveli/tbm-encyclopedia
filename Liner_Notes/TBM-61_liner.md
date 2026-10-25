@@ -14,6 +14,10 @@ tags:
   - by/Такесі_Фудзії
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-61"><img src="../covers/thumbs/TBM-61.webp" alt="Ryuhyo"></a><div><span>TBM-61</span><b>Ryuhyo</b><small>Квартет Мотохіко Хіно + 1, 1976</small><a href="../Альбоми/TBM-61">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Рецензія Такесі Фудзії
 
 ## Про квартет [[Артист — Мотохіко Хіно|Мотохіко Хіно]] (Motohiko Hino Quartet)

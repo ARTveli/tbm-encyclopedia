@@ -14,6 +14,10 @@ tags:
   - by/Осаму_Учіди_(Osamu_Uchida)
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-44"><img src="../covers/thumbs/TBM-44.webp" alt="Orang-Utan"></a><div><span>TBM-44</span><b>Orang-Utan</b><small>Квартет Ісао Судзукі + 2, 1975</small><a href="../Альбоми/TBM-44">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Огляд Осаму Учіди (Osamu Uchida)
 
 ## (I) «О! [[Артист — Ісао Судзукі|Ісао Судзукі]] опинився на вершині опитування популярності»

@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-3
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-3"><img src="../covers/thumbs/TBM-3.webp" alt="Debut"></a><div><span>TBM-3</span><b>Debut</b><small>Квартет та квінтет Такао Уемацу, 1970</small><a href="../Альбоми/TBM-3">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Огляд
 ## Текст: Шьоїчі Юї (Shoichi Yui)
 ### Людина на ім'я [[Артист — Такао Уемацу|Такао Уемацу]]

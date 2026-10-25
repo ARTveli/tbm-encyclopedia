@@ -14,6 +14,10 @@ tags:
   - by/Шоїчі_Юї
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-1"><img src="../covers/thumbs/TBM-1.webp" alt="Mine"></a><div><span>TBM-1</span><b>Mine</b><small>Квінтет Косуке Міне, 1970</small><a href="../Альбоми/TBM-1">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Рецензія Шоїчі Юї
 
 ## Людина на ім'я [[Артист — Косуке Міне|Косуке Міне]]

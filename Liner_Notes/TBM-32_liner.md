@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-32
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-32"><img src="../covers/thumbs/TBM-32.webp" alt="New Herd"></a><div><span>TBM-32</span><b>New Herd</b><small>Тосіюкі Міяма та New Herd, 1974</small><a href="../Альбоми/TBM-32">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Тосіюкі Міяма та New Herd — Живе відтворення в Monterey Jazz Festival (1974)
 
 ## СПИСОК КОМПОЗИЦІЙ

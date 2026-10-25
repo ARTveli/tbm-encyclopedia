@@ -99,7 +99,7 @@ def disc_table(name, albums, lineups):
         return (a["year"] or 9999, [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", a["cat"])])
     rows = ["| Рік | Каталог | Альбом | Інструмент | Лідер |", "|-----|---------|--------|------------|-------|"]
     for a in sorted(albums, key=key):
-        link = f"[[{a['stem']}]]" if a["stem"] == a["cat"] else f"[[{a['stem']}\\|{a['cat']}]]"
+        link = f"[[{a['stem']}]]" if a["stem"] == a["cat"] else f"[[{a['stem']}\\|{a['cat'].replace('/', '⁄')}]]"
         lu = {_norm(n): x for n, x in lineups.get(_catkey(a["cat"]), [])}
         lead = "★" if name in a["artist"] else ""
         title = a["title"].replace("|", "\\|")

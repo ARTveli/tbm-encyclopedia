@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-78
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-78"><img src="../covers/thumbs/TBM-78.webp" alt="Sunrise / Sunset"></a><div><span>TBM-78</span><b>Sunrise / Sunset</b><small>Квартет Ісоо Фукуї, 1976</small><a href="../Альбоми/TBM-78">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # «Sunrise/Sunset» (Санрайз / Сансет) — Квартет [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
 
 [[TBM-78]]

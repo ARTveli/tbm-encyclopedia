@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-4
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-4"><img src="../covers/thumbs/TBM-4.webp" alt="Second Album"></a><div><span>TBM-4</span><b>Second Album</b><small>Квінтет Косуке Міне, 1970</small><a href="../Альбоми/TBM-4">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Другий альбом 《Огляд》
 ## Текст: Шьоїчі Юї (Shoichi Yui)
 ### Друга платівка [[Артист — Косуке Міне|Косуке Міне]]

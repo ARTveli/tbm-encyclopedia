@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-35
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-35"><img src="../covers/thumbs/TBM-35.webp" alt="You Are My Sunshine"></a><div><span>TBM-35</span><b>You Are My Sunshine</b><small>Тріо Джорджа Оцуки, 1974</small><a href="../Альбоми/TBM-35">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Загальні відомості (Album Details)
 
 * **Каталожний номер:** [[TBM-35]]

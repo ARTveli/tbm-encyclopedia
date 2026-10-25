@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-5007
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-5007"><img src="../covers/thumbs/TBM-5007.webp" alt="Remember of Love"></a><div><span>TBM-5007</span><b>Remember of Love</b><small>Квартет Масару Імади, 1978</small><a href="../Альбоми/TBM-5007">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # [[Артист — Масару Імада|Масару Імада]] Квартет — Спогади про кохання (Masaru Imada Quartet — Remember Of Love)
 
 ## < СТОРОНА А >

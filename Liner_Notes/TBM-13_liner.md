@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-13
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-13"><img src="../covers/thumbs/TBM-13.webp" alt="Go On"></a><div><span>TBM-13</span><b>Go On</b><small>Квінтет Джорджа Оцуки, 1972</small><a href="../Альбоми/TBM-13">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Go On
 ## George Otsuka Quintet (Квінтет Джорджа Оцуки)
 

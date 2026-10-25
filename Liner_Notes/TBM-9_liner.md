@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-9
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-9"><img src="../covers/thumbs/TBM-9.webp" alt="Ginparis Session ~ June 26, 1963"></a><div><span>TBM-9</span><b>Ginparis Session ~ June 26, 1963</b><small>Масаюкі Такаянагі та Інститут музики нового століття, 1963</small><a href="../Альбоми/TBM-9">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Сесія в «Гінпарі» (Ginparis Session) ―26 червня 1963 року―
 ## Текст: Осаму Учіда (Osamu Uchida)
 

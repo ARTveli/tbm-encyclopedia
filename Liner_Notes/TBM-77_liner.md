@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-77
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-77"><img src="../covers/thumbs/TBM-77.webp" alt="Standards"></a><div><span>TBM-77</span><b>Standards</b><small>Тріо Масару Імади, 1976</small><a href="../Альбоми/TBM-77">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # [[Артист — Масару Імада|Масару Імада]] Тріо — Стандарти (Masaru Imada Trio — Standards)
 
 ## < СТОРОНА А >

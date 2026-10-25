@@ -200,6 +200,41 @@ def build_liner_page(vault: Path, albums) -> tuple[Path, int] | None:
     return page, len(items)
 
 
+# ── Обкладинка зверху кожної сторінки liner notes ──
+LC_START, LC_END = "<!-- tbm-liner-cover:start -->", "<!-- tbm-liner-cover:end -->"
+LC_RE = re.compile(r"\n*" + re.escape(LC_START) + r".*?" + re.escape(LC_END) + r"\n*", re.S)
+
+
+def insert_liner_covers(vault: Path, albums) -> int:
+    d = vault / "Liner_Notes"
+    if not d.is_dir():
+        return 0
+    by_cat = {a["cat"]: a for a in albums}
+    e = html.escape
+    n = 0
+    for f in sorted(d.glob("*.md")):
+        if f.name == "index.md":
+            continue
+        text = f.read_text(encoding="utf-8")
+        cm = re.search(r"^catalog:\s*(.+)$", text, re.M)
+        a = by_cat.get(cm.group(1).strip()) if cm else None
+        m = re.match(r"^---\n.*?\n---\n", text, re.S)
+        if not a or not m or not (a.get("thumb") or a.get("cover")):
+            continue
+        img = a.get("thumb") or a.get("cover")
+        meta = ", ".join(str(x) for x in (a["artist"], a["year"]) if x)
+        block = (f"{LC_START}\n<div class=\"tbm-lnc\">"
+                 f"<a href=\"../{e(slugify('Альбоми/' + a['stem']))}\"><img src=\"../{e(img)}\" alt=\"{e(a['title'])}\"></a>"
+                 f"<div><span>{e(a['cat'])}</span><b>{e(a['title'])}</b><small>{e(meta)}</small>"
+                 f"<a href=\"../{e(slugify('Альбоми/' + a['stem']))}\">Сторінка альбому →</a></div></div>\n{LC_END}\n\n")
+        body = LC_RE.sub("\n", text[m.end():]).lstrip("\n")
+        new = text[:m.end()] + "\n" + block + body
+        if new != text:
+            f.write_text(new, encoding="utf-8")
+            n += 1
+    return n
+
+
 def split_index(text: str):
     """Повертає (frontmatter, tail) — tail = все, що йде після нашого блоку / старої шапки."""
     m = re.match(r"^---\n.*?\n---\n", text, re.S)
@@ -245,6 +280,8 @@ def main():
     shutil.copy2(index, backup)
     index.write_text(new, encoding="utf-8")
     print(f"✓ index.md оновлено · бекап: {backup.name}")
+    k = insert_liner_covers(a.vault, albums)
+    print(f"✓ обкладинки на сторінках liner notes: оновлено {k}")
     r = build_liner_page(a.vault, albums)
     if r:
         print(f"✓ {r[0].relative_to(a.vault)} · {r[1]} liner notes")

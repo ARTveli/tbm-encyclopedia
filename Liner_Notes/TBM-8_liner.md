@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-8
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-8"><img src="../covers/thumbs/TBM-8.webp" alt="Yellow Carcass In The Blue"></a><div><span>TBM-8</span><b>Yellow Carcass In The Blue</b><small>Кіміко Касаї + Квартет Косуке Міне, 1971</small><a href="../Альбоми/TBM-8">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # «Жовтий каркас у синяві» (Yellow Carcass in the Blue) / Кімiko Касаї + Квартет [[Артист — Косуке Міне|Косуке Міне]]
 ## Текст: Масамічі Окадзакі (Masamichi Okazaki)
 

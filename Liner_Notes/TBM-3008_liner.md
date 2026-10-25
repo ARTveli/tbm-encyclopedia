@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-3008
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-3008"><img src="../covers/thumbs/TBM-3008.webp" alt="Mr. Wonderful"></a><div><span>TBM-3008</span><b>Mr. Wonderful</b><small>Аяко Хосокава, 1977</small><a href="../Альбоми/TBM-3008">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # «Пісня — це відображення людини» 
 ## Текст: Йошіфуру Такеїчі (Yoshifuru Takeichi)
 

@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-60
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-60"><img src="../covers/thumbs/TBM-60.webp" alt="Solo Piano"></a><div><span>TBM-60</span><b>Solo Piano</b><small>Масару Імада, 1976</small><a href="../Альбоми/TBM-60">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # [[Артист — Масару Імада|Масару Імада]] — Соло на піаніно (Imada Masaru Solo Piano)
 
 ## < СТОРОНА А >

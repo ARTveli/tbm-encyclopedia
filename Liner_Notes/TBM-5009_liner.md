@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-5009
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-5009"><img src="../covers/thumbs/TBM-5009.webp" alt="Midnight Sun"></a><div><span>TBM-5009</span><b>Midnight Sun</b><small>Тріо Цуйоші Ямамото, 1978</small><a href="../Альбоми/TBM-5009">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Midnight Sun
 ## Тріо [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]] (Tsuyoshi Yamamoto Trio)
 

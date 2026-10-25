@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-31
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-31"><img src="../covers/thumbs/TBM-31.webp" alt="Who Cares"></a><div><span>TBM-31</span><b>Who Cares</b><small>Квартет Такаші Мізухаші, 1974</small><a href="../Альбоми/TBM-31">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Огляд
 ## Текст: Теруо Ісоно (Teruo Isono)
 

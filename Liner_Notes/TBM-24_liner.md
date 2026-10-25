@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-24
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-24"><img src="../covers/thumbs/TBM-24.webp" alt="Blue City"></a><div><span>TBM-24</span><b>Blue City</b><small>Квартет Ісао Судзукі + 1, 1974</small><a href="../Альбоми/TBM-24">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Про другу роботу [[Артист — Ісао Судзукі|Ісао Судзукі]]
 ## Текст: Теруо Ісоно (Teruo Isono)
 

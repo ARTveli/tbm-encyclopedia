@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-26
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-26"><img src="../covers/thumbs/TBM-26.webp" alt="Bojo"></a><div><span>TBM-26</span><b>Bojo</b><small>Тріо Куніхіко Сугано + 1, 1974</small><a href="../Альбоми/TBM-26">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # [[Артист — Куніхіко Сугано|Куніхіко Сугано]] — Виступ на фестивалі «5 Days in Jazz»
 ## Текст: Теруо Ісоно (Teruo Isono)
 

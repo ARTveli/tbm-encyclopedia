@@ -14,6 +14,10 @@ tags:
   - by/Йошіо_Гьоди_(Yoshio_Gyoda)
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-59"><img src="../covers/thumbs/TBM-59.webp" alt="Girl Talk"></a><div><span>TBM-59</span><b>Girl Talk</b><small>Яма та Джіроуз Вейв, 1975</small><a href="../Альбоми/TBM-59">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Огляд Йошіо Гьоди (Yoshio Gyoda)
 
 [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]] випустив черговий альбом, у якому він виступає лідером. Це вже шоста його платівка. Для довідки, випущені на сьогодні альбоми розподіляються так:

@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-5001
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-5001"><img src="../covers/thumbs/TBM-5001.webp" alt="Blues Blues Blues"></a><div><span>TBM-5001</span><b>Blues Blues Blues</b><small>Квартет Сунао Вади, 1977</small><a href="../Альбоми/TBM-5001">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Blues Blues Blues (Блюз Блюз Блюз)
 
 ## Список композицій

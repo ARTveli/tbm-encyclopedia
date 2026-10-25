@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-18
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-18"><img src="../covers/thumbs/TBM-18.webp" alt="Unicorn"></a><div><span>TBM-18</span><b>Unicorn</b><small>Група Теруо Накамури, 1973</small><a href="../Альбоми/TBM-18">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Альбом, що напряму передає подих нового джазу в Нью-Йорку
 ## Текст: Йозо Іванамі (Yozo Iwanami)
 

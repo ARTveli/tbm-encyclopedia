@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-1001
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-1001"><img src="../covers/thumbs/TBM-1001.webp" alt="Jazz Orchestra &#x27;73"></a><div><span>TBM-1001</span><b>Jazz Orchestra &#x27;73</b><small>Шуко Мідзуно, 1973</small><a href="../Альбоми/TBM-1001">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # [[TBM-1001]]
 ## Шуко Мізуно (Shuko Mizuno)
 ## 『Jazz Orchestra '73』 (Джазовий оркестр '73)

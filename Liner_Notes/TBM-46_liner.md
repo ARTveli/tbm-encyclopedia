@@ -14,6 +14,10 @@ tags:
   - by/Такесі_Фудзії_(Takeshi_Fujii)
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-46"><img src="../covers/thumbs/TBM-46.webp" alt="TOKI"></a><div><span>TBM-46</span><b>TOKI</b><small>Квартет Хідефумі Токі, 1975</small><a href="../Альбоми/TBM-46">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Огляд Такесі Фудзії (Takeshi Fujii)
 
 ## 1. [[Артист — Хідефумі Токі|Хідефумі Токі]] — знаменосець повоєнного покоління

@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-76
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-76"><img src="../covers/thumbs/TBM-76.webp" alt="Ako&#x27;s Dream"></a><div><span>TBM-76</span><b>Ako&#x27;s Dream</b><small>Секстет Ісао Судзукі, 1976</small><a href="../Альбоми/TBM-76">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Сон Ако (Ako’s Dream) 《Огляд》
 ## Текст: Осаму Учіда (Osamu Uchida)
 

@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-5003
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-5003"><img src="../covers/thumbs/TBM-5003.webp" alt="Alone Together"></a><div><span>TBM-5003</span><b>Alone Together</b><small>Масару Імада та Джордж Мраз, 1977</small><a href="../Альбоми/TBM-5003">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Про цей альбом та музику Масару Імади
 
 ## Про цей альбом

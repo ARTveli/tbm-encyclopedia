@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-63
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-63"><img src="../covers/thumbs/TBM-63.webp" alt="Black Orpheus"></a><div><span>TBM-63</span><b>Black Orpheus</b><small>Тріо Ісао Судзукі, 1976</small><a href="../Альбоми/TBM-63">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # 〈Огляд〉
 ## Текст: Теруо Ісоно (Teruo Isono)
 

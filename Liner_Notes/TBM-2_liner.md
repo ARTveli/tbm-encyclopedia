@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-2
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-2"><img src="../covers/thumbs/TBM-2.webp" alt="Now!!"></a><div><span>TBM-2</span><b>Now!!</b><small>Квартет Масару Імади, 1970</small><a href="../Альбоми/TBM-2">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Тепер!! (Now!!) 《Огляд》
 ## Текст: Шьоїчі Юї (Shoichi Yui)
 ### Людина на ім'я [[Артист — Масару Імада|Масару Імада]]

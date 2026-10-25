@@ -11,6 +11,10 @@ tags:
   - catalog/TBM-70
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-70"><img src="../covers/thumbs/TBM-70.webp" alt="The World of Shuko Mizuno"></a><div><span>TBM-70</span><b>The World of Shuko Mizuno</b><small>Шуко Мідзуно &amp; Тосіюкі Міяма та New Herd, 1976</small><a href="../Альбоми/TBM-70">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # THE WORLD OF SHUKO MIZUNO (Світ Шуко Мізуно)
 
 [[TBM-70]]

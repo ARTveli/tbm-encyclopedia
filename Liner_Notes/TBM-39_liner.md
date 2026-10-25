@@ -14,6 +14,10 @@ tags:
 year: 1975
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-39"><img src="../covers/thumbs/TBM-39.webp" alt="Green Caterpillar"></a><div><span>TBM-39</span><b>Green Caterpillar</b><small>Тріо Масару Імади + 2, 1975</small><a href="../Альбоми/TBM-39">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Рецензія Такесі Фудзії
 
 ## I. Стан джазу в Японії в 1970-х роках і [[Артист — Масару Імада|Масару Імада]]

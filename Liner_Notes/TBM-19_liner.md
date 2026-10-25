@@ -12,6 +12,10 @@ tags:
   - catalog/TBM-19
 ---
 
+<!-- tbm-liner-cover:start -->
+<div class="tbm-lnc"><a href="../Альбоми/TBM-19"><img src="../covers/thumbs/TBM-19.webp" alt="Morning Flight"></a><div><span>TBM-19</span><b>Morning Flight</b><small>Квінтет Хіроші Фукумури, 1973</small><a href="../Альбоми/TBM-19">Сторінка альбому →</a></div></div>
+<!-- tbm-liner-cover:end -->
+
 # Слухаючи «Hiroshi Fukumura Quintet»
 ## Текст: Теруо Ісоно (Teruo Isono)
 
