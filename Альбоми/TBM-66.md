@@ -13,7 +13,7 @@ personnel:
 - Джордж Кавагучі
 - Хідехіко Мацумото
 - Хідео Ічікава
-- Такаші Мідзухаші
+- Такаші Мізухаші
 reissues:
 - PAP-20019
 - TBM-XR-0066
@@ -49,7 +49,7 @@ cover: covers/TBM-66.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Кавагучі">Джордж Кавагучі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джордж-Кавагучі">Джордж Кавагучі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Такаші-Мізухаші">Такаші Мізухаші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хідехіко-Мацумото">Хідехіко Мацумото</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="флейта">fl</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -58,7 +58,7 @@ cover: covers/TBM-66.jpg
 - [[Артист — Джордж Кавагучі|Джордж Кавагучі]]
 - [[Артист — Хідехіко Мацумото|Хідехіко Мацумото]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
-- [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
+- [[Артист — Такаші Мізухаші|Такаші Мізухаші]]
 
 ## Запис
 12 та 19 квітня 1976 року Токіо, «Epicurus Studios, Shibuya»

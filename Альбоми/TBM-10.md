@@ -12,8 +12,8 @@ art_director: Цутому Нішідзава
 awards: 1972 рік «Jazz Disc Award, премія Japanese Jazz, 3-тє місце»
 personnel:
 - Масаюкі Такаянагі
-- Кендзі Морі
-- Хіроші Ямазакі
+- Кенджі Морі
+- Хіроші Ямадзакі
 - Джо Мізукі
 reissues:
 - PAP-20038
@@ -47,15 +47,15 @@ cover: covers/TBM-10.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Хіроші Ямазакі</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джо-Мізукі">Джо Мізукі</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Кендзі Морі</span> <abbr class="tbm-i" tabindex="0" data-t="кларнет">cl</abbr> <abbr class="tbm-i" tabindex="0" data-t="пікколо">pic</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr> <abbr class="tbm-i" tabindex="0" data-t="блокфлейта">recorder</abbr> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr> <abbr class="tbm-i" tabindex="0" data-t="флейта">fl</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Ямадзакі">Хіроші Ямадзакі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Джо-Мізукі">Джо Мізукі</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr class="tbm-i" tabindex="0" data-t="кларнет">cl</abbr> <abbr class="tbm-i" tabindex="0" data-t="пікколо">pic</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr> <abbr class="tbm-i" tabindex="0" data-t="блокфлейта">recorder</abbr> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr> <abbr class="tbm-i" tabindex="0" data-t="флейта">fl</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
 - [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]]
-- [[Артист — Кендзі Морі|Кендзі Морі]]
-- [[Артист — Хіроші Ямазакі|Хіроші Ямазакі]]
+- [[Артист — Кенджі Морі|Кенджі Морі]]
+- [[Артист — Хіроші Ямадзакі|Хіроші Ямадзакі]]
 - [[Артист — Джо Мізукі|Джо Мізукі]]
 
 ## Запис
@@ -75,7 +75,7 @@ cover: covers/TBM-10.jpg
 
 ## Рецензія
 
-Лейбл TBM брав активну участь у записах [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]], що залишило значний слід в історії японського джазу. Цей альбом є їхньою першою роботою. Група «New Direction for the Arts» була створена у червні попереднього (1971) року. Тоді до дуету Такаянагі та Хіроші Ямазакі (ds) приєднався Кендзі Морі (sax). Колектив проводив численні серйозні репетиції та розпочав активну діяльність.
+Лейбл TBM брав активну участь у записах [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]], що залишило значний слід в історії японського джазу. Цей альбом є їхньою першою роботою. Група «New Direction for the Arts» була створена у червні попереднього (1971) року. Тоді до дуету Такаянагі та Хіроші Ямадзакі (ds) приєднався Кенджі Морі (sax). Колектив проводив численні серйозні репетиції та розпочав активну діяльність.
 
 Однак майже ніхто не хотів організовувати виступи для такої авангардної групи. Того року вони зіграли лише на кількох концертах: «Японський фестиваль ілюзій» у серпні в Санрідзука (префектура Чіба), у клубі «Taro» на Сіндзюку в жовтні та на «Un-Jazz Concert» у грудні. З початком нового року, у лютому до них приєднався перкусіоніст [[Артист — Джо Мізукі|Джо Мізукі]], завершивши формування складу, спрямованого на виконання перкусійної музики, до якої прагнув Такаянагі.
 

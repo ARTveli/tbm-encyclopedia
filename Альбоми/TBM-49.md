@@ -12,8 +12,8 @@ art_director: Цутому Нішідзава
 personnel:
 - Сунао Вада
 - Мінору Ікено
-- Шідзуо Накаяма
-- Кадзуаки Ямамото
+- Шізуо Накаяма
+- Казуакі Ямамото
 - Коджі Ямада
 - Хітомі Уеда
 - Ушіо Сакаї
@@ -48,7 +48,7 @@ cover: covers/TBM-49.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Коджі-Ямада">Коджі Ямада</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Такуджі Кусумото</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Кадзуаки Ямамото</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Шідзуо Накаяма</span> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Ушіо-Сакаї">Ушіо Сакаї</a> <abbr class="tbm-i" tabindex="0" data-t="орган">org</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масахіро-Ікумі">Масахіро Ікумі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Коджі-Ямада">Коджі Ямада</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Такуджі Кусумото</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Казуакі-Ямамото">Казуакі Ямамото</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Шізуо-Накаяма">Шізуо Накаяма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Ушіо-Сакаї">Ушіо Сакаї</a> <abbr class="tbm-i" tabindex="0" data-t="орган">org</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масахіро-Ікумі">Масахіро Ікумі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мінору-Ікено">Мінору Ікено</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Хітомі-Уеда">Хітомі Уеда</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -56,8 +56,8 @@ cover: covers/TBM-49.jpg
 
 - [[Артист — Сунао Вада|Сунао Вада]]
 - [[Артист — Мінору Ікено|Мінору Ікено]]
-- [[Артист — Шідзуо Накаяма|Шідзуо Накаяма]]
-- [[Артист — Кадзуаки Ямамото|Кадзуаки Ямамото]]
+- [[Артист — Шізуо Накаяма|Шізуо Накаяма]]
+- [[Артист — Казуакі Ямамото|Казуакі Ямамото]]
 - [[Артист — Коджі Ямада|Коджі Ямада]]
 - [[Артист — Хітомі Уеда|Хітомі Уеда]]
 - [[Артист — Ушіо Сакаї|Ушіо Сакаї]]

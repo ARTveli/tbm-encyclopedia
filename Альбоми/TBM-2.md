@@ -12,7 +12,7 @@ awards: 1970 рік Журнал «Stereo Sound» — «Гран-прі за з�
 personnel:
 - Масару Імада
 - Ічіро Міморі
-- Такаші Мідзухаші
+- Такаші Мізухаші
 - Масахіко Оцу
 reissues:
 - TBM-42
@@ -49,7 +49,7 @@ cover: covers/TBM-2.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масахіко-Оцу">Масахіко Оцу</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масахіко-Оцу">Масахіко Оцу</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Такаші-Мізухаші">Такаші Мізухаші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ічіро-Міморі">Ічіро Міморі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -57,7 +57,7 @@ cover: covers/TBM-2.jpg
 
 - [[Артист — Масару Імада|Масару Імада]]
 - [[Артист — Ічіро Міморі|Ічіро Міморі]]
-- [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
+- [[Артист — Такаші Мізухаші|Такаші Мізухаші]]
 - [[Артист — Масахіко Оцу|Масахіко Оцу]]
 
 ## Запис

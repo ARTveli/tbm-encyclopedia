@@ -27,7 +27,7 @@ cover: covers/TBM-XR-9002.jpg
 3. I'm a Fool to Want You (Я дурень, що хочу тебе) 〜 з альбому Тріо Цуйоші Ямамото «Midnight Sugar» (TBM-23)
 4. Bolivia (Болівія) 〜 з альбому Тошіхіро Акамацу «Still on the Air» (TBM-XR-5046)
 5. Natural Flow (Природний потік) 〜 з альбому Бінго Мікі та Inner Galaxy Orchestra «Umi no Izanai» (TBM-5010)
-6. Kareha / Autumn Leaves (Осіннє листя) 〜 з альбому Дуету Саданорі Накамуре «Conversation» (TBM-43)
+6. Kareha / Autumn Leaves (Осіннє листя) 〜 з альбому Дуету Саданорі Накамура «Conversation» (TBM-43)
 7. Honeysuckle Rose (Жимолостева троянда) 〜 з альбому Тріо Цуйоші Ямамото «Misty» (TBM-30)
 8. I'm Glad There Is You (Я рада, що ти є) 〜 з альбому Марти Міяке та Тріо Реда Мітчелла «Remember» (PAP-25036)
 9. Last Student (Останній студент) 〜 з альбому Тошіхіро Акамацу «Six Intentions» (TBM-XR-5043)

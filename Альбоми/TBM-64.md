@@ -1,7 +1,7 @@
 ---
 type: album
 catalog: TBM-64
-artist: Тошіо Оїда
+artist: Тошіо Оіда
 artist_en: Toshio Oida
 title: It Was a Very Good Year
 title_ua: Це був дуже хороший рік
@@ -10,10 +10,10 @@ label: Three Blind Mice Records
 sound_engineer: Йосіхіко Каннарі (Epicurus)
 art_director: Цутому Нішідзава
 personnel:
-- Тошіо Оїда
+- Тошіо Оіда
 - Акійоші Ігараші
 - Шьоджі Йокоучі
-- Ікуо Шіозакі
+- Ікуо Шіосакі
 - Куніміцу Інаба
 - Хіроші Сунага
 - Акіра Тада
@@ -23,21 +23,21 @@ personnel:
 - Акіра Міядзава
 - Коджі Фуджіка
 - Норіо Осава
-- Такаші Мідзухаші
+- Такаші Мізухаші
 reissues:
 - TBM-XR-0064
 tags:
 - album
 - tbm
 - year/1976
-- artist/Тошіо Оїда
+- artist/Тошіо Оіда
 cover: covers/TBM-64.jpg
 ---
 
 ![[covers/TBM-64.jpg|400]]
 
 # TBM-64 — It Was a Very Good Year
-**Тошіо Оїда** (Toshio Oida) · 1976
+**Тошіо Оіда** (Toshio Oida) · 1976
 
 ## Треки
 **Side A:**
@@ -60,16 +60,16 @@ cover: covers/TBM-64.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Сунага">Хіроші Сунага</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Норіо Осава</span> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шьоджі-Йокоучі">Шьоджі Йокоучі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Ікуо Шіозакі</span> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акіра-Міядзава">Акіра Міядзава</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Фуджіка">Коджі Фуджіка</a> <abbr class="tbm-i" tabindex="0" data-t="кларнет">cl</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Акіра Тада</span> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Хіроші Ідзумі</span> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Коносуке-Оно">Коносуке Оно</a> <abbr class="tbm-i" tabindex="0" data-t="альт (віола)">viola</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Йошіо-Хатторі">Йошіо Хатторі</a> <abbr class="tbm-i" tabindex="0" data-t="віолончель">cello</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><span>Тошіо Оїда</span> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хіроші-Сунага">Хіроші Сунага</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Такаші-Мізухаші">Такаші Мізухаші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Норіо Осава</span> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шьоджі-Йокоучі">Шьоджі Йокоучі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Ікуо-Шіосакі">Ікуо Шіосакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акіра-Міядзава">Акіра Міядзава</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Фуджіка">Коджі Фуджіка</a> <abbr class="tbm-i" tabindex="0" data-t="кларнет">cl</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Акіра Тада</span> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><span>Хіроші Ідзумі</span> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Коносуке-Оно">Коносуке Оно</a> <abbr class="tbm-i" tabindex="0" data-t="альт (віола)">viola</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Йошіо-Хатторі">Йошіо Хатторі</a> <abbr class="tbm-i" tabindex="0" data-t="віолончель">cello</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Тошіо-Оіда">Тошіо Оіда</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
-- [[Артист — Тошіо Оїда|Тошіо Оїда]]
+- [[Артист — Тошіо Оіда|Тошіо Оіда]]
 - [[Артист — Акійоші Ігараші|Акійоші Ігараші]]
 - [[Артист — Шьоджі Йокоучі|Шьоджі Йокоучі]]
-- [[Артист — Ікуо Шіозакі|Ікуо Шіозакі]]
+- [[Артист — Ікуо Шіосакі|Ікуо Шіосакі]]
 - [[Артист — Куніміцу Інаба|Куніміцу Інаба]]
 - [[Артист — Хіроші Сунага|Хіроші Сунага]]
 - [[Артист — Акіра Тада|Акіра Тада]]
@@ -79,7 +79,7 @@ cover: covers/TBM-64.jpg
 - [[Артист — Акіра Міядзава|Акіра Міядзава]]
 - [[Артист — Коджі Фуджіка|Коджі Фуджіка]]
 - [[Артист — Норіо Осава|Норіо Осава]]
-- [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
+- [[Артист — Такаші Мізухаші|Такаші Мізухаші]]
 
 ## Запис
 17 і 18 березня 1976 року Токіо, «Epicurus Studios, Shibuya»
@@ -96,7 +96,7 @@ cover: covers/TBM-64.jpg
 
 ## Рецензія
 
-Залишимо осторонь сучасне покоління, але на момент виходу цього альбому багато людей, навіть не будучи прихильниками джазу, знали, хто такий Тошіо Оїда. Точніше буде сказати, що він був улюбленцем публіки, постійно з'являючись на телебаченні та в кіно, маючи статус справжньої телезірки. Проте, незважаючи на свою популярність, у своїй основній професії він стикався з труднощами. Незважаючи на активну діяльність ще з епохи платівок на 78 обертів (SP), у нього не було жодного повноцінного сольного альбому у форматі LP. Саме лейбл TBM вирішив виправити цю ситуацію та записати його перший сольний альбом.
+Залишимо осторонь сучасне покоління, але на момент виходу цього альбому багато людей, навіть не будучи прихильниками джазу, знали, хто такий Тошіо Оіда. Точніше буде сказати, що він був улюбленцем публіки, постійно з'являючись на телебаченні та в кіно, маючи статус справжньої телезірки. Проте, незважаючи на свою популярність, у своїй основній професії він стикався з труднощами. Незважаючи на активну діяльність ще з епохи платівок на 78 обертів (SP), у нього не було жодного повноцінного сольного альбому у форматі LP. Саме лейбл TBM вирішив виправити цю ситуацію та записати його перший сольний альбом.
 
 На той момент Оїда мав за плечима майже 30-річну кар'єру. У 1950 році він посів перше місце в дебютному "Голосуванні читачів" журналу "Swing Journal" у категорії "Вокал". Він був надзвичайно популярним і впізнаваним чоловічим джазовим вокалістом. І все ж таки, йому не щастило із записом сольних альбомів. Чому так сталося — залишається загадкою.
 

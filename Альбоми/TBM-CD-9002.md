@@ -29,7 +29,7 @@ cover: covers/TBM-CD-9002.jpg
 4. Jazz Orchestra '75 Part 2 (Джазовий оркестр '75, частина 2) 〜 з альбому Осаму Мізуно / Jazz Orchestra '75 (TBM-1004)
 5. Moat (Рів) 〜 з альбому Tee & Company «Dragon Garden» (TBM-5006)
 6. Black Orpheus (Чорний Орфей) 〜 з альбому Тріо Ісао Судзукі «Black Orpheus» (TBM-63)
-7. What a Diff'rence a Day Made (Яка різниця в один день) 〜 з альбому Марі Накамото & Ісао Судзукі = Казумі Ватанабе Дует «Mari Nakamoto III» (TBM-56)
+7. What a Diff'rence a Day Made (Яка різниця в один день) 〜 з альбому Марі Накамото & Ісао Судзукі = Кадзумі Ватанабе Дует «Mari Nakamoto III» (TBM-56)
 8. Rio Roma (Ріо Рома) 〜 з альбому Квартету Мотохіко Хіно + 1 «Ryuhyo» (TBM-61) (Бонус-трек)
 9. I Can't Get Started (Я не можу почати) 〜 з альбому Тріо Цуйоші Ямамото «The In Crowd» (TBM-52)
 10. Stella by Starlight (Стелла у світлі зірок) 〜 з альбому Квінтету Терумаси Хіно «Live!» (TBM-17)

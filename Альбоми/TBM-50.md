@@ -14,7 +14,7 @@ personnel:
 - Хідео Ічікава
 - Куніміцу Інаба
 - Казуйоші Окаяма
-- Кенджі Накадзава
+- Кенджі Наказава
 - Ейджі Араї
 - Ічіро Міморі
 - Масао Судзукі
@@ -55,7 +55,7 @@ cover: covers/TBM-50.jpg
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
 <div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Казуйоші-Окаяма">Казуйоші Окаяма</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Осаму-Накаджіма">Осаму Накаджіма</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Куніміцу-Інаба">Куніміцу Інаба</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="орган">org</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><span>Кен Яджіма</span> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ічіро-Міморі">Ічіро Міморі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="флейта">fl</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Масао-Судзукі">Масао Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Кенджі Накадзава</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Ейджі-Араї">Ейджі Араї</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Санае-Мідзушіма">Санае Мідзушіма</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ічіро-Міморі">Ічіро Міморі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="флейта">fl</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Масао-Судзукі">Масао Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кенджі-Наказава">Кенджі Наказава</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Ейджі-Араї">Ейджі Араї</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Санае-Мідзушіма">Санае Мідзушіма</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
@@ -64,7 +64,7 @@ cover: covers/TBM-50.jpg
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Куніміцу Інаба|Куніміцу Інаба]]
 - [[Артист — Казуйоші Окаяма|Казуйоші Окаяма]]
-- [[Артист — Кенджі Накадзава|Кенджі Накадзава]]
+- [[Артист — Кенджі Наказава|Кенджі Наказава]]
 - [[Артист — Ейджі Араї|Ейджі Араї]]
 - [[Артист — Ічіро Міморі|Ічіро Міморі]]
 - [[Артист — Масао Судзукі|Масао Судзукі]]

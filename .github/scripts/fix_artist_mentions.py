@@ -109,7 +109,7 @@ def main():
         print("\n[DRY-RUN] Нічого не записано.")
         return
     if changed:
-        bdir = vault.parent / "backups" / f"Артисти-{datetime.now():%Y%m%d-%H%M%S}"
+        bdir = vault.resolve().parent / "backups" / f"Артисти-mentions-{datetime.now():%Y%m%d-%H%M%S}"
         shutil.copytree(artists_dir, bdir)
         for f, new in changed:
             f.write_text(new, encoding="utf-8")

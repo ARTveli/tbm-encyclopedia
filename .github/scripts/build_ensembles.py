@@ -102,7 +102,7 @@ def main():
             print(f"\n[DRY-RUN] {f.name}:\n" + new[i:new.find(END) + len(END)])
         return
     if changed:
-        bdir = v.parent / "backups" / f"Альбоми-{datetime.now():%Y%m%d-%H%M%S}"
+        bdir = v.resolve().parent / "backups" / f"Альбоми-{datetime.now():%Y%m%d-%H%M%S}"
         shutil.copytree(v / "Альбоми", bdir)
         for f, new in changed:
             f.write_text(new, encoding="utf-8")

@@ -1,7 +1,7 @@
 ---
 type: album
 catalog: TBM-16
-artist: Сігеко Тоя та Джаз Френдс
+artist: Шігеко Тоя та Джаз Френдс
 artist_en: Shigeko Toya & Jazz Friends
 title: Fine and Mellow
 title_ua: Файн енд меллоу
@@ -10,9 +10,9 @@ label: Three Blind Mice Records
 sound_engineer: Йосіхіко Каннарі (Aoi)
 art_director: Цутому Нішідзава
 personnel:
-- Сігеко Тоя
+- Шігеко Тоя
 - Масару Імада
-- Такаші Мідзухаші
+- Такаші Мізухаші
 - Тецуджіро Обара
 - Масаюкі Такаянагі
 - Акійоші Ігараші
@@ -23,14 +23,14 @@ tags:
 - album
 - tbm
 - year/1973
-- artist/Сігеко Тоя та Джаз Френдс
+- artist/Шігеко Тоя та Джаз Френдс
 cover: covers/TBM-16.jpg
 ---
 c
 ![[covers/TBM-16.jpg|400]]
 
 # TBM-16 — Fine and Mellow
-**Сігеко Тоя та Джаз Френдс** (Shigeko Toya & Jazz Friends) · 1973
+**Шігеко Тоя та Джаз Френдс** (Shigeko Toya & Jazz Friends) · 1973
 
 ## Треки
 **Side A:**
@@ -50,15 +50,15 @@ c
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><span>Сігеко Тоя</span> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Такаші-Мізухаші">Такаші Мізухаші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Масаюкі-Такаянагі">Масаюкі Такаянагі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Акійоші-Ігараші">Акійоші Ігараші</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Шігеко-Тоя">Шігеко Тоя</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
-- [[Артист — Сігеко Тоя|Сігеко Тоя]]
+- [[Артист — Шігеко Тоя|Шігеко Тоя]]
 - [[Артист — Масару Імада|Масару Імада]]
-- [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
+- [[Артист — Такаші Мізухаші|Такаші Мізухаші]]
 - [[Артист — Тецуджіро Обара|Тецуджіро Обара]]
 - [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]]
 - [[Артист — Акійоші Ігараші|Акійоші Ігараші]]
@@ -79,7 +79,7 @@ c
 
 ## Рецензія
 
-Другий альбом, записаний під ім'ям Сігеко Тоя. Після нього вона записала альбом «Masaru Imada Trio + Shigeko Toya / Yokohama Concert» ([[TBM-22]]) вже наступного місяця, концертний запис «Shigeko & Mari» ([[TBM-71]]) під час «5 Days in Jazz» у 1976 році, а також «She Cries» на лейблі Jupiter у 1978 році, після чого завершила свою музичну кар'єру у зв'язку з одруженням.
+Другий альбом, записаний під ім'ям Шігеко Тоя. Після нього вона записала альбом «Masaru Imada Trio + Shigeko Toya / Yokohama Concert» ([[TBM-22]]) вже наступного місяця, концертний запис «Shigeko & Mari» ([[TBM-71]]) під час «5 Days in Jazz» у 1976 році, а також «She Cries» на лейблі Jupiter у 1978 році, після чого завершила свою музичну кар'єру у зв'язку з одруженням.
 
 Як і зазначено в назві альбому, в центрі уваги цієї роботи — тріо Масару Імади (p), з яким Тоя співпрацювала на попередньому альбомі та продовжувала працювати згодом. Залежно від композиції, до них приєднуються [[Артист — Масаюкі Такаянагі|Масаюкі Такаянагі]] (g) та [[Артист — Акійоші Ігараші|Акійоші Ігараші]] (as).
 

@@ -1,7 +1,7 @@
 ---
 type: album
 catalog: TBM-28
-artist: Квартет Такаші Мідзухаші + 2
+artist: Квартет Такаші Мізухаші + 2
 artist_en: Takashi Mizuhashi Quartet + 2
 title: When a Man Loves a Woman
 title_ua: Коли чоловік кохає жінку
@@ -10,13 +10,13 @@ label: Three Blind Mice Records
 sound_engineer: Йосіхіко Каннарі (Aoi)
 art_director: Цутому Нішідзава
 personnel:
-- Такаші Мідзухаші
+- Такаші Мізухаші
 - Йошіо Отомо
 - Фуміо Карашіма
 - Хідео Секіне
 - Гості
 - Шігехару Мукаї
-- Сейічі Накамура
+- Сеїчі Накамура
 reissues:
 - TBM-2528
 - TBM-CD-2528
@@ -26,14 +26,14 @@ tags:
 - album
 - tbm
 - year/1974
-- artist/Квартет Такаші Мідзухаші + 2
+- artist/Квартет Такаші Мізухаші + 2
 cover: covers/TBM-28.jpg
 ---
 
 ![[covers/TBM-28.jpg|400]]
 
 # TBM-28 — When a Man Loves a Woman
-**Квартет Такаші Мідзухаші + 2** (Takashi Mizuhashi Quartet + 2) · 1974
+**Квартет Такаші Мізухаші + 2** (Takashi Mizuhashi Quartet + 2) · 1974
 
 ## Треки
 **Side A:**
@@ -49,19 +49,19 @@ cover: covers/TBM-28.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хідео-Секіне">Хідео Секіне</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Такаші Мідзухаші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Карашіма">Фуміо Карашіма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіо-Отомо">Йошіо Отомо</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><span>Сейічі Накамура</span> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігехару-Мукаї">Шігехару Мукаї</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Хідео-Секіне">Хідео Секіне</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Такаші-Мізухаші">Такаші Мізухаші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Фуміо-Карашіма">Фуміо Карашіма</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Йошіо-Отомо">Йошіо Отомо</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сеїчі-Накамура">Сеїчі Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігехару-Мукаї">Шігехару Мукаї</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
-- [[Артист — Такаші Мідзухаші|Такаші Мідзухаші]]
+- [[Артист — Такаші Мізухаші|Такаші Мізухаші]]
 - [[Артист — Йошіо Отомо|Йошіо Отомо]]
 - [[Артист — Фуміо Карашіма|Фуміо Карашіма]]
 - [[Артист — Хідео Секіне|Хідео Секіне]]
 - [[Артист — Гості|Гості]]
 - [[Артист — Шігехару Мукаї|Шігехару Мукаї]]
-- [[Артист — Сейічі Накамура|Сейічі Накамура]]
+- [[Артист — Сеїчі Накамура|Сеїчі Накамура]]
 
 ## Запис
 23 та 26 (A①) березня 1974 року Живий запис у Токіо, «Nippon Toshi Center Hall» під час фестивалю «5 Days in Jazz '74»
@@ -81,7 +81,7 @@ cover: covers/TBM-28.jpg
 
 ## Рецензія
 
-Соул-виконання заголовного треку підкорило серця джазових фанатів у цьому дебютному та проривному альбомі Такаші Мідзухаші. Внесок [[Артист — Йошіо Отомо|Йошіо Отомо]] (as) та Фуміо Карашіми (p), які виконують головну мелодію, є надзвичайно вагомим, але без міцного, як скеля, баса Мідзухаші на задньому плані це виконання ніколи б не досягло таких висот.
+Соул-виконання заголовного треку підкорило серця джазових фанатів у цьому дебютному та проривному альбомі Такаші Мізухаші. Внесок [[Артист — Йошіо Отомо|Йошіо Отомо]] (as) та Фуміо Карашіми (p), які виконують головну мелодію, є надзвичайно вагомим, але без міцного, як скеля, баса Мідзухаші на задньому плані це виконання ніколи б не досягло таких висот.
 
 Мідзухаші, не кажучи вже про його зовнішній вигляд, має стиль гри, що перегукується з "чорним" соулом, тому він отримує багато запрошень до співпраці від музикантів як у Японії, так і за кордоном. Особливо великий попит на нього був у 1970-х роках. Зараз навіть приємно згадувати, що саме цей альбом став каталізатором такого його активного успіху.
 
