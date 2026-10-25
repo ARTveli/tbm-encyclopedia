@@ -51,7 +51,7 @@ cover: covers/TBM-26.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Міцухіко Такада</span> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Йоїчі Огава</span> <abbr title="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Йоїчі Кімура</span> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Куніхіко-Сугано">Куніхіко Сугано</a> <abbr title="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Міцухіко Такада</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Йоїчі Огава</span> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Йоїчі Кімура</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Куніхіко-Сугано">Куніхіко Сугано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->

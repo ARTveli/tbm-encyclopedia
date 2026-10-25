@@ -74,8 +74,9 @@ select{font:inherit;font-size:14px;padding:7px 10px;border-radius:999px;border:1
 .scrim.open{opacity:1;pointer-events:auto}
 .drawer{position:fixed;top:0;right:0;height:100%;width:min(520px,100%);background:var(--panel);z-index:50;overflow-y:auto;transform:translateX(100%);transition:transform .25s;box-shadow:var(--shadow)}
 .drawer.open{transform:none}
-.dhead{display:flex;gap:16px;padding:20px;border-bottom:1px solid var(--line)}
-.dhead .sleeve{width:140px;flex:none}
+.dhead{display:flex;align-items:flex-start;gap:16px;padding:20px;border-bottom:1px solid var(--line)}
+.dhead .sleeve{width:140px;height:140px;flex:none;align-self:flex-start}
+.dhead .sleeve img{width:100%;height:100%;object-fit:cover}
 .dhead h2{margin:4px 0 6px;font-size:22px;line-height:1.15}
 .dhead p{margin:0;color:var(--muted)}
 .close{position:sticky;top:0;float:right;margin:10px;border:0;background:var(--chip);color:var(--ink);width:34px;height:34px;border-radius:50%;font-size:18px;cursor:pointer;z-index:2}
@@ -110,7 +111,7 @@ canvas{display:block;width:100%;height:100%;cursor:grab}
   .gwrap{grid-template-columns:1fr;height:auto}
   .gcanvas{height:62vh}
   .grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:14px}
-  .dhead .sleeve{width:100px}
+  .dhead .sleeve{width:100px;height:100px}
 }
 /* ── timeline ── */
 .hist{position:sticky;top:69px;z-index:10;background:var(--bg);padding:10px 0 6px;margin-bottom:8px;border-bottom:1px solid var(--line);
@@ -387,7 +388,7 @@ function renderShelf(){
 /* ── картка альбому ── */
 function openAlbum(id){
   const a = ALB.get(id); if(!a) return;
-  const liner = a.liner.map(l=>`<a class="btn ghost" href="${pageUrl(l.url)}">📝 Liner notes · ${esc(l.author)}</a>`).join("");
+  const liner = a.liner.map(l=>`<a class="btn ghost" href="${pageUrl(l.url)}">📝 Liner notes${l.author?" · "+esc(l.author):""}</a>`).join("");
   $("#drawer").innerHTML = `
     <button class="close" aria-label="Закрити">×</button>
     <div class="dhead">${sleeve(a)}<div>
@@ -397,9 +398,9 @@ function openAlbum(id){
     <div class="dbody">
       <div class="links"><a class="btn" href="${pageUrl(a.url)}">Повна сторінка →</a>${liner}</div>
       ${a.personnel.length?`<h3>Склад</h3><div class="people">${lineupOf(a).map(([p,ins])=>`<button data-p="${esc(p)}"><i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:${gColor(groupOf(p))}"></i>${esc(p)}${ins.length?` ${instrHtml(ins.join(", "))}`:""}</button>`).join("")}</div>`:""}
-      <h3>Запис</h3><dl class="facts">
+      ${a.engineer||a.awards?`<h3>Запис</h3><dl class="facts">
         ${a.engineer?`<dt>Звукорежисер</dt><dd>${esc(a.engineer)}</dd>`:""}
-        ${a.awards?`<dt>Нагороди</dt><dd>${esc(a.awards)}</dd>`:""}</dl>
+        ${a.awards?`<dt>Нагороди</dt><dd>${esc(a.awards)}</dd>`:""}</dl>`:""}
       ${a.review?`<h3>Рецензія</h3><div class="review">${a.review.split(/\n\n+/).map(x=>`<p>${esc(x)}</p>`).join("")}</div>`:""}
     </div>`;
   $("#drawer").classList.add("open"); $("#scrim").classList.add("open");

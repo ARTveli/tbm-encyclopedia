@@ -36,7 +36,7 @@ def member(name, ins, pages):
     e = html.escape
     page = pages.get(_norm(name))
     nm = f'<a href="../{e(slugify("Артисти/" + page))}">{e(name)}</a>' if page else f"<span>{e(name)}</span>"
-    ab = " ".join(f'<abbr title="{e(INSTR_UA.get(x, x))}">{e(x)}</abbr>' for x in ins)
+    ab = " ".join(f'<abbr class="tbm-i" tabindex="0" data-t="{e(INSTR_UA.get(x, x))}">{e(x)}</abbr>' for x in ins)
     g = INSTR_GROUP.get(next((x for x in ins if INSTR_GROUP.get(x) != "other"), ins[0]), "other")
     return f'<span class="tbm-ens-m" data-g="{g}"><i></i>{nm} {ab}</span>'
 

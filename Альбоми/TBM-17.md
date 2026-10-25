@@ -53,8 +53,8 @@ cover: covers/TBM-17.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Мотохіко-Хіно">Мотохіко Хіно</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Юджі-Імамура">Юджі Імамура</a> <abbr title="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Йошіо-Ікеда">Йошіо Ікеда</a> <abbr title="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Мікіо-Масуда">Мікіо Масуда</a> <abbr title="фортепіано">p</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терумаса-Хіно">Терумаса Хіно</a> <abbr title="труба">tp</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Мотохіко-Хіно">Мотохіко Хіно</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Юджі-Імамура">Юджі Імамура</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Йошіо-Ікеда">Йошіо Ікеда</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Мікіо-Масуда">Мікіо Масуда</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терумаса-Хіно">Терумаса Хіно</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->

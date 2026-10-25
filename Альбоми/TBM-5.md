@@ -54,8 +54,8 @@ cover: covers/TBM-5.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ральф-Хюбнер">Ральф Хюбнер</a> <abbr title="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Гюнтер-Ленц">Гюнтер Ленц</a> <abbr title="бас (контрабас)">b</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Гайнц Зауер</span> <abbr title="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Альберт-Мангельсдорф">Альберт Мангельсдорф</a> <abbr title="тромбон">tb</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ральф-Хюбнер">Ральф Хюбнер</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Гюнтер-Ленц">Гюнтер Ленц</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><span>Гайнц Зауер</span> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Альберт-Мангельсдорф">Альберт Мангельсдорф</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
