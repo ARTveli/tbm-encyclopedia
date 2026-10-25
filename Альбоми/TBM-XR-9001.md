@@ -4,6 +4,7 @@ catalog: TBM-XR-9001
 artist: V.A.
 artist_en: Різні виконавці
 title: The Famous Sound of Three Blind Mice
+year: 1997
 title_ua: Знамените звучання Three Blind Mice
 label: TBM Video (Випущено в листопаді 1997 року)
 sound_engineer: Йосіхіко Каннарі

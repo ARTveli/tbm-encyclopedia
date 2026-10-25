@@ -42,6 +42,8 @@ def load_sources(vault: Path):
         if not d.is_dir():
             continue
         for f in sorted(d.glob("*.md")):
+            if f.name == "index.md":
+                continue
             fm, body = frontmatter(f.read_text(encoding="utf-8"))
             title = field(fm, "title") or f.stem
             out.append({

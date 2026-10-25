@@ -1,9 +1,9 @@
 ---
+title: Тематичні нариси
+aliases: [Topics]
 type: index
 tags: [index]
 ---
-
-# Тематичні нариси
 
 - [[Topics/TBM Topics 1- Музиканти розповідають про сесії в «Гінпарі» (Ginparis)|TBM Topics 1: Музиканти розповідають про сесії в «Гінпарі» (Ginparis)]]
 - [[Topics/TBM Topics 2- Японська джазова сцена до та після заснування TBM|TBM Topics 2: Японська джазова сцена до та після заснування TBM]]

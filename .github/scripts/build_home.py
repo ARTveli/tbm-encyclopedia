@@ -51,7 +51,7 @@ def collect(vault: Path):
             "artist": d.get("artist") or "", "year": year, "awards": d.get("awards"),
             "cover": cover if cover and (vault / cover).exists() else None,
         })
-    count = lambda folder: len(list((vault / folder).glob("*.md"))) if (vault / folder).exists() else 0
+    count = lambda folder: len([f for f in (vault / folder).glob("*.md") if f.name != "index.md"]) if (vault / folder).exists() else 0
     stats = {
         "albums": len(albums),
         "artists": count("Артисти"),
@@ -71,8 +71,8 @@ def build_block(albums, stats) -> str:
         ("Каталог", "Каталог релізів", "Повний хронологічний список"),
         (f"{SITE}/explore/#time", "Хронологія лейблу", "Інтерактивна шкала 1963–2014"),
         (f"{SITE}/explore/#graph", "Граф музикантів", f'{stats["artists"]} музикантів і їхні зв\'язки'),
-        ("Інтервʼю", "Інтерв'ю", f'{stats["interviews"]} розмови'),
-        ("Topics", "Тематичні нариси", f'{stats["topics"]} нарисів'),
+        ("Інтервʼю/", "Інтерв'ю", f'{stats["interviews"]} розмови'),
+        ("Topics/", "Тематичні нариси", f'{stats["topics"]} нарисів'),
         ("Передмова", "Передмова", "Про книгу та переклад"),
         (f"{SITE}/Liner_Notes/", "Liner Notes", f'{stats["liner"]} текстів з конвертів'),
     ]

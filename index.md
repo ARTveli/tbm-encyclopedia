@@ -7,7 +7,7 @@ tags: [index, home]
 <!-- tbm-home:start -->
 <div class="tbm-hero">
 <div class="tbm-hero-text">
-<p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · 1970–2003</p>
+<p class="tbm-kicker"><img class="tbm-logo" src="static/icon.png" alt="">Three Blind Mice · Tokyo · 1970–2005</p>
 <h1 class="tbm-title">TBM Енциклопедія</h1>
 <p class="tbm-lead">Інтерактивний український переклад книги <em>Three Blind Mice — The Complete Disc Guide</em>: альбоми, музиканти, liner notes та історія токійського джаз-лейблу.</p>
 </div>
@@ -27,8 +27,8 @@ tags: [index, home]
 <a href="Каталог"><span>02</span><b>Каталог релізів</b><small>Повний хронологічний список</small></a>
 <a href="https://artveli.github.io/tbm-encyclopedia/explore/#time" data-router-ignore><span>03</span><b>Хронологія лейблу</b><small>Інтерактивна шкала 1963–2014</small></a>
 <a href="https://artveli.github.io/tbm-encyclopedia/explore/#graph" data-router-ignore><span>04</span><b>Граф музикантів</b><small>414 музикантів і їхні зв&#x27;язки</small></a>
-<a href="Інтервʼю"><span>05</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
-<a href="Topics"><span>06</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
+<a href="Інтервʼю/"><span>05</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
+<a href="Topics/"><span>06</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
 <a href="Передмова"><span>07</span><b>Передмова</b><small>Про книгу та переклад</small></a>
 <a href="https://artveli.github.io/tbm-encyclopedia/Liner_Notes/" data-router-ignore><span>08</span><b>Liner Notes</b><small>39 текстів з конвертів</small></a>
 </div>

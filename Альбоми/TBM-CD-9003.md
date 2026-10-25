@@ -4,6 +4,7 @@ catalog: TBM-CD-9003
 artist: V.A.
 artist_en: Різні виконавці
 title: The Famous Sound of Three Blind Mice Vol. 3
+year: 1989
 title_ua: Знамените звучання Three Blind Mice. Частина 3
 label: TBM Video (Випущено 28 липня 1989 року)
 sound_engineer: Йосіхіко Каннарі

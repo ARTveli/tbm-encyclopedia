@@ -4,6 +4,7 @@ catalog: TBM-CD-9001
 artist: V.A.
 artist_en: Різні виконавці
 title: The Famous Sound of Three Blind Mice Vol. 1
+year: 1988
 title_ua: Знамените звучання Three Blind Mice. Частина 1
 label: TBM Video (Випущено 25 лютого 1988 року)
 sound_engineer: Йосіхіко Каннарі

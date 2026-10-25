@@ -4,6 +4,7 @@ catalog: TBM-XR-9002
 artist: V.A.
 artist_en: Різні виконавці
 title: Super Analog Sound of Three Blind Mice
+year: 2005
 title_ua: Супер-аналогове звучання Three Blind Mice
 label: TBM Records (Випущено 25 лютого 2005 року)
 art_director: Цутому Нішідзава

@@ -716,3 +716,41 @@ article img {
     grid-template-columns: minmax(0, 1fr);
   }
 }
+
+// ── Аудит, ітерація 1 ──
+// на телефоні кнопка «Режим читання» не вміщується в шапку і розпирає сторінку
+@media all and (max-width: 800px) {
+  .readermode {
+    display: none;
+  }
+  .sidebar.left {
+    min-width: 0;
+    max-width: 100%;
+    .flex-component,
+    .flex-component > div,
+    .search,
+    .search > .search-button {
+      min-width: 0;
+      flex-shrink: 1;
+    }
+    .search > .search-button p {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .page-title {
+      flex-shrink: 1;
+      min-width: 0;
+    }
+  }
+}
+
+// сторінки-списки Інтерв'ю і Нариси: свій список уже є, стандартний Quartz зайвий
+body[data-slug="Інтервʼю/index"],
+body[data-slug="Topics/index"] {
+  .page-listing,
+  .content-meta,
+  .tags {
+    display: none;
+  }
+}

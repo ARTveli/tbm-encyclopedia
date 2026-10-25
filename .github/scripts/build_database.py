@@ -188,7 +188,7 @@ def parse_lineups(book: Path):
     parts = re.split(r"^# \[\[([^\]]+)\]\]\s*$", text, flags=re.M)
     res = {}
     for i in range(1, len(parts) - 1, 2):
-        cat, sec = parts[i].strip(), parts[i + 1]
+        cat, sec = parts[i].split("|")[0].strip(), parts[i + 1]
         m = re.search(r"○ Склад[^\n]*\n(.*?)(?=\n\s*(?:Записано|Запис |Живий запис|\*\*[^○])|\Z)", sec, re.S)
         if m:
             res[_catkey(cat)] = _lineup_block("\n".join(m.group(1).split("\n")[:30]))
