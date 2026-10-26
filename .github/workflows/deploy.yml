@@ -54,8 +54,11 @@ jobs:
 
       - name: Clone Quartz
         run: |
+          # Зафіксована перевірена версія Quartz (оновлювати свідомо: git ls-remote … refs/heads/v4)
+          QUARTZ_SHA=d25a6eabf96751ffca56f8a8139272def7a65041
           git clone -b v4 https://github.com/jackyzha0/quartz.git
           cd quartz
+          git checkout --quiet "$QUARTZ_SHA"
           rm -rf .github content
           npm ci
           # «~» між словами не має закреслювати текст (TBM-1~78): лише «~~текст~~»

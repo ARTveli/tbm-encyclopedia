@@ -7,6 +7,8 @@
 .obsidian/workspace-mobile-old.json
 .obsidian/cache
 .obsidian/plugins/obsidian-git/data.json
+# Налаштування плагінів (можуть містити API-ключі) — лише локально
+.obsidian/plugins/*/data.json
 
 # macOS
 .DS_Store
