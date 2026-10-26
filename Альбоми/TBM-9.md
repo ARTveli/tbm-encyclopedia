@@ -1,13 +1,13 @@
 ---
 type: album
 socialImage: "covers/TBM-9.jpg"
-description: "TBM-9 · Масаюкі Такаянагі та Інститут музики нового століття · 1963. «П'ятничний джазовий куточок» (Friday Jazz Corner), що розпочався у 1961 році в шансон-лайв-хаусі «Ginparis» (Гінпарі) на Ґінзі…"
+description: "TBM-9 · Масаюкі Такаянагі та Інститут музики нового століття · 1971. «П'ятничний джазовий куточок» (Friday Jazz Corner), що розпочався у 1961 році в шансон-лайв-хаусі «Ginparis» (Гінпарі) на Ґінзі…"
 catalog: TBM-9
 artist: Масаюкі Такаянагі та Інститут музики нового століття
 artist_en: Masayuki Takayanagi and New Century Music Research Institute
 title: Ginparis Session ~ June 26, 1963
 title_ua: Сейшн у Гінпарі ~ 26 червня 1963 року
-year: 1963
+year: 1971
 label: Three Blind Mice Records
 art_director: Цутому Нішідзава
 personnel:
@@ -32,7 +32,7 @@ reissues:
 tags:
 - album
 - tbm
-- year/1963
+- year/1971
 - artist/Масаюкі Такаянагі та Інститут музики нового століття
 cover: covers/TBM-9.jpg
 ---
@@ -40,7 +40,7 @@ cover: covers/TBM-9.jpg
 ![[covers/TBM-9.jpg|400]]
 
 # TBM-9 — Ginparis Session ~ June 26, 1963
-**Масаюкі Такаянагі та Інститут музики нового століття** (Masayuki Takayanagi and New Century Music Research Institute) · 1963
+**Масаюкі Такаянагі та Інститут музики нового століття** (Masayuki Takayanagi and New Century Music Research Institute) · 1971 (запис 1963)
 
 ## Треки
 **Side A:**
