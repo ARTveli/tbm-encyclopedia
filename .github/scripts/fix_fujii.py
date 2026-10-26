@@ -26,10 +26,14 @@ OLD, NEW = "Інтерв'ю з Такеші Фуджі", "Інтерв'ю з Т�
 
 def fix(t):
     n = 0
-    for pat, rep in RULES:
-        t, k = re.subn(pat, rep, t)
-        n += k
-    return t, n
+    out = []
+    for ln in t.split("\n"):
+        if not ln.startswith("aliases:"):
+            for pat, rep in RULES:
+                ln, k = re.subn(pat, rep, ln)
+                n += k
+        out.append(ln)
+    return "\n".join(out), n
 
 
 def main():

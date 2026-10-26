@@ -1,7 +1,7 @@
 ---
 type: album
 socialImage: "covers/TBM-41.jpg"
-description: "TBM-41 · Тріо Цуйоші Ямамото · 1974. ※ TBM-42 — це перевидання альбому «Masaru Imada Quartet / Now!!» (TBM-2)."
+description: "TBM-41 · Тріо Цуйоші Ямамото · 1974. Клуб «Misty», що відкрився у жовтні 1973 року, розташовувався на першому підземному поверсі будівлі по правій стороні провулка, що відходив від вулиці поруч із…"
 catalog: TBM-41
 artist: Тріо Цуйоші Ямамото
 artist_en: Tsuyoshi Yamamoto Trio

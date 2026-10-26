@@ -74,7 +74,7 @@ cover: covers/TBM-31.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-31_liner|(1974) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-31_liner|Liner notes (1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

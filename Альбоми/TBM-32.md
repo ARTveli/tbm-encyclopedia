@@ -112,7 +112,7 @@ cover: covers/TBM-32.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-32_liner|(1974)]]
+- [[Liner_Notes/TBM-32_liner|Liner notes (1974)]]
 
 ## Рецензія
 

@@ -77,7 +77,7 @@ cover: covers/TBM-3.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-3_liner|(1970) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-3_liner|Liner notes (1970) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

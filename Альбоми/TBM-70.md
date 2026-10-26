@@ -124,7 +124,7 @@ cover: covers/TBM-70.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-70_liner|Liner Notes (1976)]]
+- [[Liner_Notes/TBM-70_liner|Liner notes (1976)]]
 
 ## Рецензія
 

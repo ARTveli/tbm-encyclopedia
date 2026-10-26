@@ -273,13 +273,14 @@ def main():
         print("\n[DRY-RUN] Перші 25 рядків нового index.md:\n")
         print("\n".join(new.split("\n")[:25]))
         return
-    first = index.with_name("index.md.backup-design")      # оригінал до першого запуску
-    if not first.exists():
-        shutil.copy2(index, first)
-    backup = index.with_name(f"index.md.backup-{datetime.now():%Y%m%d-%H%M%S}")
-    shutil.copy2(index, backup)
-    index.write_text(new, encoding="utf-8")
-    print(f"✓ index.md оновлено · бекап: {backup.name}")
+    if new != text:
+        bdir = a.vault.resolve().parent / "backups"
+        bdir.mkdir(exist_ok=True)
+        shutil.copy2(index, bdir / f"index.md.backup-{datetime.now():%Y%m%d-%H%M%S}")
+        index.write_text(new, encoding="utf-8")
+        print("✓ index.md оновлено (бекап у ~/TBM/backups/)")
+    else:
+        print("✓ index.md без змін")
     k = insert_liner_covers(a.vault, albums)
     print(f"✓ обкладинки на сторінках liner notes: оновлено {k}")
     r = build_liner_page(a.vault, albums)

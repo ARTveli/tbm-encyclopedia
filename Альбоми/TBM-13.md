@@ -75,7 +75,7 @@ cover: covers/TBM-13.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-13_liner|(1972) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-13_liner|Liner notes (1972) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

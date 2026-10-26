@@ -91,7 +91,7 @@ cover: covers/TBM-56.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-56_liner|(1975) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-56_liner|Liner notes (1975) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

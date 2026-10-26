@@ -100,7 +100,7 @@ cover: covers/TBM-18.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-18_liner|(1973) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-18_liner|Liner notes (1973) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 
