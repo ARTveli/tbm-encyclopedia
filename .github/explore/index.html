@@ -345,7 +345,9 @@ $("#t-instr").onclick = ()=>{ setTab("instr"); history.replaceState(null,"","#in
 /* ── ПОЛИЦЯ ── */
 const F = {q:"", decade:"all", awards:false, liner:false, sort:"year", instr:""};
 function initShelf(){
-  const decs = [["all","Усі"],["1960","60-ті"],["1970","70-ті"],["1980","80-ті"],["1990","90-ті+"]];
+  const inDec = (y,d)=> d===1990 ? y>=1990 : (y>=d && y<d+10);
+  const decs = [["all","Усі"],["1960","60-ті"],["1970","70-ті"],["1980","80-ті"],["1990","90-ті+"]]
+    .filter(([k])=> k==="all" || DB.albums.some(a=>inDec(+a.year||0,+k)));
   $("#decades").innerHTML = decs.map(([k,l])=>`<button class="chip" data-d="${k}" aria-pressed="${k==="all"}">${l}</button>`).join("");
   $("#decades").onclick = e=>{ const b=e.target.closest("button"); if(!b)return; F.decade=b.dataset.d;
     [...$("#decades").children].forEach(x=>x.setAttribute("aria-pressed", x===b)); renderShelf(); };
