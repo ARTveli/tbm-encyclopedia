@@ -4,12 +4,14 @@ title: "Who Cares: liner notes"
 catalog: TBM-31
 album_title: Who Cares
 album_artist: Квартет Такаші Мізухаші
+original_author: "Теруо Ісоно"
 year: 1974
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-31
+  - by/Теруо_Ісоно
 ---
 
 <!-- tbm-liner-cover:start -->

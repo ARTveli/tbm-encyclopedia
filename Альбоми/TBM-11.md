@@ -15,7 +15,7 @@ personnel:
 - Шігеко Тоя
 - Масару Імада
 - Ісоо Фукуї
-- Масаджі Нагашіба
+- Масаші Нагашіба
 reissues:
 - TBM-2511
 - MHCP-10029
@@ -51,7 +51,7 @@ cover: covers/TBM-11.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Масаджі Нагашіба</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="орган">org</abbr> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масаші-Нагашіба">Масаші Нагашіба</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ісоо-Фукуї">Ісоо Фукуї</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масару-Імада">Масару Імада</a> <abbr class="tbm-i" tabindex="0" data-t="орган">org</abbr> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Шігеко-Тоя">Шігеко Тоя</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -60,7 +60,7 @@ cover: covers/TBM-11.jpg
 - [[Артист — Шігеко Тоя|Шігеко Тоя]]
 - [[Артист — Масару Імада|Масару Імада]]
 - [[Артист — Ісоо Фукуї|Ісоо Фукуї]]
-- [[Артист — Масаджі Нагашіба|Масаджі Нагашіба]]
+- [[Артист — Масаші Нагашіба|Масаші Нагашіба]]
 
 ## Запис
 17 та 18 жовтня 1972 року Токіо, «Aoi Studio»

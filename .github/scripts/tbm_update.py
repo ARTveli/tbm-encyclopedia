@@ -11,12 +11,13 @@ tbm_update.py — одна команда, яка оновлює все зген
   2. fix_names           — одне написання імен музикантів
   3. fix_fujii           — «Такесі Фудзії»
   4. fix_liner           — назви сторінок liner notes, написання перекладача
-  5. build_artist_pages  — дискографії й інструменти на сторінках артистів
-  6. build_ensembles     — схеми ансамблів на сторінках альбомів
-  7. fix_artist_mentions — згадки артистів в інтерв'ю та нарисах
-  8. build_meta          — описи й картинки прев'ю
-  9. make_thumbs         — мініатюри обкладинок (якщо встановлено Pillow)
- 10. build_home          — головна, сторінка Liner Notes, обкладинки на liner notes
+  5. create_artist_pages — сторінки для нових музикантів зі складів
+  6. build_artist_pages  — дискографії й інструменти на сторінках артистів
+  7. build_ensembles     — схеми ансамблів на сторінках альбомів
+  8. fix_artist_mentions — згадки артистів в інтерв'ю та нарисах
+  9. build_meta          — описи й картинки прев'ю
+ 10. make_thumbs         — мініатюри обкладинок (якщо встановлено Pillow)
+ 11. build_home          — головна, сторінка Liner Notes, обкладинки на liner notes
 """
 import argparse
 import importlib.util
@@ -25,7 +26,7 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-STEPS = ["liner_import", "fix_names", "fix_fujii", "fix_liner", "build_artist_pages",
+STEPS = ["liner_import", "fix_names", "fix_fujii", "fix_liner", "create_artist_pages", "build_artist_pages",
          "build_ensembles", "fix_artist_mentions", "build_meta", "make_thumbs", "build_home"]
 
 

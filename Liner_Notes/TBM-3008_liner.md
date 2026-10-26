@@ -4,12 +4,14 @@ title: "Mr. Wonderful: liner notes"
 catalog: TBM-3008
 album_title: Mr. Wonderful
 album_artist: Аяко Хосокава
+original_author: "Йошіфуру Такеїчі"
 year: 1977
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-3008
+  - by/Йошіфуру_Такеїчі
 ---
 
 <!-- tbm-liner-cover:start -->

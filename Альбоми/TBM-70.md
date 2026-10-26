@@ -1,26 +1,26 @@
 ---
 type: album
 socialImage: "covers/TBM-70.jpg"
-description: "TBM-70 · Шуко Мідзуно & Тосіюкі Міяма та New Herd · 1976. Шуко Мідзуно залишив три роботи на лейблі TBM."
+description: "TBM-70 · Шуко Мізуно & Тосіюкі Міяма та New Herd · 1976. Шуко Мізуно залишив три роботи на лейблі TBM."
 catalog: TBM-70
-artist: Шуко Мідзуно & Тосіюкі Міяма та New Herd
+artist: Шуко Мізуно & Тосіюкі Міяма та New Herd
 artist_en: Shuko Mizuno & Toshiyuki Miyama & The New Herd
 title: The World of Shuko Mizuno
-title_ua: Світ Шуко Мідзуно
+title_ua: Світ Шуко Мізуно
 year: 1976
 label: Three Blind Mice Records
 sound_engineer: Йосіхіко Каннарі (Epicurus)
 art_director: Цутому Нішідзава
 personnel:
 - Кенджі Морі
-- Кіку Мураока
+- Кіку Секігучі
 - Реймонд Чан
-- Шуко Мідзуно
+- Шуко Мізуно
 - Мівако Секігучі
 - Хідето Канаї
-- Ісао Йота
-- Хіроші Імамура
-- Тадатоші Учікі
+- Ісао Йомота
+- Юджі Імамура
+- Тадатоші Найкі
 - Сеїчі Накамура
 - Йошікадзу Кіші
 - Осаму Шіомура
@@ -41,21 +41,21 @@ personnel:
 - Кадзумі Такеда
 - Коджіро Ямагучі
 - Терухіко Катаока
-- Масамічі Камітака
+- Масамічі Уетака
 reissues:
 - THCD-393
 tags:
 - album
 - tbm
 - year/1976
-- artist/Шуко Мідзуно & Тосіюкі Міяма та New Herd
+- artist/Шуко Мізуно & Тосіюкі Міяма та New Herd
 cover: covers/TBM-70.jpg
 ---
 
 ![[covers/TBM-70.jpg|400]]
 
 # TBM-70 — The World of Shuko Mizuno
-**Шуко Мідзуно & Тосіюкі Міяма та New Herd** (Shuko Mizuno & Toshiyuki Miyama & The New Herd) · 1976
+**Шуко Мізуно & Тосіюкі Міяма та New Herd** (Shuko Mizuno & Toshiyuki Miyama & The New Herd) · 1976
 
 ## Треки
 **Side A:**
@@ -71,22 +71,22 @@ cover: covers/TBM-70.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Ісао Йота</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Хіроші Імамура</span> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шуїчі-Муракамі">Шуїчі Муракамі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Хідето-Канаї">Хідето Канаї</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Акіра-Оказава">Акіра Оказава</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><span>Шуко Мідзуно</span> <abbr class="tbm-i" tabindex="0" data-t="синтезатор">syn</abbr> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Мівако-Секігучі">Мівако Секігучі</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кадзумі-Ватанабе">Кадзумі Ватанабе</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr class="tbm-i" tabindex="0" data-t="дерев&#x27;яні духові">reed</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><span>Кіку Мураока</span> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сеїчі-Накамура">Сеїчі Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="дерев&#x27;яні духові">reed</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сейджі-Іноуе">Сейджі Іноуе</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Судзукі">Коджі Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мамору-Морі">Мамору Морі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошікадзу-Кіші">Йошікадзу Кіші</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Теруо-Фукушіма">Теруо Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Кадзумі Такеда</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коджіро-Ямагучі">Коджіро Ямагучі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терухіко-Катаока">Терухіко Катаока</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Масамічі Камітака</span> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Реймонд-Чан">Реймонд Чан</a> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span></div>
-<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><span>Тосіюкі Міяма</span> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ісао-Йомота">Ісао Йомота</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Юджі-Імамура">Юджі Імамура</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Шуїчі-Муракамі">Шуїчі Муракамі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Хідето-Канаї">Хідето Канаї</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Акіра-Оказава">Акіра Оказава</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Шуко-Мізуно">Шуко Мізуно</a> <abbr class="tbm-i" tabindex="0" data-t="синтезатор">syn</abbr> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Мівако-Секігучі">Мівако Секігучі</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Кадзумі-Ватанабе">Кадзумі Ватанабе</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr class="tbm-i" tabindex="0" data-t="дерев&#x27;яні духові">reed</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кіку-Секігучі">Кіку Секігучі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сеїчі-Накамура">Сеїчі Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="дерев&#x27;яні духові">reed</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сейджі-Іноуе">Сейджі Іноуе</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Судзукі">Коджі Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мамору-Морі">Мамору Морі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошікадзу-Кіші">Йошікадзу Кіші</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Теруо-Фукушіма">Теруо Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кадзумі-Такеда">Кадзумі Такеда</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Коджіро-Ямагучі">Коджіро Ямагучі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терухіко-Катаока">Терухіко Катаока</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Масамічі-Уетака">Масамічі Уетака</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="strings"><i></i><a href="../Артисти/Артист-—-Реймонд-Чан">Реймонд Чан</a> <abbr class="tbm-i" tabindex="0" data-t="скрипка">vln</abbr></span></div>
+<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><a href="../Артисти/Артист-—-Тосіюкі-Міяма">Тосіюкі Міяма</a> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
 - [[Артист — Кенджі Морі|Кенджі Морі]]
-- [[Артист — Кіку Мураока|Кіку Мураока]]
+- [[Артист — Кіку Секігучі|Кіку Секігучі]]
 - [[Артист — Реймонд Чан|Реймонд Чан]]
-- [[Артист — Шуко Мідзуно|Шуко Мідзуно]]
+- [[Артист — Шуко Мізуно|Шуко Мізуно]]
 - [[Артист — Мівако Секігучі|Мівако Секігучі]]
 - [[Артист — Хідето Канаї|Хідето Канаї]]
-- [[Артист — Ісао Йота|Ісао Йота]]
-- [[Артист — Хіроші Імамура|Хіроші Імамура]]
-- [[Артист — Тадатоші Учікі|Тадатоші Учікі]]
+- [[Артист — Ісао Йомота|Ісао Йомота]]
+- [[Артист — Юджі Імамура|Юджі Імамура]]
+- [[Артист — Тадатоші Найкі|Тадатоші Найкі]]
 - [[Артист — Сеїчі Накамура|Сеїчі Накамура]]
 - [[Артист — Йошікадзу Кіші|Йошікадзу Кіші]]
 - [[Артист — Осаму Шіомура|Осаму Шіомура]]
@@ -107,7 +107,7 @@ cover: covers/TBM-70.jpg
 - [[Артист — Кадзумі Такеда|Кадзумі Такеда]]
 - [[Артист — Коджіро Ямагучі|Коджіро Ямагучі]]
 - [[Артист — Терухіко Катаока|Терухіко Катаока]]
-- [[Артист — Масамічі Камітака|Масамічі Камітака]]
+- [[Артист — Масамічі Уетака|Масамічі Уетака]]
 
 ## Запис
 26 травня 1976 року Живий запис у Токіо, «Yamaha Hall, Ginza» під час фестивалю «5 Days in Jazz '76»
@@ -124,25 +124,25 @@ cover: covers/TBM-70.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-70_liner|Liner notes (1976)]]
+- [[Liner_Notes/TBM-70_liner|Такесі Фудзії (1976)]]
 
 ## Рецензія
 
-Шуко Мідзуно залишив три роботи на лейблі TBM. Усі вони були створені завдяки залученню Тосіюкі Міями та оркестру «New Herd», які на той час мали найсильніший і найкреативніший склад джаз-оркестру в Японії. Для виконання творів композитора Мідзуно, який представляє сучасну музику, не було більш підходящого джазового оркестру, ніж «New Herd». І це було вже доведено двома попередніми роботами: «Jazz Orchestra '73» ([[TBM-1001]]) та «Jazz Orchestra '75» ([[TBM-1004]]).
+Шуко Мізуно залишив три роботи на лейблі TBM. Усі вони були створені завдяки залученню Тосіюкі Міями та оркестру «New Herd», які на той час мали найсильніший і найкреативніший склад джаз-оркестру в Японії. Для виконання творів композитора Мідзуно, який представляє сучасну музику, не було більш підходящого джазового оркестру, ніж «New Herd». І це було вже доведено двома попередніми роботами: «Jazz Orchestra '73» ([[TBM-1001]]) та «Jazz Orchestra '75» ([[TBM-1004]]).
 
 Спираючись на результати та резонанс, який ці два твори викликали в японському джазовому світі, цей альбом був записаний наживо з тим самим «New Herd» та запрошеними різноманітними гостями, так само, як і студійні записи. Виконання таких складних партитур наживо стало надзвичайно напруженим випробуванням як для слухачів, так і для музикантів. І це випробування увінчалося блискучим успіхом.
 
 Того дня я (автор статті) слухав виступ комбо у першій половині та відтворення «Jazz Orchestra '75» у другій, затамувавши подих. У середині 1970-х років джазовий світ набув зовсім іншого вигляду, ніж раніше. Пройшовши через фрі-джаз 60-х років, багато креативних музикантів шляхом спроб і помилок намагалися створити музику, яку неможливо було б відрізнити від сучасної академічної музики. Присутність на цьому концерті, який досяг певної вершини таких спроб, дала мені відчуття того самого настрою.
-"Розмовляти мовою джазу за допомогою лексики сучасної музики" — це було неймовірно захоплююче. І я впевнений, що такі почуття відчував не тільки я. Більше того, у музику були інтегровані елементи традиційної японської культури, хоча в основі лежала західна музика. Як і свідчить назва концерту, це було справжнє "відображення світу Шуко Мідзуно".
+"Розмовляти мовою джазу за допомогою лексики сучасної музики" — це було неймовірно захоплююче. І я впевнений, що такі почуття відчував не тільки я. Більше того, у музику були інтегровані елементи традиційної японської культури, хоча в основі лежала західна музика. Як і свідчить назва концерту, це було справжнє "відображення світу Шуко Мізуно".
 
 На платівці на стороні А записана перша частина концерту (виступ комбо), а на стороні Б — друга частина («New Herd» + зіркові гості). З точки зору хронометражу, того дня було зіграно вдвічі більше музики, тож хотілося б почути й іншу частину запису.
-Трек A① включає японське звучання в абстрактне виконання, тоді як A② — це брас-рок з потужним фанковим бітом; вони мають абсолютно різні настрої. (На самому концерті композиція A②, виконана «Комбо Шуко Мідзуно I», прозвучала першою). Сторона Б повністю віддана «Jazz Orchestra '75 Part 2». На відміну від студійного запису, де час був обмежений, Кадзумі Ватанабе (g) та Сеїчі Накамура (ts) розгортають тут тривалі соло. Цей альбом не поступається студійній версії, і я хочу представити його для порівняння як насичений змістом запис.
+Трек A① включає японське звучання в абстрактне виконання, тоді як A② — це брас-рок з потужним фанковим бітом; вони мають абсолютно різні настрої. (На самому концерті композиція A②, виконана «Комбо Шуко Мізуно I», прозвучала першою). Сторона Б повністю віддана «Jazz Orchestra '75 Part 2». На відміну від студійного запису, де час був обмежений, Кадзумі Ватанабе (g) та Сеїчі Накамура (ts) розгортають тут тривалі соло. Цей альбом не поступається студійній версії, і я хочу представити його для порівняння як насичений змістом запис.
 
 Фестиваль «5 Days in Jazz» 1976 року був перенесений із залу «Nippon Toshi Center Hall» в Акасаці, де він проходив до цього, до залу «Yamaha Hall» на Гінзі. Програма була такою:
 * **17-те:** «Вечір фортепіанного джазу» = Тріо [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]], Сольне фортепіано Масару Імади, Тріо [[Артист — Фуміо Ітабаші|Фуміо Ітабаші]]
 * **18-те:** «Вечір оркестрового джазу» = Тосіюкі Міяма та New Herd, Тацуя Такахаші та Tokyo Union
 * **25-те:** «Вечір джазового вокалу» = [[Артист — Шігеко Тоя|Шігеко Тоя]], [[Артист — Марі Накамото|Марі Накамото]], [[Артист — Коджі Моріяма|Коджі Моріяма]], Тошіо Оіда. Акомпанемент = Тріо [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]. Спеціальні гості = [[Артист — Хітомі Уеда|Хітомі Уеда]] (vo), [[Артист — Ісао Судзукі|Ісао Судзукі]] (b), Кадзумі Ватанабе (g), Джиммі Хоппс (ds)
-* **26-те:** «Світ Шуко Мідзуно» = Два типи комбо з оригінальними творами, «Jazz Orchestra '75» (Тосіюкі Міяма та New Herd + зіркові гості)
+* **26-те:** «Світ Шуко Мізуно» = Два типи комбо з оригінальними творами, «Jazz Orchestra '75» (Тосіюкі Міяма та New Herd + зіркові гості)
 * **27-ме:** «Вечір супер-комбо» = Квінтет Джорджа Оцуки + Шунзо Оно (tp), Квартет [[Артист — Мотохіко Хіно|Мотохіко Хіно]] + [[Артист — Мабумі Ямагучі|Мабумі Ямагучі]] (ts)
 
 Усі виступи були записані наживо і видані на альбомах: «Tokyo Union / Got The Spirit» ([[TBM-68]]), «Tsuyoshi Yamamoto Trio / Summertime» ([[TBM-69]]) і, власне, цій роботі.

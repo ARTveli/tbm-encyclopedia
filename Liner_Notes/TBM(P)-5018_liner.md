@@ -4,12 +4,14 @@ title: "Cool Jojo: liner notes"
 catalog: TBM(P)-5018
 album_title: Cool Jojo
 album_artist: Masayuki Takayanagi Second Concept
+original_author: "Масахіко Юх"
 year: 1979
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM(P)-5018
+  - by/Масахіко_Юх
 ---
 
 <!-- tbm-liner-cover:start -->
@@ -77,5 +79,5 @@ tags:
 
 【13 січня 1980 / Масахіко Юх】
 
-*Переклад: ЮКО М. ДАРВЕН*
+*Переклад: Юко М. Дарвен*
 

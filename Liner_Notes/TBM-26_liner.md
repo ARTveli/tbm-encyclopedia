@@ -4,12 +4,14 @@ title: "Bojo: liner notes"
 catalog: TBM-26
 album_title: Bojo
 album_artist: Тріо Куніхіко Сугано + 1
+original_author: "Теруо Ісоно"
 year: 1974
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-26
+  - by/Теруо_Ісоно
 ---
 
 <!-- tbm-liner-cover:start -->

@@ -4,12 +4,14 @@ title: "Blue City: liner notes"
 catalog: TBM-24
 album_title: Blue City
 album_artist: Квартет Ісао Судзукі + 1
+original_author: "Теруо Ісоно, Осаму Учіда"
 year: 1974
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-24
+  - by/Теруо_Ісоно
 ---
 
 <!-- tbm-liner-cover:start -->

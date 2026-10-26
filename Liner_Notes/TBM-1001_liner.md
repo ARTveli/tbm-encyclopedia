@@ -3,16 +3,18 @@ type: liner_notes
 title: "Jazz Orchestra '73: liner notes"
 catalog: TBM-1001
 album_title: Jazz Orchestra '73
-album_artist: Шуко Мідзуно
+album_artist: Шуко Мізуно
+original_author: "Масахіса Сегава, Шьоїчі Юї, Шуко Мізуно, Такесі Фудзії"
 year: 1973
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-1001
+  - by/Масахіса_Сегава
 ---
 
 <!-- tbm-liner-cover:start -->
-<div class="tbm-lnc"><a href="../Альбоми/TBM-1001"><img src="../covers/thumbs/TBM-1001.webp" alt="Jazz Orchestra &#x27;73"></a><div><span>TBM-1001</span><b>Jazz Orchestra &#x27;73</b><small>Шуко Мідзуно, 1973</small><a href="../Альбоми/TBM-1001">Сторінка альбому →</a></div></div>
+<div class="tbm-lnc"><a href="../Альбоми/TBM-1001"><img src="../covers/thumbs/TBM-1001.webp" alt="Jazz Orchestra &#x27;73"></a><div><span>TBM-1001</span><b>Jazz Orchestra &#x27;73</b><small>Шуко Мізуно, 1973</small><a href="../Альбоми/TBM-1001">Сторінка альбому →</a></div></div>
 <!-- tbm-liner-cover:end -->
 
 # [[TBM-1001]]

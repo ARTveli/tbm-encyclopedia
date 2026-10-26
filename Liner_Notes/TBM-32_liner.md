@@ -4,11 +4,13 @@ title: "New Herd: liner notes"
 catalog: TBM-32
 album_title: New Herd
 album_artist: Тосіюкі Міяма та New Herd
+original_author: "Тосіюкі Міяма"
 year: 1974
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-32
+  - by/Тосіюкі_Міяма
 ---
 
 <!-- tbm-liner-cover:start -->

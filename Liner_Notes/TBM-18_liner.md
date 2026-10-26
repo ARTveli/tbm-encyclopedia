@@ -4,12 +4,14 @@ title: "Unicorn: liner notes"
 catalog: TBM-18
 album_title: Unicorn
 album_artist: Група Теруо Накамури
+original_author: "Йозо Іванамі"
 year: 1973
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-18
+  - by/Йозо_Іванамі
 ---
 
 <!-- tbm-liner-cover:start -->

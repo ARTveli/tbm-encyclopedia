@@ -4,11 +4,13 @@ title: "You Are My Sunshine: liner notes"
 catalog: TBM-35
 album_title: You Are My Sunshine
 album_artist: Тріо Джорджа Оцуки
+original_author: "Йошіо Макі"
 year: 1974
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-35
+  - by/Йошіо_Макі
 ---
 
 <!-- tbm-liner-cover:start -->

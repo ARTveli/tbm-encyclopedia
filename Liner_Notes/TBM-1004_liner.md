@@ -3,16 +3,18 @@ type: liner_notes
 title: "Jazz Orchestra '75: liner notes"
 catalog: TBM-1004
 album_title: Jazz Orchestra '75
-album_artist: Шуко Мідзуно
+album_artist: Шуко Мізуно
+original_author: "Шуко Мізуно, Такесі Фудзії"
 year: 1975
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-1004
+  - by/Шуко_Мізуно
 ---
 
 <!-- tbm-liner-cover:start -->
-<div class="tbm-lnc"><a href="../Альбоми/TBM-1004"><img src="../covers/thumbs/TBM-1004.webp" alt="Jazz Orchestra &#x27;75"></a><div><span>TBM-1004</span><b>Jazz Orchestra &#x27;75</b><small>Шуко Мідзуно, 1975</small><a href="../Альбоми/TBM-1004">Сторінка альбому →</a></div></div>
+<div class="tbm-lnc"><a href="../Альбоми/TBM-1004"><img src="../covers/thumbs/TBM-1004.webp" alt="Jazz Orchestra &#x27;75"></a><div><span>TBM-1004</span><b>Jazz Orchestra &#x27;75</b><small>Шуко Мізуно, 1975</small><a href="../Альбоми/TBM-1004">Сторінка альбому →</a></div></div>
 <!-- tbm-liner-cover:end -->
 
 # Шуко Мізуно (Shuko Mizuno)

@@ -15,7 +15,7 @@ import argparse, re, shutil
 from datetime import datetime
 from pathlib import Path
 
-REPL = {"Юко М. DARWEN": "Юко М. Дарвен", "Такео Фудзії": "Такеші Фудзії"}
+REPL = {"Юко М. DARWEN": "Юко М. Дарвен", "ЮКО М. ДАРВЕН": "Юко М. Дарвен", "Такео Фудзії": "Такеші Фудзії"}
 IGN = {".github", ".obsidian", "_originals", "copilot", "media-lib", ".git"}
 
 

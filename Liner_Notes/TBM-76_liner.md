@@ -4,12 +4,14 @@ title: "Ako's Dream: liner notes"
 catalog: TBM-76
 album_title: Ako's Dream
 album_artist: Секстет Ісао Судзукі
+original_author: "Осаму Учіда"
 year: 1976
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-76
+  - by/Осаму_Учіда
 ---
 
 <!-- tbm-liner-cover:start -->

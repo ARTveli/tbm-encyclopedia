@@ -90,7 +90,7 @@ cover: covers/TBM-8.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-8_liner|Liner notes (1971) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-8_liner|Масамічі Окадзакі (1971) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

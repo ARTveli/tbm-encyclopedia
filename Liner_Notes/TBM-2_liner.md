@@ -4,12 +4,14 @@ title: "Now!!: liner notes"
 catalog: TBM-2
 album_title: Now!!
 album_artist: Квартет Масару Імади
+original_author: "Шьоїчі Юї"
 year: 1970
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-2
+  - by/Шьоїчі_Юї
 ---
 
 <!-- tbm-liner-cover:start -->

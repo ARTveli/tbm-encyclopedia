@@ -98,7 +98,7 @@ cover: covers/TBM-24.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-24_liner|Liner notes (1974) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-24_liner|Теруо Ісоно, Осаму Учіда (1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

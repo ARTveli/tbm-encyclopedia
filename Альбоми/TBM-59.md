@@ -15,7 +15,7 @@ awards: 1976 рік «Jazz Disc Award, Найкращий запис, 7-ме м�
 personnel:
 - Цуйоші Ямамото
 - Тецуджіро Обара
-- Акіра Дайоші
+- Акіра Ою
 reissues:
 - TBM-2559
 - TBM
@@ -56,14 +56,14 @@ cover: covers/TBM-59.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Акіра Дайоші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тецуджіро-Обара">Тецуджіро Обара</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Акіра-Ою">Акіра Ою</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
 - [[Артист — Тецуджіро Обара|Тецуджіро Обара]]
-- [[Артист — Акіра Дайоші|Акіра Дайоші]]
+- [[Артист — Акіра Ою|Акіра Ою]]
 
 ## Запис
 17 грудня 1975 року Токіо, «Aoi Studio»

@@ -21,7 +21,7 @@ personnel:
 - Джоджі Курікі
 - Масахіко Танігучі
 - Кейічі Йошіхіро
-- Хіроші Кобарі
+- Фумі Кобарі
 - Шунзо Оно
 tags:
 - album
@@ -53,7 +53,7 @@ cover: covers/TBM-CD-5038.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кейічі-Йошіхіро">Кейічі Йошіхіро</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Хіроші Кобарі</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Джоджі-Курікі">Джоджі Курікі</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Масахіко-Танігучі">Масахіко Танігучі</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Такао-Нагаї">Такао Нагаї</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроя-Міякава">Хіроя Міякава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроші-Тамура">Хіроші Тамура</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шігеру-Масуї">Шігеру Масуї</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кейічі-Йошіхіро">Кейічі Йошіхіро</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Фумі-Кобарі">Фумі Кобарі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Джоджі-Курікі">Джоджі Курікі</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Масахіко-Танігучі">Масахіко Танігучі</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Такао-Нагаї">Такао Нагаї</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроя-Міякава">Хіроя Міякава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хіроші-Тамура">Хіроші Тамура</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Шігеру-Масуї">Шігеру Масуї</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мікінорі-Фуджівара">Мікінорі Фуджівара</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Хіденорі-Мідорікава">Хіденорі Мідорікава</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шунзо-Оно">Шунзо Оно</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -68,7 +68,7 @@ cover: covers/TBM-CD-5038.jpg
 - [[Артист — Джоджі Курікі|Джоджі Курікі]]
 - [[Артист — Масахіко Танігучі|Масахіко Танігучі]]
 - [[Артист — Кейічі Йошіхіро|Кейічі Йошіхіро]]
-- [[Артист — Хіроші Кобарі|Хіроші Кобарі]]
+- [[Артист — Фумі Кобарі|Фумі Кобарі]]
 - [[Артист — Шунзо Оно|Шунзо Оно]]
 
 ## Запис

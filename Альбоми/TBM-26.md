@@ -14,7 +14,7 @@ art_director: Цутому Нішідзава
 personnel:
 - Куніхіко Сугано
 - Йоічі Кімура
-- Міцухіко Такада
+- Міцухіко Таката
 - Йоічі Огава
 reissues:
 - TBM-2526
@@ -53,14 +53,14 @@ cover: covers/TBM-26.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Міцухіко Такада</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Йоічі-Огава">Йоічі Огава</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Йоічі-Кімура">Йоічі Кімура</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Куніхіко-Сугано">Куніхіко Сугано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Міцухіко-Таката">Міцухіко Таката</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Йоічі-Огава">Йоічі Огава</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Йоічі-Кімура">Йоічі Кімура</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Куніхіко-Сугано">Куніхіко Сугано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
 - [[Артист — Куніхіко Сугано|Куніхіко Сугано]]
 - [[Артист — Йоічі Кімура|Йоічі Кімура]]
-- [[Артист — Міцухіко Такада|Міцухіко Такада]]
+- [[Артист — Міцухіко Таката|Міцухіко Таката]]
 - [[Артист — Йоічі Огава|Йоічі Огава]]
 
 ## Запис
@@ -85,7 +85,7 @@ cover: covers/TBM-26.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-26_liner|Liner notes (1974) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-26_liner|Теруо Ісоно (1974) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

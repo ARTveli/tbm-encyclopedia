@@ -15,7 +15,7 @@ personnel:
 - Кенджі Морі
 - Хідео Ічікава
 - Таміо Кавабата
-- Аріхіде Курата
+- Зайшу Курата
 tags:
 - album
 - tbm
@@ -43,7 +43,7 @@ cover: covers/TBM-27.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Аріхіде Курата</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Таміо-Кавабата">Таміо Кавабата</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Зайшу-Курата">Зайшу Курата</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Таміо-Кавабата">Таміо Кавабата</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -52,7 +52,7 @@ cover: covers/TBM-27.jpg
 - [[Артист — Кенджі Морі|Кенджі Морі]]
 - [[Артист — Хідео Ічікава|Хідео Ічікава]]
 - [[Артист — Таміо Кавабата|Таміо Кавабата]]
-- [[Артист — Аріхіде Курата|Аріхіде Курата]]
+- [[Артист — Зайшу Курата|Зайшу Курата]]
 
 ## Запис
 22 березня (сторона B) та 26 березня (сторона A) 1974 року Живий запис у Токіо, «Nippon Toshi Center Hall» під час фестивалю «5 Days in Jazz '74»

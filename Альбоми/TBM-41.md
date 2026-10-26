@@ -13,7 +13,7 @@ sound_engineer: Йосіхіко Каннарі (Aoi)
 art_director: Цутому Нішідзава
 personnel:
 - Цуйоші Ямамото
-- Акіра Ойоші
+- Акіра Ою
 - Тошіо Осумі
 - Коджі Моріяма
 reissues:
@@ -58,13 +58,13 @@ cover: covers/TBM-41.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тошіо-Осумі">Тошіо Осумі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Коджі-Моріяма">Коджі Моріяма</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><span>Акіра Ойоші</span> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тошіо-Осумі">Тошіо Осумі</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Коджі-Моріяма">Коджі Моріяма</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Акіра-Ою">Акіра Ою</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Цуйоші-Ямамото">Цуйоші Ямамото</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
 
 - [[Артист — Цуйоші Ямамото|Цуйоші Ямамото]]
-- [[Артист — Акіра Ойоші|Акіра Ойоші]]
+- [[Артист — Акіра Ою|Акіра Ою]]
 - [[Артист — Тошіо Осумі|Тошіо Осумі]]
 - [[Артист — Коджі Моріяма|Коджі Моріяма]]
 

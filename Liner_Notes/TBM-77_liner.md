@@ -4,11 +4,13 @@ title: "Standards: liner notes"
 catalog: TBM-77
 album_title: Standards
 album_artist: Тріо Масару Імади
+original_author: "Ейічі Фуджі"
 year: 1976
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-77
+  - by/Ейічі_Фудзії
 ---
 
 <!-- tbm-liner-cover:start -->

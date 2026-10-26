@@ -4,11 +4,13 @@ title: "Remember of Love: liner notes"
 catalog: TBM-5007
 album_title: Remember of Love
 album_artist: Квартет Масару Імади
+original_author: "Хіроші Ямагучі, Шінджі Ідехара"
 year: 1978
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-5007
+  - by/Хіроші_Ямагучі
 ---
 
 <!-- tbm-liner-cover:start -->

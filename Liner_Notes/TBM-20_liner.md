@@ -4,12 +4,14 @@ title: "Step: liner notes"
 catalog: TBM-20
 album_title: Step
 album_artist: Секстет Наосуке Міямото
+original_author: "Теруо Ісоно"
 year: 1973
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-20
+  - by/Теруо_Ісоно
 ---
 
 <!-- tbm-liner-cover:start -->

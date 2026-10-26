@@ -17,7 +17,7 @@ personnel:
 - Цуйоші Гото
 - Кунджі Шігі
 - Масайоші Йонеда
-- Шьоджі Накаяма
+- Масахару Накаяма
 reissues:
 - TBM-CD-1820
 - MHCP-10028
@@ -51,7 +51,7 @@ cover: covers/TBM-20.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Шьоджі Накаяма</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Наосуке-Міямото">Наосуке Міямото</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масайоші-Йонеда">Масайоші Йонеда</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масахару-Накаяма">Масахару Накаяма</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Наосуке-Міямото">Наосуке Міямото</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Масайоші-Йонеда">Масайоші Йонеда</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Такаші-Фуруя">Такаші Фуруя</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Цуйоші-Гото">Цуйоші Гото</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кунджі-Шігі">Кунджі Шігі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -62,7 +62,7 @@ cover: covers/TBM-20.jpg
 - [[Артист — Цуйоші Гото|Цуйоші Гото]]
 - [[Артист — Кунджі Шігі|Кунджі Шігі]]
 - [[Артист — Масайоші Йонеда|Масайоші Йонеда]]
-- [[Артист — Шьоджі Накаяма|Шьоджі Накаяма]]
+- [[Артист — Масахару Накаяма|Масахару Накаяма]]
 
 ## Запис
 25 та 26 серпня 1973 року Токіо, «Aoi Studio»
@@ -81,7 +81,7 @@ cover: covers/TBM-20.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-20_liner|Liner notes (1973) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-20_liner|Теруо Ісоно (1973) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

@@ -22,14 +22,14 @@ personnel:
 - Козабуро Ямакі
 - Кійоші Такано
 - Ясуші Фукушіма
-- Ісао Йота
+- Ісао Йомота
 - Коджі Судзукі
 - Мамору Морі
 - Кадзумі Такеда
 - Йошікадзу Кіші
 - Фуміо Шірояма
 - Терухіко Катаока
-- Масамічі Камітака
+- Масамічі Уетака
 reissues:
 - TBM-2548
 - PJ-1008
@@ -64,9 +64,9 @@ cover: covers/TBM-48.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Ісао Йота</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span></div>
-<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сейджі-Іноуе">Сейджі Іноуе</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Судзукі">Коджі Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мамору-Морі">Мамору Морі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шьоджі-Іто">Шьоджі Іто</a> <abbr class="tbm-i" tabindex="0" data-t="бас-тромбон">btb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Кадзумі Такеда</span> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошікадзу-Кіші">Йошікадзу Кіші</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Фуміо-Шірояма">Фуміо Шірояма</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терухіко-Катаока">Терухіко Катаока</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><span>Масамічі Камітака</span> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
-<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><span>Тосіюкі Міяма</span> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ісао-Йомота">Ісао Йомота</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясуші-Фукушіма">Ясуші Фукушіма</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Кійоші-Такано">Кійоші Такано</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Козабуро-Ямакі">Козабуро Ямакі</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr> <abbr class="tbm-i" tabindex="0" data-t="аранжування">arr</abbr></span></div>
+<div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Ацуо-Шіраї">Ацуо Шіраї</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Сейджі-Іноуе">Сейджі Іноуе</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенічі-Тада">Кенічі Тада</a> <abbr class="tbm-i" tabindex="0" data-t="баритон-саксофон">bs</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Коджі-Судзукі">Коджі Судзукі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Мамору-Морі">Мамору Морі</a> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шігеру-Каміморі">Шігеру Каміморі</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Осаму-Шіомура">Осаму Шіомура</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Шьоджі-Іто">Шьоджі Іто</a> <abbr class="tbm-i" tabindex="0" data-t="бас-тромбон">btb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кадзумі-Такеда">Кадзумі Такеда</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Йошікадзу-Кіші">Йошікадзу Кіші</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Фуміо-Шірояма">Фуміо Шірояма</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Терухіко-Катаока">Терухіко Катаока</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Масамічі-Уетака">Масамічі Уетака</a> <abbr class="tbm-i" tabindex="0" data-t="тромбон">tb</abbr></span></div>
+<div class="tbm-ens-row tbm-ens-extra"><b>Аранжування та диригування</b><span class="tbm-ens-m" data-g="other"><i></i><a href="../Артисти/Артист-—-Тосіюкі-Міяма">Тосіюкі Міяма</a> <abbr class="tbm-i" tabindex="0" data-t="диригент">con</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
@@ -81,14 +81,14 @@ cover: covers/TBM-48.jpg
 - [[Артист — Козабуро Ямакі|Козабуро Ямакі]]
 - [[Артист — Кійоші Такано|Кійоші Такано]]
 - [[Артист — Ясуші Фукушіма|Ясуші Фукушіма]]
-- [[Артист — Ісао Йота|Ісао Йота]]
+- [[Артист — Ісао Йомота|Ісао Йомота]]
 - [[Артист — Коджі Судзукі|Коджі Судзукі]]
 - [[Артист — Мамору Морі|Мамору Морі]]
 - [[Артист — Кадзумі Такеда|Кадзумі Такеда]]
 - [[Артист — Йошікадзу Кіші|Йошікадзу Кіші]]
 - [[Артист — Фуміо Шірояма|Фуміо Шірояма]]
 - [[Артист — Терухіко Катаока|Терухіко Катаока]]
-- [[Артист — Масамічі Камітака|Масамічі Камітака]]
+- [[Артист — Масамічі Уетака|Масамічі Уетака]]
 
 ## Запис
 27 травня 1975 року Живий запис у Токіо, «Nippon Toshi Center Hall» під час фестивалю «5 Days in Jazz '75»
@@ -127,6 +127,6 @@ cover: covers/TBM-48.jpg
 
 У треку A② солірує [[Артист — Осаму Шіомура|Осаму Шіомура]] (tb). Його впевнена гра в баладі цілком заслуговує на увагу, адже на той час він був висхідною зіркою. А в заголовному треку альбому A③ була реалізована чудова ідея: інструментальне перекладення вокального соло (запис 1951 року) Бетті Роше — ексклюзивної співачки оркестру Еллінгтона у 50-х роках. Соло виконують Такано (p), Шіомура (tb), Кіші (tp) та Морі (ts) саме в такому порядку.
 
-Сторона Б відходить від Еллінгтона і починається з блюзу B①, написаного Ямакі на основі відомої японської пісні «Yuyake Koyake» (Захід сонця). Соло грають [[Артист — Шігеру Каміморі|Шігеру Каміморі]] (tp), Фуміо Шірояма (tp), [[Артист — Терухіко Катаока|Терухіко Катаока]] (tb), Шіомура (tb), [[Артист — Кенічі Тада|Кенічі Тада]] (fl) та Морі (ts). Концерт завершується ритмічною композицією B② Фредді Хаббарда (tp). Порядок соло: Ісао Йота (ds), Такано (p), Морі (ts), [[Артист — Ацуо Шіраї|Ацуо Шіраї]] (as), Кіші (tp), Катаока (tb).
+Сторона Б відходить від Еллінгтона і починається з блюзу B①, написаного Ямакі на основі відомої японської пісні «Yuyake Koyake» (Захід сонця). Соло грають [[Артист — Шігеру Каміморі|Шігеру Каміморі]] (tp), Фуміо Шірояма (tp), [[Артист — Терухіко Катаока|Терухіко Катаока]] (tb), Шіомура (tb), [[Артист — Кенічі Тада|Кенічі Тада]] (fl) та Морі (ts). Концерт завершується ритмічною композицією B② Фредді Хаббарда (tp). Порядок соло: Ісао Йомота (ds), Такано (p), Морі (ts), [[Артист — Ацуо Шіраї|Ацуо Шіраї]] (as), Кіші (tp), Катаока (tb).
 
 До речі, у липні, після завершення цих виступів, «New Herd» взяли участь у «Newport Jazz Festival» в Нью-Йорку, де також здобули величезне визнання.

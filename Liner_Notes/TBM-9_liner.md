@@ -4,12 +4,14 @@ title: "Ginparis Session ~ June 26, 1963: liner notes"
 catalog: TBM-9
 album_title: Ginparis Session ~ June 26, 1963
 album_artist: Масаюкі Такаянагі та Інститут музики нового століття
+original_author: "Осаму Учіда, Масахіса Сегава"
 year: 1963
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-9
+  - by/Осаму_Учіда
 ---
 
 <!-- tbm-liner-cover:start -->

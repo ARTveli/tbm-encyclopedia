@@ -4,12 +4,14 @@ title: "Black Orpheus: liner notes"
 catalog: TBM-63
 album_title: Black Orpheus
 album_artist: Тріо Ісао Судзукі
+original_author: "Теруо Ісоно"
 year: 1976
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-63
+  - by/Теруо_Ісоно
 ---
 
 <!-- tbm-liner-cover:start -->

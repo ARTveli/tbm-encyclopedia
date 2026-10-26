@@ -76,7 +76,7 @@ cover: covers/TBM-60.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-60_liner|Liner notes (1976)]]
+- [[Liner_Notes/TBM-60_liner|Хісаміцу Ногучі (1976)]]
 
 ## Рецензія
 

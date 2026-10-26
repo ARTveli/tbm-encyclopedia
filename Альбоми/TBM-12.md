@@ -15,7 +15,7 @@ personnel:
 - Сунао Вада
 - Такехіро Хонда
 - Міцуакі Фуруно
-- Аріхіде Курата
+- Зайшу Курата
 - Кунджі Шігі
 - Кенджі Морі
 reissues:
@@ -54,7 +54,7 @@ cover: covers/TBM-12.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><span>Аріхіде Курата</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Міцуакі-Фуруно">Міцуакі Фуруно</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Такехіро-Хонда">Такехіро Хонда</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Зайшу-Курата">Зайшу Курата</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Міцуакі-Фуруно">Міцуакі Фуруно</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Такехіро-Хонда">Такехіро Хонда</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Сунао-Вада">Сунао Вада</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Кенджі-Морі">Кенджі Морі</a> <abbr class="tbm-i" tabindex="0" data-t="альт-саксофон">as</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Кунджі-Шігі">Кунджі Шігі</a> <abbr class="tbm-i" tabindex="0" data-t="флюгельгорн">fgh</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -63,7 +63,7 @@ cover: covers/TBM-12.jpg
 - [[Артист — Сунао Вада|Сунао Вада]]
 - [[Артист — Такехіро Хонда|Такехіро Хонда]]
 - [[Артист — Міцуакі Фуруно|Міцуакі Фуруно]]
-- [[Артист — Аріхіде Курата|Аріхіде Курата]]
+- [[Артист — Зайшу Курата|Зайшу Курата]]
 - [[Артист — Кунджі Шігі|Кунджі Шігі]]
 - [[Артист — Кенджі Морі|Кенджі Морі]]
 

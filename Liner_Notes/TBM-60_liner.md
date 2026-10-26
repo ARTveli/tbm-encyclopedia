@@ -4,11 +4,13 @@ title: "Solo Piano: liner notes"
 catalog: TBM-60
 album_title: Solo Piano
 album_artist: Масару Імада
+original_author: "Хісаміцу Ногучі"
 year: 1976
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-60
+  - by/Хісаміцу_Ногучі
 ---
 
 <!-- tbm-liner-cover:start -->

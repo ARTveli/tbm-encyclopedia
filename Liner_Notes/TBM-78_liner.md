@@ -4,11 +4,13 @@ title: "Sunrise / Sunset: liner notes"
 catalog: TBM-78
 album_title: Sunrise / Sunset
 album_artist: Квартет Ісоо Фукуї
+original_author: "Акіра Ямато"
 year: 1976
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-78
+  - by/Акіра_Ямато
 ---
 
 <!-- tbm-liner-cover:start -->

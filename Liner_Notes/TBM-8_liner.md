@@ -4,12 +4,14 @@ title: "Yellow Carcass In The Blue: liner notes"
 catalog: TBM-8
 album_title: Yellow Carcass In The Blue
 album_artist: Кіміко Касаї + Квартет Косуке Міне
+original_author: "Масамічі Окадзакі"
 year: 1971
 translator: Юко М. Дарвен
 tags:
   - liner_notes
   - tbm
   - catalog/TBM-8
+  - by/Масамічі_Окадзакі
 ---
 
 <!-- tbm-liner-cover:start -->

@@ -16,7 +16,7 @@ personnel:
 - Стів Гроссман
 - Джордж Кейблс
 - Ленні Вайт
-- Алверн Банн
+- Альва Бан
 - Кейджі Кішіда
 - Сенді Х'юїтт
 - Чарльз Салліван
@@ -61,7 +61,7 @@ cover: covers/TBM-18.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ленні-Вайт">Ленні Вайт</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Алверн Банн</span> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кейджі-Кішіда">Кейджі Кішіда</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Аль-Музон">Аль Музон</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Рональд-Джексон">Рональд Джексон</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Теруо-Накамура">Теруо Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Джордж-Кейблс">Джордж Кейблс</a> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Х&#x27;юберт-Івз-III">Х&#x27;юберт Івз III</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Джон-Міллер">Джон Міллер</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Ленні-Вайт">Ленні Вайт</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Альва-Бан">Альва Бан</a> <abbr class="tbm-i" tabindex="0" data-t="конги">conga</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Кейджі-Кішіда">Кейджі Кішіда</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Аль-Музон">Аль Музон</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Рональд-Джексон">Рональд Джексон</a> <abbr class="tbm-i" tabindex="0" data-t="перкусія">per</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Теруо-Накамура">Теруо Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Джордж-Кейблс">Джордж Кейблс</a> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Х&#x27;юберт-Івз-III">Х&#x27;юберт Івз III</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="електропіаніно">elp</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Джон-Міллер">Джон Міллер</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span></div>
 <div class="tbm-ens-row"><b>Солісти</b><span class="tbm-ens-m" data-g="reeds"><i></i><a href="../Артисти/Артист-—-Стів-Гроссман">Стів Гроссман</a> <abbr class="tbm-i" tabindex="0" data-t="сопрано-саксофон">ss</abbr> <abbr class="tbm-i" tabindex="0" data-t="тенор-саксофон">ts</abbr></span><span class="tbm-ens-m" data-g="brass"><i></i><a href="../Артисти/Артист-—-Чарльз-Салліван">Чарльз Салліван</a> <abbr class="tbm-i" tabindex="0" data-t="труба">tp</abbr></span><span class="tbm-ens-m" data-g="vocal"><i></i><a href="../Артисти/Артист-—-Сенді-Х&#x27;юїтт">Сенді Х&#x27;юїтт</a> <abbr class="tbm-i" tabindex="0" data-t="вокал">vo</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
@@ -71,7 +71,7 @@ cover: covers/TBM-18.jpg
 - [[Артист — Стів Гроссман|Стів Гроссман]]
 - [[Артист — Джордж Кейблс|Джордж Кейблс]]
 - [[Артист — Ленні Вайт|Ленні Вайт]]
-- [[Артист — Алверн Банн|Алверн Банн]]
+- [[Артист — Альва Бан|Альва Бан]]
 - [[Артист — Кейджі Кішіда|Кейджі Кішіда]]
 - [[Артист — Сенді Х'юїтт|Сенді Х'юїтт]]
 - [[Артист — Чарльз Салліван|Чарльз Салліван]]
@@ -100,7 +100,7 @@ cover: covers/TBM-18.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-18_liner|Liner notes (1973) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-18_liner|Йозо Іванамі (1973) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

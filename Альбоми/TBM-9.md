@@ -95,7 +95,7 @@ cover: covers/TBM-9.jpg
 
 ## Liner Notes (переклади)
 
-- [[Liner_Notes/TBM-9_liner|Liner notes (1963) — пер. Юко М. Дарвен]]
+- [[Liner_Notes/TBM-9_liner|Осаму Учіда, Масахіса Сегава (1963) — пер. Юко М. Дарвен]]
 
 ## Рецензія
 

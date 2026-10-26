@@ -20,7 +20,7 @@ personnel:
 - Ейджі Ясуда
 - Ясухіко Сато
 - Масанорі Андо
-- Йошімі Сато
+- Такемі Сато
 tags:
 - album
 - tbm
@@ -53,7 +53,7 @@ cover: covers/TBM-XR-5046.jpg
 
 <!-- tbm-ensemble:start -->
 <div class="tbm-ens">
-<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тошіхіро-Акамацу">Тошіхіро Акамацу</a> <abbr class="tbm-i" tabindex="0" data-t="вібрафон">vib</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масанорі-Андо">Масанорі Андо</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><span>Йошімі Сато</span> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Кацумі-Хіраїші">Кацумі Хіраїші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ейджі-Ясуда">Ейджі Ясуда</a> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясухіко-Сато">Ясухіко Сато</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Юкі-Арімаса">Юкі Арімаса</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="клавішні">key</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Саданорі-Накамура">Саданорі Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
+<div class="tbm-ens-row"><b>Ритм-секція</b><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Тошіхіро-Акамацу">Тошіхіро Акамацу</a> <abbr class="tbm-i" tabindex="0" data-t="вібрафон">vib</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Масанорі-Андо">Масанорі Андо</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="drums"><i></i><a href="../Артисти/Артист-—-Такемі-Сато">Такемі Сато</a> <abbr class="tbm-i" tabindex="0" data-t="ударні">ds</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Кацумі-Хіраїші">Кацумі Хіраїші</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ейджі-Ясуда">Ейджі Ясуда</a> <abbr class="tbm-i" tabindex="0" data-t="бас-гітара">elb</abbr></span><span class="tbm-ens-m" data-g="bass"><i></i><a href="../Артисти/Артист-—-Ясухіко-Сато">Ясухіко Сато</a> <abbr class="tbm-i" tabindex="0" data-t="бас (контрабас)">b</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Юкі-Арімаса">Юкі Арімаса</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr></span><span class="tbm-ens-m" data-g="keys"><i></i><a href="../Артисти/Артист-—-Хідео-Ічікава">Хідео Ічікава</a> <abbr class="tbm-i" tabindex="0" data-t="фортепіано">p</abbr> <abbr class="tbm-i" tabindex="0" data-t="клавішні">key</abbr></span><span class="tbm-ens-m" data-g="guitar"><i></i><a href="../Артисти/Артист-—-Саданорі-Накамура">Саданорі Накамура</a> <abbr class="tbm-i" tabindex="0" data-t="гітара">g</abbr></span></div>
 <p class="tbm-ens-stage">слухачі</p>
 </div>
 <!-- tbm-ensemble:end -->
@@ -66,7 +66,7 @@ cover: covers/TBM-XR-5046.jpg
 - [[Артист — Ейджі Ясуда|Ейджі Ясуда]]
 - [[Артист — Ясухіко Сато|Ясухіко Сато]]
 - [[Артист — Масанорі Андо|Масанорі Андо]]
-- [[Артист — Йошімі Сато|Йошімі Сато]]
+- [[Артист — Такемі Сато|Такемі Сато]]
 
 ## Запис
 17, 25 серпня та 5 вересня 2003 року Токіо, «Crescent Studio»
