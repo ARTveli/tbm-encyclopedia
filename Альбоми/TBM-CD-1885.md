@@ -34,6 +34,10 @@ cover: covers/TBM-CD-1885.jpg
 # TBM-CD-1885 — Okuni of Izumo
 **Ті і Кампані** (Tee & Company) · 1989
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-other"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Інше та збірки · 1988–2003</a> <span class="tbm-ser-d">Окремі пізні релізи поза основними серіями та збірки The Famous Sound of TBM.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. Kettou / Duel (Дуель)

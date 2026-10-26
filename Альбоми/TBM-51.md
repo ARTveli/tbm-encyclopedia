@@ -35,6 +35,10 @@ cover: covers/TBM-51.jpg
 # TBM-51 — Lover Man
 **Йошіо Отомо = Хідефумі Токі Alto Madness** (Yoshio Otomo = Hidefumi Toki Alto Madness) · 1975
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. Scrapple from the Apple (Скраппл фром зі Еппл / Недоїдки з яблука)

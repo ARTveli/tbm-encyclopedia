@@ -36,6 +36,10 @@ cover: covers/TBM-28.jpg
 # TBM-28 — When a Man Loves a Woman
 **Квартет Такаші Мізухаші + 2** (Takashi Mizuhashi Quartet + 2) · 1974
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. When a Man Loves a Woman (Коли чоловік кохає жінку)

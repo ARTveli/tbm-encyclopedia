@@ -35,6 +35,10 @@ cover: covers/TBM-20.jpg
 # TBM-20 — Step
 **Секстет Наосуке Міямото** (Naosuke Miyamoto Sextet) · 1973
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. Step Right Up to the Bottom (Степ райт ап ту зе боттом)

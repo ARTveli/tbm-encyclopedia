@@ -51,6 +51,10 @@ cover: covers/TBM-45.jpg
 # TBM-45 — Ode to Birds
 **Хідето Канаї та King's Roar** (Hideto Kanai King's Roar) · 1975
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. Ode to Birds Part I / Ode to Birds Part II Monster Bird / Part III Phoenix (Ода птахам Частина I / Ода птахам Частина II Чудо-птах / Частина III Фенікс)

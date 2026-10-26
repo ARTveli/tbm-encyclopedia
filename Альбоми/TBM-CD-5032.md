@@ -31,6 +31,10 @@ cover: covers/TBM-CD-5032.jpg
 # TBM-CD-5032 — Guitar Music
 **Тріо Такаюкі Като** (Takayuki Kato Trio) · 1989
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-cd"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">CD ⁄ XRCD · 1985–2003</a> <span class="tbm-ser-d">Нові записи на CD та XRCD періоду TBM Video і TBM Records. У книзі — продовження частини 2 серії 5000.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. What Was (Що було)

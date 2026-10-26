@@ -42,6 +42,10 @@ cover: covers/TBM-6.jpg
 # TBM-6 — Q
 **Група Хідето Канаї** (Kanai Hideto Group) · 1971
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. April Songs for Kanai, Zui Zui Zui Do Tubadaba (Ейпріл Сонгс фор Канаї, Зуї Зуї Зуї Ду Тубадаба)

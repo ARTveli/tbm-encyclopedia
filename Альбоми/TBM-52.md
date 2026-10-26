@@ -32,6 +32,10 @@ cover: covers/TBM-52.jpg
 # TBM-52 — The In Crowd
 **Тріо Цуйоші Ямамото** (Tsuyoshi Yamamoto Trio) · 1974
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-main"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Основна серія · TBM-1~78</a> <span class="tbm-ser-d">Основна серія лейблу 1970–76 рр.: ціна 2000 єн, перший наклад 1000 примірників, запис на звичайних 38 см/с.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **Side A:**
 1. Blues in the Basement (Блюз у підвалі)

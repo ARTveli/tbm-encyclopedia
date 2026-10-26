@@ -844,3 +844,41 @@ abbr.tbm-i {
     }
   }
 }
+
+// ── Серія каталогу на сторінці альбому (build_series.py) ──
+.tbm-ser {
+  --sc: #9a9184;
+  margin: 0.2rem 0 1.2rem;
+  padding: 0.45rem 0.75rem;
+  border-left: 4px solid var(--sc);
+  background: var(--highlight);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  .tbm-ser-tag {
+    font-weight: 600;
+    color: var(--dark);
+    white-space: nowrap;
+    margin-right: 0.35rem;
+  }
+  .tbm-ser-d { color: var(--gray); }
+  &.s-s1000 { --sc: #b4432b; }
+  &.s-s1800 { --sc: #c2456f; }
+  &.s-s3000 { --sc: #2f6b8a; }
+  &.s-s4000 { --sc: #a07a12; }
+  &.s-s5000 { --sc: #4f7a3a; }
+  &.s-pap   { --sc: #7b4b94; }
+  &.s-cd    { --sc: #2a8a7c; }
+  &.s-other { --sc: #d9822b; }
+}
+:root[saved-theme="dark"] .tbm-ser {
+  &.s-main  { --sc: #8d8475; }
+  &.s-s1000 { --sc: #e0694d; }
+  &.s-s1800 { --sc: #e57a9c; }
+  &.s-s3000 { --sc: #5fa3c7; }
+  &.s-s4000 { --sc: #d4a93a; }
+  &.s-s5000 { --sc: #82b065; }
+  &.s-pap   { --sc: #b086c9; }
+  &.s-cd    { --sc: #4fbcab; }
+  &.s-other { --sc: #f0a057; }
+}

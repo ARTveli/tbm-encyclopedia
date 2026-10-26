@@ -58,6 +58,9 @@ jobs:
           cd quartz
           rm -rf .github content
           npm ci
+          # «~» між словами не має закреслювати текст (TBM-1~78): лише «~~текст~~»
+          sed -i 's/\[remarkGfm, smartypants\] : \[remarkGfm\]/[[remarkGfm, { singleTilde: false }], smartypants] : [[remarkGfm, { singleTilde: false }]]/' quartz/plugins/transformers/gfm.ts
+          grep -q "singleTilde: false" quartz/plugins/transformers/gfm.ts
 
       - name: Copy vault to Quartz content
         run: |

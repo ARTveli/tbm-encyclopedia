@@ -22,6 +22,10 @@ cover: covers/TBM-XR-9002.jpg
 # TBM-XR-9002 — Super Analog Sound of Three Blind Mice
 **V.A.** (Різні виконавці) · 
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-other"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Інше та збірки · 1988–2003</a> <span class="tbm-ser-d">Окремі пізні релізи поза основними серіями та збірки The Famous Sound of TBM.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. Swingin' on a Camel (Свінг на верблюді) 〜 з альбому Квартету Шьоджі Йокоучі «Blonde on the Rocks» (TBM-65)

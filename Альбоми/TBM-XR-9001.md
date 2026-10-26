@@ -23,6 +23,10 @@ cover: covers/TBM-XR-9001.jpg
 # TBM-XR-9001 — The Famous Sound of Three Blind Mice
 **V.A.** (Різні виконавці) · 
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-other"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Інше та збірки · 1988–2003</a> <span class="tbm-ser-d">Окремі пізні релізи поза основними серіями та збірки The Famous Sound of TBM.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 
 

@@ -14,6 +14,7 @@ tbm_update.py — одна команда, яка оновлює все зген
   5. create_artist_pages — сторінки для нових музикантів зі складів
   6. build_artist_pages  — дискографії й інструменти на сторінках артистів
   7. build_ensembles     — схеми ансамблів на сторінках альбомів
+  7б. build_series       — рядок «Серія …» на сторінках альбомів
   8. fix_artist_mentions — згадки артистів в інтерв'ю та нарисах
   9. build_meta          — описи й картинки прев'ю
  10. make_thumbs         — мініатюри обкладинок (якщо встановлено Pillow)
@@ -27,7 +28,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 STEPS = ["liner_import", "fix_names", "fix_fujii", "fix_liner", "create_artist_pages", "build_artist_pages",
-         "build_ensembles", "fix_artist_mentions", "build_meta", "make_thumbs", "build_home"]
+         "build_ensembles", "build_series", "fix_artist_mentions", "build_meta", "make_thumbs", "build_home"]
 
 
 def main():

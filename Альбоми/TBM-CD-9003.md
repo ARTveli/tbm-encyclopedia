@@ -23,6 +23,10 @@ cover: covers/TBM-CD-9003.jpg
 # TBM-CD-9003 — The Famous Sound of Three Blind Mice Vol. 3
 **V.A.** (Різні виконавці) · 
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-other"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Інше та збірки · 1988–2003</a> <span class="tbm-ser-d">Окремі пізні релізи поза основними серіями та збірки The Famous Sound of TBM.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. Softly, as in a Morning Sunrise (Ніжно, як на світанку) 〜 з альбому Тріо Масару Імади «Standard» (TBM-77)

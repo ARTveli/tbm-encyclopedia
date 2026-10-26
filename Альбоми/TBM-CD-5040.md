@@ -31,6 +31,10 @@ cover: covers/TBM-CD-5040.jpg
 # TBM-CD-5040 — Blues Meeting
 **Ушіо Сакаї за участю Сунао Вади** (Ushio Sakai featuring Sunao Wada) · 1993
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-cd"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">CD ⁄ XRCD · 1985–2003</a> <span class="tbm-ser-d">Нові записи на CD та XRCD періоду TBM Video і TBM Records. У книзі — продовження частини 2 серії 5000.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. Down Stairs (Вниз по сходах)

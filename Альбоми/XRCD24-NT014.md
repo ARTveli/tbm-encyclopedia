@@ -32,6 +32,10 @@ cover: covers/XRCD24-NT014.jpg
 # XRCD24-NT014 — The Boss
 **Квінтет Сеїчі Накамури + 2** (Seiichi Nakamura Quintet + 2) · 1974
 
+<!-- tbm-series:start -->
+<div class="tbm-ser s-other"><a class="tbm-ser-tag" href="../Каталог#серії-каталогу">Інше та збірки · 1988–2003</a> <span class="tbm-ser-d">Окремі пізні релізи поза основними серіями та збірки The Famous Sound of TBM.</span></div>
+<!-- tbm-series:end -->
+
 ## Треки
 **CD:**
 1. Old Folks (Старі друзі)
