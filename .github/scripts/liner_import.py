@@ -92,9 +92,13 @@ def parse_original(text):
                 author = m.group(1).strip()
             break
     if not author:
-        m = re.search(r"(?:Текст|Автор(?: тексту)?)[^:\n]*:\**\s*([^\n*(]+)", body)
+        m = re.search(r"(?:Текст|Автор(?: тексту)?|Коментар[іi]?(?: \(анотації\))?)[^:\n]*:\**\s*([^\n*(]+)", body)
         if m:
             author = m.group(1).strip(" *")
+    if not author:  # «## 《Коментар》» і наступний рядок «**Ім'я**»
+        m = re.search(r"^#+\s*\W*(?:Коментар|Рецензія|Огляд)\W*\s*\n+\*\*([^*\n]+)\*\*\s*$", body, re.M)
+        if m:
+            author = m.group(1).strip()
     tr = None
     m = re.search(r"\*Переклад[:\s]+([^*\n]+?)\*", body)
     if m:
