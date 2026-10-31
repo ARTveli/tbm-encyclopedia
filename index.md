@@ -15,7 +15,7 @@ tags: [index, home]
 <div class="tbm-stats">
 <div><b>142</b><span>альбомів</span></div>
 <div><b>422</b><span>музикантів</span></div>
-<div><b>40</b><span>liner notes</span></div>
+<div><b>46</b><span>liner notes</span></div>
 <div><b>11</b><span>статей та інтерв&#x27;ю</span></div>
 </div>
 <div class="tbm-daily" id="tbm-daily"></div>
@@ -30,7 +30,7 @@ tags: [index, home]
 <a href="Інтервʼю/"><span>05</span><b>Інтерв&#x27;ю</b><small>4 розмови</small></a>
 <a href="Topics/"><span>06</span><b>Тематичні нариси</b><small>7 нарисів</small></a>
 <a href="Передмова"><span>07</span><b>Передмова</b><small>Про книгу та переклад</small></a>
-<a href="https://artveli.github.io/tbm-encyclopedia/Liner_Notes/" data-router-ignore><span>08</span><b>Liner Notes</b><small>40 текстів з конвертів</small></a>
+<a href="https://artveli.github.io/tbm-encyclopedia/Liner_Notes/" data-router-ignore><span>08</span><b>Liner Notes</b><small>46 текстів з конвертів</small></a>
 </div>
 <!-- tbm-home:end -->
 

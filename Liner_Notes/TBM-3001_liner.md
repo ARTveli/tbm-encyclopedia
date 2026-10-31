@@ -6,7 +6,7 @@ album_title: "Maiden Voyage"
 album_artist: "Тацуя Такахаші та Tokyo Union"
 original_author: "Масахіса Сегава"
 translator: "Юко М. Дарвен"
-year: 1976
+year: 1977
 tags:
   - liner_notes
   - tbm
@@ -15,7 +15,7 @@ tags:
 ---
 
 <!-- tbm-liner-cover:start -->
-<div class="tbm-lnc"><a href="../Альбоми/TBM-3001"><img src="../covers/thumbs/TBM-3001.webp" alt="Maiden Voyage"></a><div><span>TBM-3001</span><b>Maiden Voyage</b><small>Тацуя Такахаші та Tokyo Union, 1976</small><a href="../Альбоми/TBM-3001">Сторінка альбому →</a></div></div>
+<div class="tbm-lnc"><a href="../Альбоми/TBM-3001"><img src="../covers/thumbs/TBM-3001.webp" alt="Maiden Voyage"></a><div><span>TBM-3001</span><b>Maiden Voyage</b><small>Тацуя Такахаші та Tokyo Union, 1977</small><a href="../Альбоми/TBM-3001">Сторінка альбому →</a></div></div>
 <!-- tbm-liner-cover:end -->
 
 # “MAIDEN VOYAGE” (“Перше плавання”)

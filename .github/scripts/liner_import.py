@@ -78,6 +78,17 @@ def autolink(text, names, cats):
     return "\n".join(out)
 
 
+NOTE_HEAD = r"Коментар|Рецензі|Огляд|Нотатки|Анотації|Liner Notes|Стаття"
+
+
+def _names(s):
+    """«Шоїчі Юї (Shoichi Yui), Норійоші Кояма (Noriyoshi Koyama)» → «Шоїчі Юї, Норійоші Кояма»."""
+    s = re.sub(r"\([^)]*\)", "", s or "")
+    parts = [p.strip(" *_—–-:") for p in re.split(r",|\s+та\s+|\s+і\s+", s)]
+    parts = [p for p in parts if p and re.search(r"[А-ЯІЇЄҐA-Z]", p) and len(p) <= 40]
+    return ", ".join(parts) or None
+
+
 def parse_original(text):
     body = text
     if body.startswith("---\n"):
@@ -91,14 +102,29 @@ def parse_original(text):
             if m:
                 author = m.group(1).strip()
             break
-    if not author:
-        m = re.search(r"(?:Текст|Автор(?: тексту)?|Коментар[іi]?(?: \(анотації\))?)[^:\n]*:\**\s*([^\n*(]+)", body)
+    if not author:  # рядок-метадані: «Автор: …», «Коментарі (анотації): A (Latin), B (Latin)»
+        m = re.search(r"^[ \t]*(?:[*-][ \t]+)?\**[ \t]*(?:Текст|Автор(?: тексту)?|Коментар[іi]?(?: \(анотації\))?|Анотації|Liner notes)"
+                      r"[ \t]*\**[ \t]*:[ \t]*\**[ \t]*(.+)$", body, re.M | re.I)
+        if m:
+            author = _names(m.group(1))
+    if not author:  # заголовок розділу з текстом + ім'я в ньому або наступним рядком
+        lines = body.split("\n")
+        for i, line in enumerate(lines):
+            if not re.match(r"^#+\s", line) or not re.search(NOTE_HEAD, line, re.I):
+                continue
+            after = line.split("》", 1)[1] if "》" in line else ""
+            if _names(after):
+                author = _names(after)
+                break
+            nxt = next((x.strip() for x in lines[i + 1:i + 4] if x.strip()), "")
+            m = re.match(r"^(\*{1,2}|_)([^*_\n]{3,80})\1$", nxt)
+            if m and not re.search(r"[.!?:;«]", m.group(2)):
+                author = _names(m.group(2))
+                break
+    if not author:  # стара логіка: «Текст …: Ім'я» будь-де
+        m = re.search(r"(?:Текст|Автор(?: тексту)?)[^:\n]*:\**\s*([^\n*(]+)", body)
         if m:
             author = m.group(1).strip(" *")
-    if not author:  # «## 《Коментар》» і наступний рядок «**Ім'я**»
-        m = re.search(r"^#+\s*\W*(?:Коментар|Рецензія|Огляд)\W*\s*\n+\*\*([^*\n]+)\*\*\s*$", body, re.M)
-        if m:
-            author = m.group(1).strip()
     tr = None
     m = re.search(r"\*Переклад[:\s]+([^*\n]+?)\*", body)
     if m:
@@ -141,9 +167,10 @@ def import_new(v, albums, dry):
         if a["year"]:
             fm.append(f"year: {a['year']}")
         fm += ["tags:", "  - liner_notes", "  - tbm", f"  - catalog/{a['cat']}"]
-        if author:
-            tag = re.sub(r"[^\w-]+", "_", author).strip("_")
-            fm.append(f"  - by/{tag}")
+        for au in (author or "").split(","):  # кілька авторів — окремий тег на кожного
+            tag = re.sub(r"[^\w-]+", "_", au.strip()).strip("_")
+            if tag:
+                fm.append(f"  - by/{tag}")
         out = v / "Liner_Notes" / f"{safe(a['cat'])}_liner.md"
         text = "---\n" + "\n".join(fm) + "\n---\n\n" + autolink(body.strip("\n"), names, cats) + "\n"
         made.append((out, a["cat"], author))
