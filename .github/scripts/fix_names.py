@@ -67,6 +67,8 @@ NAMES = {
     "Кіку Мураока": "Кіку Секігучі", "Хіроші Імамура": "Юджі Імамура", "Йошімі Сато": "Такемі Сато",
     "Хіроші Кобарі": "Фумі Кобарі", "Норіо Осава": "Ясуо Осава",
 }
+# окреме прізвище без імені (незмінюване), напр. «музика Мідзуно»
+SURNAMES = {"Мідзуно": "Мізуно"}
 # не імена — прибрати зі складів (frontmatter і список «## Склад»)
 PERSONNEL_DROP = {"Гість", "Гості", "Струнний оркестр", "Фортепіанне тріо"}
 # у складі альбому замість імені стояла назва гурту
@@ -77,6 +79,7 @@ RENAME = ["Масаабу Кікучі", "Джорджі Курікі", "Есп�
 IGN = {".github", ".obsidian", "_originals", "copilot", "media-lib", ".git"}
 L = r"A-Za-zА-Яа-яІіЇїЄєҐґ'ʼ’"
 PAT = re.compile(rf"(?<![{L}])(" + "|".join(re.escape(k) for k in sorted(NAMES, key=len, reverse=True)) + rf")(?![{L}])")
+SPAT = re.compile(rf"(?<![{L}])(" + "|".join(re.escape(k) for k in SURNAMES) + rf")(?![{L}])")
 
 
 def _sub_keep_aliases(t, fn):
@@ -85,7 +88,8 @@ def _sub_keep_aliases(t, fn):
 
 
 def fix_text(t):
-    t = _sub_keep_aliases(t, lambda ln: PAT.sub(lambda m: NAMES[m.group(1)], ln))
+    t = _sub_keep_aliases(t, lambda ln: SPAT.sub(lambda m: SURNAMES[m.group(1)],
+                                                 PAT.sub(lambda m: NAMES[m.group(1)], ln)))
     t = t.replace("[[Артист — Дует Такаші Мізухаші", "[[Артист — Такаші Мізухаші")
     m = re.match(r"^---\n(.*?)\n---\n", t, re.S)
     if m and "personnel:" in m.group(1):
